@@ -1,7 +1,7 @@
 title:            The Knowsy Ferret
 description:     
 logo: ferret.jpg
-disqus_shortname: 
+disqus_shortname: theknowsyferret
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://theknowsyferret.github.io
