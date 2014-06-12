@@ -8,8 +8,8 @@ image:
   feature: 
   credit: 
   creditlink: 
-comments: 
-share: 
+comments: true
+share: true
 ---
 <img src="../images/schrappen.png" alt="Wordcloud met de woorden
 schrappen, Elsschotproef en Kill your darlings">

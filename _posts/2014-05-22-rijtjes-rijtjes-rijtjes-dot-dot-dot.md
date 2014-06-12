@@ -8,8 +8,8 @@ image:
   feature: 
   credit: 
   creditlink: 
-comments: 
-share: 
+comments: true
+share: true
 ---
 
 Het leren van eindeloze rijtjes woorden vond ik vroeger

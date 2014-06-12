@@ -8,8 +8,8 @@ image:
   feature: 
   credit: 
   creditlink: 
-comments: 
-share: 
+comments: true
+share: true
 ---
 
 Na de zomervakanties kwamen mijn zus en ik terug op de basisschool en mochten wij samen met onze medeleerlingen onze belevenissen

@@ -8,8 +8,8 @@ image:
   feature: 
   credit: 
   creditlink: 
-comments: 
-share: 
+comments: true
+share: true
 ---
 Alinea’s geven structuur aan webteksten en maken ze makkelijk scanbaar voor de lezer. 
 

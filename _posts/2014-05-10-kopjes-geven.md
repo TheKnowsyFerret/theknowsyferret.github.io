@@ -8,8 +8,8 @@ image:
   feature: 
   credit: 
   creditlink:
-comments: 
-share: 
+comments: true
+share: true
 ---
 Neem even de tijd en vergelijk onderstaande teksten. Welke tekst leest
 fijner?
