@@ -63,7 +63,7 @@ schoolbeleid te komen” met “De rector spant zich in om het schoolbeleid te v
 Hoe kijk jij aan tegen het schrappen van tekst? Schieten jou nog andere tips te binnen? Laat het me weten!
 <br><br>
 
-Bronnen:<br>
+<small>Bronnen:<br>
 C. de Wert & G. Poort (2010). <a
 href="http://www.bol.com/nl/p/handboek-webredactie/1001004009905814">Handboek
 webredactie</a>.  Zaltbommel:Thema.<br>
@@ -72,7 +72,7 @@ href="http://www.bol.com/nl/p/essentie-van-communicatie/1001004006475012/">
 Essentie
 van communicatie</a>. Houten: Noordhoff Uitgevers.<br>
 <a href="http://taaladvies.net/taal/advies/vraag/565/naamwoordstijl/">Taaladvies.net</a>
-
+</small>
 
 
 
