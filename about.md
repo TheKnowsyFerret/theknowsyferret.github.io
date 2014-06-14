@@ -11,8 +11,7 @@ image:
 ---
 
 Hoe schrijf ik goede teksten voor mijn website? Wat kan ik doen om
-mijn site vindbaar te maken? Is mijn website of blog
-gebruikersvriendelijk? Wat is het nut van het gebruik van metadata en
+mijn site vindbaar te maken? Is mijn website gebruikersvriendelijk? Wat is het nut van het gebruik van metadata en
 hoe voer ik dit in? 
 
 Dit is zomaar een greep uit de vele onderwerpen waar The Knowsy Ferret antwoord op geeft. Aan de
