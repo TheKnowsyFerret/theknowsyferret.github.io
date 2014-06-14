@@ -10,8 +10,11 @@ image:
 comments: true
 share: true
 ---
-<img src="../images/omgekeerde_piramide.jpg" alt="De opgerolde
-piramide" class="floatright">  
+<figure>
+<a href="../images/omgekeerde_piramide.jpg"><img
+src="../images/omgekeerde-piramide.jpg" alt="De omgekeerde piramide"></a>
+<figcaption>(De omgekeerde piramide)</figcaption>
+</figure>
 Informatieve teksten hebben als doel de lezer te informeren of kennis
 bij te brengen. Nieuwsberichten zijn hier een goed voorbeeld van,
 evenals beleidsrapporten of onderzoeksverslagen. Ook bij gevoelige
@@ -29,8 +32,8 @@ details.
 De omgekeerde piramide hanteert de volgende regels:  
 <ul>
 <li><strong>De kop geeft antwoord op de vragen "wat" en
-"wie"</strong>.  
-Voorbeeld: <i>"Oranje is een gevaarlijke outsider voor de
+"wie"</strong>.
+<br>Voorbeeld: <i>"Oranje is een gevaarlijke outsider voor de
 wereldtitel."</i> (www.nu.nl, 14 juni 2014)
 " Wie" is hier "Oranje". "Wat" is "een gevaarlijke outsider voor de
 wereldtitel". De kernboodschap is dat het Nederlands elftal een
