@@ -21,7 +21,7 @@ De beste manier om informatieve teksten te schrijven is volgens de
 methode van de "omgekeerde piramide". Je begint dan met de
 kernboodschap en eindigt met minder belangrijke informatie: de
 details.
-<br>
+<br><br>
 
 ##De omgekeerde piramide: de regels
 De omgekeerde piramide hanteert de volgende regels:  
