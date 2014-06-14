@@ -54,7 +54,7 @@ afvallen, zonder dat de kern van de tekst erboven, verloren
 gaat. Kortom, als de lezer besluit alleen de kop en de lead (eerste
 alinea) wil lezen, krijgt hij of zij toch de kernboodschap mee.
 
-##Richtlijnn bij het schrijven van informatieve teksten
+##Richtlijnen bij het schrijven van informatieve teksten
 Hou bij het schrijven van een informatieve tekst, naast de methode
 van de "omgekeerde piramide", rekening met de volgende
 richtlijnen. 
