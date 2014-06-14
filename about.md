@@ -16,7 +16,7 @@ hoe voer ik dit in?
 
 Dit is zomaar een greep uit de vele onderwerpen waar The Knowsy Ferret antwoord op geeft. Aan de
 hand van duidelijke uitleg, praktische tips en adviezen kun je direct
-met je eigen blog of website aan de slag!
+met je eigen website aan de slag!
 
 <a markdown="0" href="{{ site.url }}/articles" class="btn">Naar
 de blogposts</a>
