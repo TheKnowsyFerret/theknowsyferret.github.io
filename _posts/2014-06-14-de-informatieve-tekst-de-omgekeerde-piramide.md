@@ -59,8 +59,7 @@ Hou bij het schrijven van een informatieve tekst, naast de methode
 van de "omgekeerde piramide", rekening met de volgende
 richtlijnen. 
 <ul>
-<li><strong>Stel de lezer centraal</strong>. Ga niet uit van wat jij
-wilt schrijven, maar wat de lezer wil weten.</li>
+<li><strong>Stel de lezer centraal</strong>. Ga uit van wat de lezer wil weten.</li>
 <li><strong>Schrijf objectief.</strong> Schrijf dus zonder
 waardeoordeel uit te spreken. Beperk je tot de feiten.</li>
 <li><strong>Vermijd "u", "ik", "jij' of "wij."</strong></li> Schrijf in de
