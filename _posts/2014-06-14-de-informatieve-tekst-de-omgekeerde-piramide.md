@@ -15,14 +15,15 @@ Informatieve teksten hebben als doel de lezer te informeren of kennis
 bij te brengen. Nieuwsberichten zijn hier een goed voorbeeld van,
 evenals beleidsrapporten of onderzoeksverslagen. Ook bij gevoelige
 onderwerpen ligt een informatieve tekst voor de hand.
+
+De beste manier om informatieve teksten te schrijven is volgens de
+methode van de "omgekeerde piramide".
 <figure>
 <a href="../images/omgekeerde_piramide.jpg"><img
 src="../images/omgekeerde-piramide.jpg" alt="De omgekeerde piramide"></a>
 <figcaption>(De omgekeerde piramide)</figcaption>
 </figure>
-
-De beste manier om informatieve teksten te schrijven is volgens de
-methode van de "omgekeerde piramide". Je begint dan met de
+Je begint dan met de
 kernboodschap en eindigt met minder belangrijke informatie: de
 details.
 
