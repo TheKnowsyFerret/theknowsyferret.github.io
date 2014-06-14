@@ -29,13 +29,15 @@ details.
 De omgekeerde piramide hanteert de volgende regels:  
 <ul>
 <li><strong>De kop geeft antwoord op de vragen "wat" en
-"wie"</strong>. Voorbeeld: <i>"Oranje is een gevaarlijke outsider voor de
-wereldtitel."</i> (www.nu.nl, 14 juni 2014)  
+"wie"</strong>.
+Voorbeeld: <i>"Oranje is een gevaarlijke outsider voor de
+wereldtitel."</i> (www.nu.nl, 14 juni 2014)
 " Wie" is hier "Oranje". "Wat" is "een gevaarlijke outsider voor de
 wereldtitel". De kernboodschap is dat het Nederlands elftal een
 geducht tegenstander is.</li>
 <li><strong>De eerste alinea geeft antwoord op de vragen "wie", "wat", "waar"
-en "wanneer"</strong>. Soms is het onmogelijk om alle vragen te
+en "wanneer"</strong>.<br>
+Soms is het onmogelijk om alle vragen te
 beantwoorden. In dat geval geeft je alleen antwoorden op de vragen
 waarvan het antwoord bekend is. Bijvoorbeeld: <i>"Kelly Clarkson is donderdag
 bevallen van haar eerste kind."</i> (www.nu.nl, 14 juni 2014). De
@@ -43,7 +45,7 @@ vragen "Wie","wat" en "wanneer" worden hier beantwoord. De andere
 vragen niet.</li>
 <li><strong>De tweede alinea geeft antwoord op de vragen "waarom" en
 "hoe".</strong></li> 
-<li>De overige alinea's gaan in op details.</strong></li>
+<li><strong>De overige alinea's gaan in op details.</strong></li>
 </ul>
 
 Zoals je ziet, begin je met het de essentie van je verhaal en eindig
@@ -62,9 +64,9 @@ richtlijnen.
 wilt schrijven, maar wat de lezer wil weten.</li>
 <li><strong>Schrijf objectief.</strong> Schrijf dus zonder
 waardeoordeel uit te spreken. Beperk je tot de feiten.</li>
-<li>Vermijd "u", "ik", "jij' of "wij."</strong></li> Schrijf in de
+<li><strong>Vermijd "u", "ik", "jij' of "wij."</strong></li> Schrijf in de
 derde persoon als het moet, dus "hij", "zij", "het" of "zij")</li>
-<li>Gebruik scanbare elementen.</strong> Gebruik dus koppen, alinea's,
+<li><strong>Gebruik scanbare elementen.</strong> Gebruik dus koppen, alinea's,
 witregels, signaalwoorden, opsommingen en afbeeldingen.</li>
 <li><strong>Voeg bronnen of referenties toe.</strong> De informatie in
 de tekst is op deze manier verifieerbaar voor de lezer.</li>
