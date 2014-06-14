@@ -14,14 +14,15 @@ share: true
 Informatieve teksten hebben als doel de lezer te informeren of kennis
 bij te brengen. Nieuwsberichten zijn hier een goed voorbeeld van,
 evenals beleidsrapporten of onderzoeksverslagen. Ook bij gevoelige
-onderwerpen ligt een informatieve tekst voor de hand.
-<img src="../images/omgekeerde-piramide.jpg" alt="De omgekeerde piramide" class="floatright">
+onderwerpen ligt een informatieve tekst voor de hand.<br>
+<img src="../images/omgekeerde-piramide.jpg" alt="De omgekeerde
+piramide" class="floatright"><br>
 De beste manier om informatieve teksten te schrijven is volgens de
 methode van de "omgekeerde piramide". Je begint dan met de
 kernboodschap en eindigt met minder belangrijke informatie: de
 details.
 
-<br><br>
+
 ##De omgekeerde piramide: de regels
 De omgekeerde piramide hanteert de volgende regels:  
 <ul>
