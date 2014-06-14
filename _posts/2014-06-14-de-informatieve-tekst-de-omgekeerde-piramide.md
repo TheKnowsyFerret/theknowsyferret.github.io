@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "De informatieve tekst: de omgekeerde piramide"
+title: "Informatieve tekst: de omgekeerde piramide"
 modified: 2014-06-14 20:00:30 +0200
 tags: [Webteksten schrijven, informatieve teksten, omgekeerde piramide]
 image:
