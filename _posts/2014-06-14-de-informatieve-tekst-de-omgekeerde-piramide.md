@@ -20,7 +20,9 @@ methode van de "omgekeerde piramide". Je begint dan met de
 kernboodschap en eindigt met minder belangrijke informatie: de
 details.
 
-<img src="../images/opgerolde_piramide.jpg" alt="De opgerolde piramide" class="floatright">
+<img src="../images/opgerolde_piramide.jpg" alt="De opgerolde
+piramide" class="floatright">
+
 ##De omgekeerde piramide
 De omgekeerde piramide hanteert de volgende regels:  
 <ul>
