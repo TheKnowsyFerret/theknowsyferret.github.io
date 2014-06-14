@@ -25,11 +25,11 @@ details.
 
 
 
-##De omgekeerde piramide
+##De omgekeerde piramide: de regels
 De omgekeerde piramide hanteert de volgende regels:  
 <ul>
 <li><strong>De kop geeft antwoord op de vragen "wat" en
-"wie"</strong>.
+"wie"</strong>.  
 Voorbeeld: <i>"Oranje is een gevaarlijke outsider voor de
 wereldtitel."</i> (www.nu.nl, 14 juni 2014)
 " Wie" is hier "Oranje". "Wat" is "een gevaarlijke outsider voor de
@@ -39,7 +39,8 @@ geducht tegenstander is.</li>
 en "wanneer"</strong>.<br>
 Soms is het onmogelijk om alle vragen te
 beantwoorden. In dat geval geeft je alleen antwoorden op de vragen
-waarvan het antwoord bekend is. Bijvoorbeeld: <i>"Kelly Clarkson is donderdag
+waarvan het antwoord bekend is.  
+Bijvoorbeeld: <i>"Kelly Clarkson is donderdag
 bevallen van haar eerste kind."</i> (www.nu.nl, 14 juni 2014). De
 vragen "Wie","wat" en "wanneer" worden hier beantwoord. De andere
 vragen niet.</li>
@@ -55,7 +56,7 @@ afvallen, zonder dat de kern van de tekst erboven, verloren
 gaat. Kortom, als de lezer besluit alleen de kop en de lead (eerste
 alinea) wil lezen, krijgt hij of zij toch de kernboodschap mee.
 
-##Tips voor het schrijven van  informatieve teksten
+##Richtlijnn bij het schrijven van informatieve teksten
 Hou bij het schrijven van een informatieve tekst, naast de methode
 van de "omgekeerde piramide", rekening met de volgende
 richtlijnen. 
