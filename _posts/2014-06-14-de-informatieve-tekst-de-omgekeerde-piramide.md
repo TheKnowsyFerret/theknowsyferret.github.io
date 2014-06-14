@@ -60,11 +60,11 @@ van de "omgekeerde piramide", rekening met de volgende
 richtlijnen. 
 <ul>
 <li><strong>Stel de lezer centraal</strong>. Ga uit van wat de lezer wil weten.</li>
-<li><strong>Schrijf objectief.</strong> Schrijf dus zonder
+<li><strong>Schrijf objectief.</strong> Schrijf zonder
 waardeoordeel uit te spreken. Beperk je tot de feiten.</li>
 <li><strong>Vermijd "u", "ik", "jij' of "wij."</strong></li> Schrijf in de
 derde persoon als het moet, dus "hij", "zij", "het" of "zij")</li>
-<li><strong>Gebruik scanbare elementen.</strong> Gebruik dus koppen, alinea's,
+<li><strong>Gebruik scanbare elementen.</strong> Gebruik koppen, alinea's,
 witregels, signaalwoorden, opsommingen en afbeeldingen.</li>
 <li><strong>Voeg bronnen of referenties toe.</strong> De informatie in
 de tekst is op deze manier verifieerbaar voor de lezer.</li>
