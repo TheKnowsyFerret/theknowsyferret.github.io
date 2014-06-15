@@ -63,7 +63,7 @@ richtlijnen.
 <li><strong>Schrijf objectief.</strong> Schrijf zonder
 waardeoordeel uit te spreken. Beperk je tot de feiten.</li>
 <li><strong>Vermijd "u", "ik", "jij' of "wij."</strong></li> Schrijf in de
-<a href="http://taaladvies.net/taal/advies/term/68/persoon/">derde persoon</a>, dus "hij", "zij", "het" of "zij".</li>
+derde persoon, dus "hij", "zij", "het" of "zij".</li>
 <li><strong>Gebruik scanbare elementen.</strong> Gebruik koppen, alinea's,
 witregels, signaalwoorden, opsommingen en afbeeldingen.</li>
 <li><strong>Voeg bronnen of referenties toe.</strong> De informatie in
