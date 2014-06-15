@@ -40,7 +40,7 @@ beantwoorden. In dat geval geeft je alleen antwoorden op de vragen
 waarvan het antwoord bekend is.  
 Bijvoorbeeld: <i>"Kelly Clarkson is donderdag
 bevallen van haar eerste kind."</i> (www.nu.nl, 14 juni 2014). De
-vragen "Wie","wat" en "wanneer" worden hier beantwoord. De andere
+vragen "Wie", "wat" en "wanneer" worden hier beantwoord. De andere
 vragen niet.</li>
 <li><strong>De tweede alinea geeft antwoord op de vragen "waarom" en
 "hoe".</strong></li> 
