@@ -67,7 +67,11 @@ derde persoon, dus "hij", "zij", "het" of "zij".</li>
 <li><strong>Gebruik scanbare elementen.</strong> Gebruik koppen, alinea's,
 witregels, signaalwoorden, opsommingen en afbeeldingen.</li>
 <li><strong>Voeg bronnen of referenties toe.</strong> De informatie in
-de tekst is op deze manier gelinked en verifieerbaar voor de lezer.</li>
+de tekst is op deze manier gelinked en verifieerbaar voor de
+lezer.</li>
+</li><strong>Gebruik citaten.</strong> Hiermee maak je "droge" tekst
+levendig.</li
+</ul>
 
 
 
