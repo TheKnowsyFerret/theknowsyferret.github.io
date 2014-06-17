@@ -70,7 +70,7 @@ witregels, signaalwoorden, opsommingen en afbeeldingen.</li>
 de tekst is op deze manier gelinked en verifieerbaar voor de
 lezer.</li>
 </li><strong>Gebruik citaten.</strong> Hiermee maak je "droge" tekst
-levendig.</li
+levendig.</li>
 </ul>
 
 
