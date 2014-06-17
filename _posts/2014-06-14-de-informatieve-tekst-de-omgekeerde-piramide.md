@@ -69,7 +69,7 @@ witregels, signaalwoorden, opsommingen en afbeeldingen.</li>
 <li><strong>Voeg bronnen of referenties toe.</strong> De informatie in
 de tekst is op deze manier gelinked en verifieerbaar voor de
 lezer.</li>
-</li><strong>Gebruik citaten.</strong> Hiermee maak je "droge" tekst
+<li><strong>Gebruik citaten.</strong> Hiermee maak je "droge" tekst
 levendig.</li>
 </ul>
 
