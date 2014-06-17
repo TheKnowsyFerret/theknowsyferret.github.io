@@ -36,7 +36,7 @@ geducht tegenstander is.</li>
 <li><strong>De eerste alinea geeft antwoord op de vragen "wie", "wat", "waar"
 en "wanneer"</strong>.<br>
 Soms is het onmogelijk om alle vragen te
-beantwoorden. In dat geval geeft je alleen antwoorden op de vragen
+beantwoorden. In dat geval geef je alleen antwoorden op de vragen
 waarvan het antwoord bekend is.  
 Bijvoorbeeld: <i>"Kelly Clarkson is donderdag
 bevallen van haar eerste kind."</i> (www.nu.nl, 14 juni 2014). De
