@@ -44,7 +44,7 @@ aandacht heeft gepakt.
 Ok, zul je zeggen. Leuk, maar waarom scannen webgebruikers dan?
 Het artikel
 <a href="http://www.nngroup.com/articles/why-web-users-scan-instead-reading/">"Why web users scan instead of reading"</a>
-van Jakob Nielsen geeft vier mogelijke redenen:
+(1997) van Jakob Nielsen geeft vier mogelijke redenen:
 
 1.	**Lezen van een beeldscherm is vermoeiend**. Hierdoor lees je 25%
       langzamer dan als je een boek of krant leest.  
