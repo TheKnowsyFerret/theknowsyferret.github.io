@@ -68,12 +68,11 @@ leggen en zullen zij jouw tekst sneller begrijpen!
 Laat je reactie achter!
 <br><br>
 
-<foorter>
-Bronnen:<br>
+<small>Bronnen:  
 <a href="http://www.taalislol.classy.be/signaalwoorden.htm">www.taalislol.classy.be</a>  
 <a href="http://www.slideshare.net/Sanderling/signaalwoorden-25876361">www.slideshare.net</a>  
 <a href="http://puntann.nl/category/webtekst-schrijven/">puntann.nl</a>
-</footer>
+</small>
 
 
 
