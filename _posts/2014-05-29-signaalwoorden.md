@@ -19,7 +19,7 @@ opschrijven. Misschien herken je het nog van jezelf, je klasgenoten van toen of 
 <img src="../images/signaalwoorden.jpg" alt="Tekst met signaalwoord" class="floatright">
 Met deze woorden gaven wij onze juf of meester het signaal dat de door
 ons beschreven gebeurtenissen zich in een chronologische volgorde
-afspeelden.
+afspeelden. 
 
 Nu we ouder zijn, gebruiken we ook nog signaalwoorden in teksten en
 zijn zij (hopelijk) een stuk gevarieerder.
