@@ -15,8 +15,11 @@ Hyperlinks helpen bezoekers bij het vinden van informatie en het snel
 navigeren door je site. Vandaag geef ik je 11 tips voor het maken van
 effectieve hyperlinks.
 
-<img src="../images/link.jpg" alt="Link: foto van een ketting"
-title="Links: door <a href="http://tinyurl.com/n2hwk6e">Ruby Gold</a>" class="floatright">
+<figure>
+  <img src="/link.jpg" alt="Foto van een ketting" class="floatright">
+  <figcaption>Foto: "Links" door <a
+  href="http://tinyurl.com/qc2g4f7">Ruby Gold</a></figcaption>
+</figure>
 ###1. Maak je links opvallend en scanbaar
 Geef de link een andere kleur dan de tekst en zet er een streep onder. 
 Blauw is de meest onderscheidende kleur. Andere kleuren volstaan ook,
