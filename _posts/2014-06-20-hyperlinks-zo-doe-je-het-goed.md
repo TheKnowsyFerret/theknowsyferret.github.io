@@ -47,7 +47,7 @@ beland is.
 ###4. Onderstreep geen woorden die geen link zijn
 Bezoekers zijn geprogrammeerd om onderstreepte woorden en zinsdelen als een link te zien. Maak je deze verwachting niet waar, dan leidt dit tot verwarring en teleurstelling.
 
-###5. Vermijd tekstkleuren als de tekst geen link is
+###5. Vermijd tekstkleur als de tekst geen link is
 Net als bij onderstreepte tekst, verwachten bezoekers dat gekleurde
 tekst “klikbaar” is.
 
