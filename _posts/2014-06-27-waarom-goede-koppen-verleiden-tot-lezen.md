@@ -89,11 +89,13 @@ doelen weten hier goed op in te spelen.
 Voorbeeld:  
 “U kunt helpen het dierenleed in Azië te stoppen”
 
+<br>
 Naast inspelen op één of meer basismotieven is het belangrijk je kop
 zo concreet mogelijk te verwoorden: maak de lezer direct duidelijk wat
 hij of zij kan verwachten. Neem in de kop ook belangrijke zoektermen
 op en construeer je koppen op zo’n manier dat de boodschap van je
 verhaal ook helder is als de lezer alleen de (sub)koppen leest.
 
+<br>
 Wat motiveert jou om een stuk te lezen? 
 
