@@ -99,5 +99,5 @@ op en construeer je koppen op zo’n manier dat de boodschap van je
 verhaal ook helder is als de lezer alleen de (sub)koppen leest.
 
 <br>
-Wat motiveert jou om een stuk te lezen? 
+Wat motiveert jou om een blog of artikel te lezen? 
 
