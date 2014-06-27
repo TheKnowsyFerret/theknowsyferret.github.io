@@ -3,6 +3,8 @@ layout: post
 title: "Waarom goede koppen verleiden tot lezen"
 modified: 2014-06-27 19:18:14 +0200
 tags: [webteksten schrijven, pakkende koppen, basismotieven]
+description: "Goede koppen trekken de aandacht, omdat zij uitgaan van
+de 5 basismotieven van lezers."
 image:
   feature: 
   credit: 
