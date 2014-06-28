@@ -49,7 +49,7 @@ Voorbeelden:
 “Gratis iPad bij een jaarabonnement op onze krant”  
 “10 manieren om snel af te vallen”
 
-###1. Angst
+###2. Angst
 De maatschappij verandert snel, wat mensen onzeker en angstig
 maakt. Speel in op deze onzekerheden van je lezer of los mogelijke
 problemen voor hen op. Dit kan zowel positief als negatief.
