@@ -11,7 +11,7 @@ image:
 ---
 
 Hoe schrijf ik goede teksten voor mijn website? Wat kan ik doen om
-mijn site vindbaar te maken? Is mijn website gebruikersvriendelijk? Wat is het nut van het gebruik van metadata en
+mijn site vindbaar te maken? Is mijn website gebruikersvriendelijk? Wat is het nut van metadata en
 hoe voer ik dit in? Hoe houd ik een goede presentatie? Wat zijn de
 kenmerken van een persbericht?
 
