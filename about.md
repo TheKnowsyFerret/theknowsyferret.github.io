@@ -12,7 +12,8 @@ image:
 
 Hoe schrijf ik goede teksten voor mijn website? Wat kan ik doen om
 mijn site vindbaar te maken? Is mijn website gebruikersvriendelijk? Wat is het nut van het gebruik van metadata en
-hoe voer ik dit in? 
+hoe voer ik dit in? Hoe houd ik een goede presentatie? Wat zijn de
+kenmerken van een persbericht?
 
 Dit is zomaar een greep uit de vele onderwerpen waar The Knowsy Ferret antwoord op geeft. Aan de
 hand van duidelijke uitleg, praktische tips en adviezen kun je direct
