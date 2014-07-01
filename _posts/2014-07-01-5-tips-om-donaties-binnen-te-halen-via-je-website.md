@@ -12,8 +12,7 @@ share: true
 ---
 
 Werk je voor een non-profit organisatie? Dan weet je dat binnenhalen
-van donateurs een lastige klus kan zijn.<img src="../images/doneer.jpg" alt="Button om donateurs aan te sporen
-tot actie" class="floatright"> Vandaar dat ik je vandaag 5
+van donateurs een lastige klus kan zijn.Vandaar dat ik je vandaag 5
 tips geef, waarmee je de kans op donaties kunt verhogen!
 
 
