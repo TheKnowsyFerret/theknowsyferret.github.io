@@ -14,12 +14,13 @@ share: true
 
 Werk je voor een non-profit organisatie? Dan weet je dat binnenhalen
 van donateurs een lastige klus kan zijn.
+Vandaag geef ik je 5 tips, waarmee je de kans op donaties kunt
+verhogen!
 <figure class="floatright">
   <img src="/images/doneer.jpg" alt="Button om donateurs aan te sporen
   tot actie" >
   <figcaption>"Doneer nu" is een duidelijke call-to-action </figcaption>
 </figure>
-Vandaag geef ik je 5 tips, waarmee je de kans op donaties kunt verhogen!
 
 
 ##1. Geef duidelijk aan wat je organisatie doet
