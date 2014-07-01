@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "5 tips om donaties binnen te halen via je website"
+description: "Donaties verhogen via je website? Ik geef je 5 tips."
 modified: 2014-07-01 09:19:12 +0200
 tags: [non-profit websites, donaties]
 image:
@@ -12,8 +13,13 @@ share: true
 ---
 
 Werk je voor een non-profit organisatie? Dan weet je dat binnenhalen
-van donateurs een lastige klus kan zijn. Vandaag geef ik je 5
-tips, waarmee je de kans op donaties kunt verhogen!
+van donateurs een lastige klus kan zijn.
+<figure class="floatright">
+  <img src="/images/doneer.jpg" alt="Button om donateurs aan te sporen
+  tot actie" >
+  <figcaption>"Doneer nu" is een duidelijke call-to-action </figcaption>
+</figure>
+Vandaag geef ik je 5 tips, waarmee je de kans op donaties kunt verhogen!
 
 
 ##1. Geef duidelijk aan wat je organisatie doet
