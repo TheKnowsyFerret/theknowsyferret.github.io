@@ -17,6 +17,13 @@ van donateurs een lastige klus kan zijn.
 Vandaag geef ik je 5 tips, waarmee je de kans op donaties kunt
 verhogen!
 
+<figure class="floatright">
+  <img src="/images/doneer.jpg" alt="Button om donateurs aan te sporen
+  tot actie" >
+  <figcaption>"Doneer nu": een duidelijke call-to-action</figcaption>
+</figure>
+
+
 ##1. Geef duidelijk aan wat je organisatie doet
 Donateurs willen weten wat de organisatie doet en op welke
 wijze. Leg dit uit op en duidelijke manier die makkelijk te begrijpen
@@ -25,11 +32,7 @@ is. Wijdt ook niet te veel uit, maar hou het beknopt.
 ##2. Vertel wat je met de donaties gaat doen
 Wees open en eerlijk. Door aan te geven hoe je het geld gaat inzetten, voorkom je dat
 donateurs denken dat jouw organisatie iets te verbergen heeft.
-<figure class="floatright">
-  <img src="/images/doneer.jpg" alt="Button om donateurs aan te sporen
-  tot actie" >
-  <figcaption>"Doneer nu": een duidelijke call-to-action</figcaption>
-</figure>
+
 ##3. Laat zien wie jou nog meer steunen
 Je kunt hierbij denken aan bekende organisaties of merken.. Daarnaast
 kun je melding maken van zogenaamde "watchdog" organisaties, zoals het
