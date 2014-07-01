@@ -17,13 +17,6 @@ van donateurs een lastige klus kan zijn.
 Vandaag geef ik je 5 tips, waarmee je de kans op donaties kunt
 verhogen!
 
-<figure class="floatright">
-  <img src="/images/doneer.jpg" alt="Button om donateurs aan te sporen
-  tot actie" >
-  <figcaption>"Doneer nu" is een duidelijke call-to-action </figcaption>
-</figure>
-
-
 ##1. Geef duidelijk aan wat je organisatie doet
 Donateurs willen weten wat de organisatie doet en op welke
 wijze. Leg dit uit op en duidelijke manier die makkelijk te begrijpen
@@ -39,6 +32,12 @@ kun je melding maken van zogenaamde "watchdog" organisaties, zoals het
 Centraal Bureau Fondsenwerving. Ook getuigenissen van bestaande
 donateurs doen het goed.
 Hiermee versterk je je geloofwaardigheid en betrouwbaarheid.
+
+<figure class="floatright">
+  <img src="/images/doneer.jpg" alt="Button om donateurs aan te sporen
+  tot actie" >
+  <figcaption>"Doneer nu" is een duidelijke call-to-action </figcaption>
+</figure>
 
 ##4. Zorg voor een opvallende en duidelijke call-to-action
 Maak het donateurs gemakkelijk en zorg voor een link of button waarmee
