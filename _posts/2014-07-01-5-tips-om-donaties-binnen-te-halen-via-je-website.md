@@ -47,8 +47,7 @@ herhaaldelijk wil doneren. Maak het donateurs hier zo makkelijk
 mogelijk: zorg ervoor dat zij niet veel hoeven te typen en maak de
 besluitvorming makkelijk.
 
-
-<small>Bron:<br>
+<br><br>
+Bron:<br>
 Janelle Estes (29 juni 2014). <a href="http://www.nngroup.com/articles/donations-nonprofit-charity-online/?utm_source=Alertbox&utm_campaign=91a0132179-Alertbox_email_06_30_2014&utm_medium=email&utm_term=0_7f29a2b335-91a0132179-40144669">5 Tips to get donations on nonprofit and charity
 websites</a>.
-</small>
