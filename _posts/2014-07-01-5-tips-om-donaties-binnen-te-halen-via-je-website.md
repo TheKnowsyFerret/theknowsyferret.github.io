@@ -12,8 +12,8 @@ share: true
 ---
 
 Werk je voor een non-profit organisatie? Dan weet je dat binnenhalen
-van donateurs een lastige klus kan zijn.Vandaar dat ik je vandaag 5
-tips geef, waarmee je de kans op donaties kunt verhogen!
+van donateurs een lastige klus kan zijn. Vandaag geef ik je 5
+tips, waarmee je de kans op donaties kunt verhogen!
 
 
 ##1. Geef duidelijk aan wat je organisatie doet
