@@ -13,12 +13,14 @@ share: true
 De komkommertijd staat weer voor de deur. Dat betekent dat veel
 Nederlanders op vakantie gaan. Bedrijven draaien op halve kracht en
 ook politici nemen even pauze.
+
 <figure class="floatright">
   <img src="/images/scoren-in-komkommertijd.jpg" alt="Een komkommer
   komt op het doel af" >
   <figcaption>Goal! Originele foto: <a
   href="bit.ly/1m35NBf">Swen-Peter Ekkebus</a>.</figcaption>
 </figure>
+
 Ondanks het lage aanbod van persberichten, moeten journalisten toch
 dagelijks weer proberen de kranten en websites te blijven vullen.
 
