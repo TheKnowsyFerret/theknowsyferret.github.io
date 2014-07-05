@@ -17,6 +17,7 @@ De komkommertijd staat weer voor de deur.
   <figcaption>Goal! Originele foto: <a
   href="bit.ly/1m35NBf">Swen-Peter Ekkebus</a>.</figcaption>
 </figure>
+
 Dat betekent dat veel
 Nederlanders op vakantie gaan. Bedrijven draaien op halve kracht en
 ook politici nemen even pauze.
