@@ -23,7 +23,6 @@ verhogen!
   <figcaption>"Doneer nu": een duidelijke call-to-action</figcaption>
 </figure>
 
-
 ##1. Geef duidelijk aan wat je organisatie doet
 Donateurs willen weten wat de organisatie doet en op welke
 wijze. Leg dit uit op en duidelijke manier die makkelijk te begrijpen
