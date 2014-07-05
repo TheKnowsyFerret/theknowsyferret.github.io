@@ -27,7 +27,7 @@ dagelijks weer proberen de kranten en websites te blijven vullen.
 Maak daarom gebruik van deze periode en scoor met joúw “komkommer”! 
 Hier zijn 7  tips:
 
-<br><br>
+
 ###1. Schrijf over actuele zaken  
 Nieuws veroudert snel. Schrijf over zaken die net gebeurd zijn of snel
 staan te gebeuren. Misschien kun je aansluiten op een actueel
