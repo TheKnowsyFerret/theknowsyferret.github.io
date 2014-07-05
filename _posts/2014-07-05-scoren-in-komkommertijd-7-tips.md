@@ -66,7 +66,7 @@ Mensen of organisaties die wij belangrijk vinden, maken het nieuws groot. Probee
 Denk aan bekend politicus die jouw evenement opent of een belangrijk
 onderzoeksinstituut dat jouw bevindingen ondersteunt.
 
-
+<br>
 Heb jij je persbericht al gepland of verstuurd?
 
 
