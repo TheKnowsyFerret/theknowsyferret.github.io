@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /Over/
 title: Over The Knowsy Ferret
 tags: [The Knowsy Ferret, missie, doel]
 modified: 2013-09-13
