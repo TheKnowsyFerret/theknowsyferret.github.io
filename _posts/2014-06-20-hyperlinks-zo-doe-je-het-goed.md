@@ -55,7 +55,7 @@ tekst “klikbaar” is.
 Webadressen als links zijn moeilijk leesbaar en maken je pagina minder
 scanbaar.
 
-####7. Gebruik een unieke naam voor iedere link op dezelfde pagina 
+###7. Gebruik een unieke naam voor iedere link op dezelfde pagina 
 Als je twee links hebt die hetzelfde heten,  denken bezoekers dat ze naar  dezelfde plaats verwijzen.
 
 ###8. Plaats links niet te dicht op elkaar
