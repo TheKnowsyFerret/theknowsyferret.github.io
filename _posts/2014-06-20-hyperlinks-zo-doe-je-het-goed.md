@@ -11,6 +11,7 @@ image:
 comments: true
 share: true
 ---
+
 Hyperlinks helpen bezoekers bij het vinden van informatie en het snel
 navigeren door je site. Vandaag geef ik je 11 tips voor het maken van
 effectieve hyperlinks.

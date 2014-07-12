@@ -10,7 +10,8 @@ image:
   creditlink: 
 comments: true
 share: true
----
+------------------
+
 
 Werk je voor een non-profit organisatie? Dan weet je dat binnenhalen
 van donateurs een lastige klus kan zijn.

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Scoren in komkommertijd: 7 tips"
-description: "Door gebruik te maken van deze tips, vergroot je de kans
-op publicatie."
+description: "Door gebruik te maken van deze tips, vergroot je de kans op publicatie."
 modified: 2014-07-05 16:13:54 +0200
 tags: [persbericht, komkommertijd, nieuwswaarde]
 image:
@@ -12,6 +11,7 @@ image:
 comments: true
 share: true
 ---
+
 De komkommertijd staat weer voor de deur. Dat betekent dat veel
 Nederlanders op vakantie gaan. Bedrijven draaien op halve kracht en
 ook politici nemen even pauze.
