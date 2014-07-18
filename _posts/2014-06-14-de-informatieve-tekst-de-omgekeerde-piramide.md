@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Informatieve tekst: de omgekeerde piramide"
+description: "Informatieve teksten volgen de methode van de omgekeerde
+piramide. Deze blogpost legt uit wat deze methode inhoudt."
 modified: 2014-06-14 20:00:30 +0200
 tags: [Webteksten schrijven, informatieve teksten, omgekeerde piramide]
 image:
