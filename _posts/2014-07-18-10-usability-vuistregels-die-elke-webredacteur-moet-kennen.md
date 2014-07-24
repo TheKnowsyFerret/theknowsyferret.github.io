@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "10 usability vuistregels die elke webredacteur moet kennen"
-description: "Wie webdesing zegt, zegt gebruikersvriendelijkheid. In deze post leg ik de 10 heuristieken van Nielson uit." 
+description: "Wie webdesign zegt, zegt gebruikersvriendelijkheid. In
+deze post leg ik de 10 vuistregels van Nielson uit." 
 modified: 2014-07-18 19:40:10 +0200
 tags: [usability, webdesign]
 image:
