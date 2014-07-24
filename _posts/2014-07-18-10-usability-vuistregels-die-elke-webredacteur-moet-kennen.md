@@ -26,7 +26,7 @@ Een voorwaarde is echter wel dat je enige kennis hebt van usability,
 ofwel, gebruikersvriendelijkheid.
 
 Vandaag geef ik je 10 vuistregels waarmee je kunt beoordelen of die
-leuke ideeën voor de nieuwe website,  je bezoekers optimaal bedienen.
+leuke ideeën voor de nieuwe website, je bezoekers optimaal bedienen.
 
 ###1. Laat zien wat er gebeurt
 Geef de bezoeker feedback bij de handelingen die hij of zij doet.  
