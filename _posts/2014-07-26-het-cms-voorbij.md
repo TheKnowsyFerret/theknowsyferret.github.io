@@ -23,7 +23,7 @@ tijdig bijwerken.
   <img src="/images/jekyll.png" alt="Het logo van Jekyll, een
   statische website generato.r">
   </figure>
-Wordpress is een van de grootste CMS-systemen van deze tijd. Toch
+WordPress is een van de grootste CMS-systemen van deze tijd. Toch
 gebruik ik zelf liever <a href="http://jekyllrb.com/">Jekyll</a>, een
 statische website generator.
 
@@ -35,7 +35,7 @@ Waarom? Dat zal ik je vertellen.
 ###1. Jekyll maakt gebruik van duurzame kennis
 De kennis van een CMS is vergankelijk. In vacatures lees ik toch
 regelmatig dat de gevraagde webprofessional kennis moeten hebben van
-specifieke CMS-systemen, zoals Smartsite, Drupal en Wordpress. Dit
+specifieke CMS-systemen, zoals Smartsite, Drupal en WordPress. Dit
 betekent dus dat je je personeel constant moet bijscholen bij
 toekomstige releases. Pure tijdsverspilling!   
 Jekyll maakt daarentegen gebruik van duurzame kennis, zoals HTML5, Javascript en CSS. Deze kennis is overal en altijd te gebruiken en is bovendien CMS onafhankelijk. 
