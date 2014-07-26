@@ -5,7 +5,7 @@ description: "Ik verkies Jekyll (een statische site generator) boven
 CMS-systemen zoals Smartsite, Drupal en Wordpress. Waarom? Lees de 7
 voordelen van Jekyll en beslis zelf."
 modified: 2014-07-26 13:22:39 +0200
-tags: [Jekyll, CMS, Wordpress]
+tags: [Jekyll, statische website generator, CMS, Wordpress]
 image:
   feature: 
   credit: 
