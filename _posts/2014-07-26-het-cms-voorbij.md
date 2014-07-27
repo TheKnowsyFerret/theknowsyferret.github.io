@@ -21,8 +21,9 @@ tijdig bijwerken.
 
 <figure class="floatright">
   <img src="/images/jekyll.png" alt="Het logo van Jekyll, een
-  statische website generato.r">
-  </figure>
+  statische website generator.">
+  <figcaption>Jekyll, een statische website generator</figcaption>
+    </figure>
 WordPress is een van de grootste CMS-systemen van deze tijd. Toch
 gebruik ik zelf liever <a href="http://jekyllrb.com/">Jekyll</a>, een
 statische website generator.
@@ -57,6 +58,12 @@ van server wisselen, zonder een database te hoeven exporteren of
 configureren.
 
 ###4. Jekyll is makkelijk te onderhouden
+
+<figure class="floatright">
+  <img src="/images/onderhoud-is-makkelijk.jpg" alt="Onderhoud is
+  makkelijk. Uitgedrukt door enkele gereedschappen.">
+  <figcaption>Jekyl kent weinig onderhoud</figcaption>
+      </figure>
 Een CMS heeft regelmatig een software update nodig om de website op alle punten up-to-date te houden. Denk aan de database, de administratieomgeving en interactieve onderdelen. Bij Jekyll hoeft dit niet en dus hoef je minder tijd aan onderhoud te besteden.
 
 ###5. Jekyll is sneller dan een CMS
@@ -70,9 +77,12 @@ direct inleest. Dit versnelt het uitlezen en weergeven zeer snel.
 ###6. Versiebeheer is net zo makkelijk
 Een statistische website bestaat slechts uit bestanden en folders,
 waardoor versiebeheer door bijvoorbeeld Github, makkelijk is.
+
 <figure class="floatright">
   <img src="/images/github.png" alt="De iconen van Github.">
-  </figure>
+  <figcaption>Versiebeheer maakt samenwerken
+ <br> aan documenten makkelijk</figcaption>
+     </figure>
 De inhoud van de website kan lokaal gecompileerd worden en is voorafgaand
 aan het uploaden te controleren door eindredacteuren. Zodra een
 aanpassing is geaccepteerd, zorgt Jekyll voor het genereren van de
