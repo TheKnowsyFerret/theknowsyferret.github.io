@@ -80,8 +80,7 @@ waardoor versiebeheer door bijvoorbeeld Github, makkelijk is.
 
 <figure class="floatright">
   <img src="/images/github.png" alt="De iconen van Github.">
-  <figcaption>Versiebeheer maakt samenwerken
- <br> aan documenten makkelijk</figcaption>
+  <figcaption>Versiebeheer door Github maakt <br>samenwerken aan documenten<br> makkelijk</figcaption>
      </figure>
 De inhoud van de website kan lokaal gecompileerd worden en is voorafgaand
 aan het uploaden te controleren door eindredacteuren. Zodra een
