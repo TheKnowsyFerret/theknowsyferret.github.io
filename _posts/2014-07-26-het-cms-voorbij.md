@@ -57,13 +57,14 @@ Ook is de workflow naar eigen inzicht in te delen en kun je makkelijk
 van server wisselen, zonder een database te hoeven exporteren of
 configureren.
 
-###4. Jekyll is makkelijk te onderhouden
-
 <figure class="floatright">
   <img src="/images/onderhoud-is-makkelijk.jpg" alt="Onderhoud is
   makkelijk. Uitgedrukt door enkele gereedschappen.">
   <figcaption>Jekyl kent weinig onderhoud</figcaption>
       </figure>
+	  
+###4. Jekyll is makkelijk te onderhouden
+
 Een CMS heeft regelmatig een software update nodig om de website op alle punten up-to-date te houden. Denk aan de database, de administratieomgeving en interactieve onderdelen. Bij Jekyll hoeft dit niet en dus hoef je minder tijd aan onderhoud te besteden.
 
 ###5. Jekyll is sneller dan een CMS
@@ -72,16 +73,15 @@ request) wordt uitgevoerd bij inkomende verzoeken. Statische websites
 hebben geen database, maar platte HTML-pagina’s die de webserver
 direct inleest. Dit versnelt het uitlezen en weergeven zeer snel.
 
-
+<figure class="floatright">
+  <img src="/images/github.png" alt="De iconen van Github.">
+  <figcaption>Versiebeheer door Github maakt <br>samenwerken aan documenten<br> makkelijk</figcaption>
+     </figure>
   
 ###6. Versiebeheer is net zo makkelijk
 Een statistische website bestaat slechts uit bestanden en folders,
 waardoor versiebeheer door bijvoorbeeld Github, makkelijk is.
 
-<figure class="floatright">
-  <img src="/images/github.png" alt="De iconen van Github.">
-  <figcaption>Versiebeheer door Github maakt <br>samenwerken aan documenten<br> makkelijk</figcaption>
-     </figure>
 De inhoud van de website kan lokaal gecompileerd worden en is voorafgaand
 aan het uploaden te controleren door eindredacteuren. Zodra een
 aanpassing is geaccepteerd, zorgt Jekyll voor het genereren van de
