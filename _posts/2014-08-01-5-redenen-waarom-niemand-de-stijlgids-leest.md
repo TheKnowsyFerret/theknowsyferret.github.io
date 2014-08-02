@@ -21,7 +21,7 @@ Je hebt veel tijd gestoken in het opstellen van een stijlgids, waarin
 je richtlijnen geeft bij het schrijven en structureren van
 webteksten.
 
-De praktijk wijst echter uit dat **niemand** hem leest!
+De praktijk wijst echter uit dat niemand hem leest!
 
 In deze post leg ik je uit waarom. Ook geef ik je tips, waarmee je de
 richtlijnen toch op je collega’s kunt overbrengen.
