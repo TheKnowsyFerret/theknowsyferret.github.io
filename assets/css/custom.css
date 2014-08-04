@@ -3,3 +3,9 @@
     max-width: 60%;
     margin-left: 0.2em;
 } 
+.inactive {
+    opacity: 0.2;
+}
+.current {
+    font-weight: bold;
+}
