@@ -19,6 +19,6 @@ Dit is zomaar een greep uit de vele onderwerpen waar The Knowsy Ferret antwoord 
 hand van duidelijke uitleg, praktische tips en adviezen kun je direct
 met je eigen website en communicatievraagstukken aan de slag!
 
-<a markdown="0" href="{{ site.url }}/articles" class="btn">Naar
+<a markdown="0" href="{{ site.url }}/" class="btn">Naar
 de blogposts</a>
 
