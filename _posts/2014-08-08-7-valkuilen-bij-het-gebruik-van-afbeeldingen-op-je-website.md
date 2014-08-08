@@ -30,7 +30,7 @@ In deze post geef ik je 7 mogelijke valkuilen en hoe je deze kunt vermijden.
 
 
 ##Valkuil 1: het bestand is te groot
-Afbeeldingen zijn grote bestanden. Een groot nadeel hiervan is dat je website langzaam laadt. 
+Afbeeldingen zijn vaak grote bestanden. Een nadeel hiervan is dat je website langzaam laadt. 
 Volgens Jakob Nielsen (2009) accepteren bezoekers slechts<a
 href="http://www.nngroup.com/articles/powers-of-10-time-scales-in-ux/">
 een laadtijd van 1 seconde</a>, zonder dat dit hun gedachtestroom
@@ -47,7 +47,7 @@ geven”</a>.
 
 
 ##Valkuil 2: verkeerd gebruik van JPG, PNG en GIF
-Bij het opslaan van afbeeldingen heb je de keuze uit drie mogelijkheden: GIF, JPG en PNG. Hier gaat het vaak mis, want wanneer kies je nou welk bestandstype? Ik adviseer het volgende: 
+Bij het opslaan van afbeeldingen heb je de keuze uit drie mogelijkheden: GIF, JPG en PNG.Hier gaat het vaak mis, want wanneer kies je nou welk bestandstype? Ik adviseer het volgende: 
 
 **JPG**  
 Gebruik dit type voor foto’s en realistische afbeeldingen. Nadeel van dit bestandstype is dat het informatie weggooit bij hoge compressie. Daarnaast kun je een afbeelding of achtergrond van een JPG niet transparant maken. Dat kan alleen als je de afbeelding eerst opslaat als een bestand dat dit wel kan, zoals PNG.
@@ -74,15 +74,16 @@ Nog beter is de volgende naam: "2014-ford-fiesta-rood.jpg".
 
 Het is duidelijk dat het laatste voorbeeld de beste beschrijving
 geeft. Daarnaast bevat het relevante zoekwoorden, zoals “Ford Fiësta”
-(merk), “rood” (kleur), “2014” (bouwjaar).
+(merk), “rood” (kleur) en “2014” (bouwjaar).
 
 
 ##Valkuil 4: het alt-attribuut is niet beschrijvend genoeg
 Dat je het alt-attribuut moet invullen is inmiddels bij iedereen duidelijk. Doe je dit namelijk niet, dan hebben bezoekers die de weergave van plaatjes uit zetten of mensen met een visuele handicap geen idee wat er op het plaatje staat. 
 
-Wat bij het alt-attribuut echter fout gaat, is dat de alt-tekst vaak te weinig zegt over wat er op de afbeelding staat.<br>
-Geef daarom, net als bij de bestandsnaam, een zo duidelijk mogelijke omschrijving van maximaal 10 woorden, Voeg ook zoekwoorden toe.<br>
-Dus heb je een plaatje van rode appels in een rieten mand, gebruik dan niet de omschrijving “Appels”, maar gebruik de beschrijving “Rode appels in een rieten mand”
+Wat bij het alt-attribuut echter fout gaat, is dat de alt-tekst vaak
+erg weinig zegt over wat er op de afbeelding staat.<br>
+Geef, net als bij de bestandsnaam, een zo duidelijk mogelijke omschrijving van maximaal 10 woorden, Voeg ook zoekwoorden toe.<br>
+Dus heb je een plaatje van rode appels in een rieten mand, gebruik dan niet de omschrijving “Appels”, maar gebruik “Rode appels in een rieten mand.”
 
 Heb je meerdere afbeeldingen van hetzelfde product? Bijvoorbeeld
 horloges? Maak dan het onderscheid tussen de verschillende horloges
