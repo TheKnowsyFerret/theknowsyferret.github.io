@@ -56,7 +56,7 @@ Gebruik dit type voor foto’s en realistische afbeeldingen. Nadeel van dit best
 Gebruik dit type voor afbeeldingen met lijnen, veel tekst en weinig
 kleuren. In tegenstelling tot JPG gooit PNG geen informatie weg en
 ondersteunt het transparantie. Zo kun je de achtergrond of afbeelding
-wel  transparant maken en de afbeelding dus ook laten overlappen met
+wel transparant maken en de afbeelding dus ook laten overlappen met
 andere afbeeldingen.
 
 **GIF**  
