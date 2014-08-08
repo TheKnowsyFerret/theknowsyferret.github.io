@@ -81,9 +81,14 @@ geeft. Daarnaast bevat het relevante zoekwoorden, zoals “Ford Fiësta”
 Dat je het alt-attribuut moet invullen is inmiddels bij iedereen duidelijk. Doe je dit namelijk niet, dan hebben bezoekers die de weergave van plaatjes uit zetten of mensen met een visuele handicap geen idee wat er op het plaatje staat. 
 
 Wat bij het alt-attribuut echter fout gaat, is dat de alt-tekst vaak
-erg weinig zegt over wat er op de afbeelding staat.<br>
+te weinig zegt over wat er op de afbeelding staat.<br>
 Geef, net als bij de bestandsnaam, een zo duidelijk mogelijke omschrijving van maximaal 10 woorden, Voeg ook zoekwoorden toe.<br>
-Dus heb je een plaatje van rode appels in een rieten mand, gebruik dan niet de omschrijving “Appels”, maar gebruik “Rode appels in een rieten mand.”
+
+Voorbeeld:
+
+Heb je een plaatje van rode appels in een rieten mand, gebruik dan
+niet de omschrijving “Appels”, maar gebruik “Rode appels in een rieten
+mand."
 
 Heb je meerdere afbeeldingen van hetzelfde product? Bijvoorbeeld
 horloges? Maak dan het onderscheid tussen de verschillende horloges
