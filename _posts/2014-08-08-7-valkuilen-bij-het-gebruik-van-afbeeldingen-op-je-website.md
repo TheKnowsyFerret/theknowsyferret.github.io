@@ -19,7 +19,7 @@ Afbeeldingen maken een website aantrekkelijk en interessant voor de bezoeker:
 <figure class="floatright">
   <img src="/images/valkuil.png"  alt="Man hangt boven de krokodillen
   aan een liaan">
-  <figcaption>Pitfall! (valkuil!). Foto:<a href="http://bit.ly/X6qaUX"> Doctor Popular</a></figcaption>
+  <figcaption>Pitfall!. Valkuil! (vertaling). Foto:<a href="http://bit.ly/X6qaUX"> Doctor Popular</a></figcaption>
 </figure>
 In een mum van tijd grijpen ze de aandacht van de lezer en brengen ze de boodschap over. 
 
