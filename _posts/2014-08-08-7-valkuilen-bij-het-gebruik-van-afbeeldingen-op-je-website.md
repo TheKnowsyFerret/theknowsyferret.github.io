@@ -67,8 +67,7 @@ kleuren. GIF ondersteunt transparantie.
 ##Valkuil 3: de bestandsnaam is niet beschrijvend genoeg
 Je staat er niet bij stil, maar zoekmachines kijken naar de bestandsnaam om af te leiden waar de afbeelding over gaat. Geef de afbeelding daarom een beschrijvende naam en voeg er zoekwoorden aan toe.
 
-Voorbeeld:
-
+Voorbeeld:  
 Heb je een afbeelding van een rode Ford Fiësta? Dan zou je het bestand "auto-ford.jpg" kunnen noemen of "rode-auto-ford.jpg".<br>
 Nog beter is de volgende naam: "2014-ford-fiesta-rood.jpg". 
 
@@ -78,17 +77,19 @@ geeft. Daarnaast bevat het relevante zoekwoorden, zoals “Ford Fiësta”
 
 
 ##Valkuil 4: het alt-attribuut is niet beschrijvend genoeg
-Dat je het alt-attribuut moet invullen is inmiddels bij iedereen duidelijk. Doe je dit namelijk niet, dan hebben bezoekers die de weergave van plaatjes uit zetten of mensen met een visuele handicap geen idee wat er op het plaatje staat. 
+Dat je het alt-attribuut moet invullen is inmiddels bij iedereen duidelijk. Doe je dit namelijk niet, dan hebben bezoekers die de weergave van plaatjes uitzetten of mensen met een visuele handicap geen idee wat er op het plaatje staat. 
 
-Wat bij het alt-attribuut echter fout gaat, is dat de alt-tekst vaak
-te weinig zegt over wat er op de afbeelding staat.<br>
-Geef, net als bij de bestandsnaam, een zo duidelijk mogelijke omschrijving van maximaal 10 woorden, Voeg ook zoekwoorden toe.<br>
+Wat hier echter regelmatig fout gaat, is dat de alt-tekst vaak
+te weinig zegt over wat er op de afbeelding staat.
 
-Voorbeeld:
-
+Voorbeeld:  
 Heb je een plaatje van rode appels in een rieten mand, gebruik dan
 niet de omschrijving “Appels”, maar gebruik “Rode appels in een rieten
 mand."
+
+Kortom, geef een zo duidelijk mogelijke omschrijving van de
+afbeelding. Gebruik hiervoor maximaal 10 woorden. Voeg ook zoekwoorden
+toe.
 
 Heb je meerdere afbeeldingen van hetzelfde product? Bijvoorbeeld
 horloges? Maak dan het onderscheid tussen de verschillende horloges
