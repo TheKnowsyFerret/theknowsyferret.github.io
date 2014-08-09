@@ -61,7 +61,7 @@ andere afbeeldingen.
 
 **GIF**  
 Gebruik dit bestandstype als je een klein bestand hebt met weinig
-kleuren. GIF ondersteunt transparantie. 
+kleuren. GIF ondersteunt transparantie en animatie. 
 
 
 ##Valkuil 3: de bestandsnaam is niet beschrijvend genoeg
