@@ -46,21 +46,29 @@ Een mooi voorbeeld van een thumbnail in actie, zie je in mijn blogpost
 geven”</a>.
 
 
+##Valkuil 2: verkeerd gebruik van JPG, PNG en GIF
+Bij het opslaan van afbeeldingen heb je de keuze uit drie
+mogelijkheden: GIF, JPG en PNG.Hier gaat het vaak mis, want wanneer
+kies je nou welk bestandstype? Ik adviseer het volgende:
+
+**JPG**  
+Gebruik dit type voor foto’s en realistische afbeeldingen. Nadeel van
+dit bestandstype is dat het informatie weggooit bij hoge compressie.
+
 <figure class="floatright">
   <img src="/images/keuzehulp-afbeeldingen-bestandstype.png"
   alt="Keuzehulp bij het opslaan van afbeeldingen">
+  <figcaption>Wanneer gebruik je welk bestandstype?</figcaption>
 </figure>
-
-##Valkuil 2: verkeerd gebruik van JPG, PNG en GIF
-Bij het opslaan van afbeeldingen heb je de keuze uit drie mogelijkheden: GIF, JPG en PNG.Hier gaat het vaak mis, want wanneer kies je nou welk bestandstype? Ik adviseer het volgende: 
-
-**JPG**  
-Gebruik dit type voor foto’s en realistische afbeeldingen. Nadeel van dit bestandstype is dat het informatie weggooit bij hoge compressie. Daarnaast kun je een afbeelding of achtergrond van een JPG niet transparant maken. Dat kan alleen als je de afbeelding eerst opslaat als een bestand dat dit wel kan, zoals PNG.
+Daarnaast kun je een afbeelding of achtergrond van een JPG niet transparant maken. Dat kan alleen als je de afbeelding eerst opslaat als een bestand dat dit wel kan, zoals PNG.
 
 **PNG**  
-Gebruik dit type voor afbeeldingen met lijnen, veel tekst en weinig
-kleuren. In tegenstelling tot JPG gooit PNG geen informatie weg en
-ondersteunt het transparantie. Zo kun je de achtergrond of afbeelding
+Gebruik dit type voor afbeeldingen met lijnen,  
+veel tekst en weinig
+kleuren.  
+In tegenstelling tot JPG gooit PNG geen informatie weg en
+ondersteunt het transparantie.  
+Zo kun je de achtergrond of afbeelding
 wel transparant maken en de afbeelding dus ook laten overlappen met
 andere afbeeldingen.
 
