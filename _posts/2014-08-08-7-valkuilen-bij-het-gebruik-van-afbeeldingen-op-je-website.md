@@ -46,6 +46,11 @@ Een mooi voorbeeld van een thumbnail in actie, zie je in mijn blogpost
 geven”</a>.
 
 
+<figure class="floatright">
+  <img src="/images/keuzehulp-afbeeldingen-bestandstype.png"
+  alt="Keuzehulp bij het opslaan van afbeeldingen">
+</figure>
+
 ##Valkuil 2: verkeerd gebruik van JPG, PNG en GIF
 Bij het opslaan van afbeeldingen heb je de keuze uit drie mogelijkheden: GIF, JPG en PNG.Hier gaat het vaak mis, want wanneer kies je nou welk bestandstype? Ik adviseer het volgende: 
 
