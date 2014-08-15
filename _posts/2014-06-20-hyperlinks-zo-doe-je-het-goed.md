@@ -99,6 +99,7 @@ Jakob Nielsen (10 mei 2004).<a href="http://www.nngroup.com/articles/guidelines-
 Jakob Nielsen (31 oktober 2001).<a href="http://www.nngroup.com/articles/113-design-guidelines-homepage-usability/"> 113 Design Guidlines for Homepage
 Usability</a>.<br>
 De Webrichtlijnen.<a
-href="http://www.webrichtlijnen.nl/aan-de-slag/het-schrijven-van-goede-linktekst">Het
-schrijven van goede linktekst</a>. Verkregen op: 19 juni 2014.<br>
+href="http://www.webrichtlijnen.nl/aan-de-slag/het-schrijven-van-goede-linktekst">
+Het
+schrijven van goede linktekst</a> Bekeken: 19 juni 2014.<br>
 </small>
