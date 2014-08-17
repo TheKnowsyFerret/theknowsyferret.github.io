@@ -25,7 +25,7 @@ tijdig bijwerken.
   <figcaption>Jekyll, een statische website generator</figcaption>
     </figure>
 WordPress is een van de grootste CMS-systemen van deze tijd. Toch
-gebruik ik zelf liever <a class="text" href="http://jekyllrb.com/">Jekyll</a>, een
+gebruik ik zelf liever <a href="http://jekyllrb.com/">Jekyll</a>, een
 statische website generator.
 
 Waarom? Dat zal ik je vertellen.
@@ -80,7 +80,7 @@ direct inleest. Dit versnelt het uitlezen en weergeven zeer snel.
   
 ###6. Versiebeheer is net zo makkelijk
 Een statistische website bestaat slechts uit bestanden en folders,
-waardoor <a class="text" href="http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1">versiebeheer door bijvoorbeeld Git</a> van Github, makkelijk is.
+waardoor <a href="http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1">versiebeheer door bijvoorbeeld Git</a> van Github, makkelijk is.
 
 De inhoud van de website kan lokaal gecompileerd worden en is voorafgaand
 aan het uploaden te controleren door eindredacteuren. Zodra een

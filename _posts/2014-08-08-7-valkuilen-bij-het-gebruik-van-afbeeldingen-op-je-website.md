@@ -31,8 +31,7 @@ In deze post geef ik je 7 mogelijke valkuilen en hoe je deze kunt vermijden.
 
 ##Valkuil 1: het bestand is te groot
 Afbeeldingen zijn vaak grote bestanden. Een nadeel hiervan is dat je website langzaam laadt. 
-Volgens Jakob Nielsen (2009) accepteren bezoekers slechts<a class="text"
-href="http://www.nngroup.com/articles/powers-of-10-time-scales-in-ux/">
+Volgens Jakob Nielsen (2009) accepteren bezoekers slechts<a href="http://www.nngroup.com/articles/powers-of-10-time-scales-in-ux/">
 een laadtijd van 1 seconde</a>, zonder dat dit hun gedachtestroom
 onderbreekt. Langere laadtijden geven bezoekers het gevoel dat niet zij niet langer invloed hebben op wat er gebeurt. Hierdoor raken zij ongeduldig en kunnen, in het ergste geval, de website verlaten.
 
@@ -42,7 +41,7 @@ De oplossing? Optimaliseer je afbeeldingen: maak ze kleiner (niet groter dan 200
 Wil je toch grote afbeeldingen gebruiken? Maak dan gebruik van klikbare “thumbnails” op je website. Een thumbnail is een kleine weergave van het origineel. Klikt de bezoeker op een thumbnail, dan krijgt hij de grote afbeelding te zien. 
 
 Een mooi voorbeeld van een thumbnail in actie, zie je in mijn blogpost
-<a class="text" href="http://theknowsyferret.github.io/kopjes-geven/"> “Kopjes
+<a href="http://theknowsyferret.github.io/kopjes-geven/"> “Kopjes
 geven”</a>.
 
 
@@ -119,8 +118,7 @@ Het opnemen van zoektermen in bestandsnamen, alt-teksten,
 title-teksten en bijschriften is belangrijk. Ze zorgen ervoor dat de bezoeker het juiste plaatje vindt.
 
 Probeer echter te vermijden dat je dezelfde zoektermen herhaaldelijk
-gebruikt. Deze methode heet <a class="text"
-href="http://www.wordstream.com/blog/ws/2012/03/21/dangers-of-keyword-stuffing">“keyword
+gebruikt. Deze methode heet <a href="http://www.wordstream.com/blog/ws/2012/03/21/dangers-of-keyword-stuffing">“keyword
 stuffing”</a> en komt onnatuurlijk over op de lezer. Bovendien leidt dit tot een lagere ranking door zoekmachines!
 
 Het vermijden van “keyword stuffing” is makkelijk: gebruik
@@ -130,7 +128,7 @@ de title tekst.
 
 ##Valkuil 6: de afbeeldingen voegen niks toe aan de inhoud
 Uit onderzoek van Jakob Nielsen (2010) blijkt dat bezoekers de
-voorkeur geven aan <a class="text" href="http://www.nngroup.com/articles/photos-as-web-content/">informatie dragende afbeeldingen<a/>. Decoratieve afbeeldingen werden genegeerd.
+voorkeur geven aan <a href="http://www.nngroup.com/articles/photos-as-web-content/">informatie dragende afbeeldingen<a/>. Decoratieve afbeeldingen werden genegeerd.
 
 Kortom, gebruik afbeeldingen die:
 <ul>

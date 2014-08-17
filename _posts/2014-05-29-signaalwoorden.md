@@ -69,9 +69,9 @@ Laat je reactie achter!
 <br><br>
 
 <small>Bronnen:  
-<a class="text" href="http://www.taalislol.classy.be/signaalwoorden.htm">www.taalislol.classy.be</a>  
-<a class="text" href="http://www.slideshare.net/Sanderling/signaalwoorden-25876361">www.slideshare.net</a>  
-<a class="text" href="http://puntann.nl/category/webtekst-schrijven/">puntann.nl</a>
+<a href="http://www.taalislol.classy.be/signaalwoorden.htm">www.taalislol.classy.be</a>  
+<a href="http://www.slideshare.net/Sanderling/signaalwoorden-25876361">www.slideshare.net</a>  
+<a href="http://puntann.nl/category/webtekst-schrijven/">puntann.nl</a>
 </small>
 
 

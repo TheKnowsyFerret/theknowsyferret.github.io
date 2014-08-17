@@ -64,7 +64,7 @@ antwoorden op deze vragen uit. Ieder antwoord vormt een nieuwe
 alinea. Als een antwoord meer dan een alinea bevat, dan kun je deze
 over meerdere alinea’s spreiden. Zorg er wel voor dat de grens van de
 volgende alinea samenhangt met inhoudelijke grenzen (bron: <a
-class="text" href="http://taaladvies.net/taal/advies/vraag/43/alineas_maken/">www.taaluniversum.org</a>).
+href="http://taaladvies.net/taal/advies/vraag/43/alineas_maken/">www.taaluniversum.org</a>).
 
 
 <br><br>

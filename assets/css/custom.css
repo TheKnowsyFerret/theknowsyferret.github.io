@@ -10,13 +10,13 @@
     font-weight: bold;
 }
 
-a.text:visited {
+article a:visited {
     color: #696834;
 }
-a.text:hover {
+article a:hover {
     color: #000000;
 }
-a.text {
+article a {
 
     color: #88B633;
 }
