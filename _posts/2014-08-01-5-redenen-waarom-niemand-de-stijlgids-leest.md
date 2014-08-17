@@ -13,7 +13,7 @@ share: true
 ---
 <figure>
   <img src="/images/stijlgids.jpg" alt="Foto: de stijlgids van The Telegraph">
-  <figcaption>Stijlgids van The Telegraph. Foto:<a
+  <figcaption>Stijlgids van The Telegraph. Foto:<a class="text"
   href="http://bit.ly/1m4VEjx"> Dave Crosby</a></figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ verwarring. Moet of mag ik het aantal pagina’s vermelden bij een
 download? Moet ik het Groene Boekje gebruiken of mag het Witte Boekje
 ook?<br>
 Een goed voorbeeld van een stijlgids die dit onderscheid wel maakt, is
-de <a href="http://bit.ly/1nYTFTH">stijlgids van de Inspectieraad</a>.</li>
+de <a class="text" href="http://bit.ly/1nYTFTH">stijlgids van de Inspectieraad</a>.</li>
 <li><strong>Stijlgidsen bevatten te veel details</strong><br>Denk bij iedere richtlijn na of het echt nodig is om
 deze tot in detail te beschrijven. Is uitleg echt nodig? Doe dit dan, maar hou het kort en "to the point".</li>
 <li><strong>Stijlgidsen zijn complex</strong><br> Werkelijk alles is in richtlijnen vastgelegd: van aanspreekvormen en schrijfmodellen tot lettertype en interpunctie. Dit maakt het lastig voor je collega’s om te checken of hun werk aan alle richtlijnen voldoet. </li>
@@ -65,7 +65,7 @@ Wil je dat je collega’s toch aandacht schenken aan de richtlijnen, probeer dan
 <li>Plaats af en toe en taaltip op intranet</li>
 <li>Maak praktische checklists die je collega’s kunnen
 raadplegen.<br>
-Neem bijvoorbeeld de <a href="http://www2.indwes.edu/ocls/apa/apastylechecklist.pdf">checklist van de American Psychological
+Neem bijvoorbeeld de <a class="text" href="http://www2.indwes.edu/ocls/apa/apastylechecklist.pdf">checklist van de American Psychological
 Association</a>. Ook al laat de vormgeving wat te wensen over, de checklist is
 kort en makkelijk om mee te werken.</li>
 <li>Schenk aandacht aan een veelgemaakte fout door het verspreid ophangen van posters</li> 

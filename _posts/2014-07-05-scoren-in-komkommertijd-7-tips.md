@@ -19,7 +19,7 @@ ook politici nemen even pauze.
 <figure class="floatright">
   <img src="/images/scoren-in-komkommertijd.jpg" alt="Een komkommer
   komt op het doel af" >
-  <figcaption>Goal! Originele foto: <a
+  <figcaption>Goal! Originele foto: <a class="text"
   href="bit.ly/1m35NBf">Swen-Peter Ekkebus</a>.</figcaption>
 </figure>
 

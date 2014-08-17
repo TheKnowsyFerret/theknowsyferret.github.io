@@ -17,7 +17,7 @@ herinrichting van de website.
 
 <figure class="floatright">
   <img src="/images/vuisten.jpg" alt="Vuistregels uitgebeeld door de gebalde vuisten van mensen.">
-  <figcaption>Foto:<a
+  <figcaption>Foto:<a class="text"
   href="http://bit.ly/1njP8L2"> Ibai Lemon</a></figcaption>
 </figure>
 Een mooie de kans om jezelf te profileren
@@ -47,7 +47,7 @@ een envelop staat voor “e-mail” en een vuilnisbak voor “verwijderen”.
   <a href="/images/amazon-geen-cancel-button.png"><img src="/images/amazon-geen-cancel-button.png" alt="De bezoeker kan de
   bestelling niet annuleren. De bezoeker heeft hier geen controle of
   vrijheid." title="klik op de afbeelding voor een vergroting"></a>
-  <figcaption>Hoe annuleer je de bestelling? Screenshot door <a
+  <figcaption>Hoe annuleer je de bestelling? Screenshot door <a class="text"
   href="http://bit.ly/1rx1tuF">Usabilitygal.com</a></figcaption>
 </figure>
 Zorg ervoor dat bezoekers “fouten” snel en makkelijk ongedaan kunnen
@@ -110,7 +110,7 @@ aan. Hou het design rustig. Op deze manier leid je de bezoeker niet af
 van zijn taak.
 
 ###9. Help fouten te herkennen, te diagnosticeren en te herstellen
-Een mooi voorbeeld is de<a
+Een mooi voorbeeld is de<a class="text"
 href="http://theknowsyferret.github.io/404-horror/"> 404-error</a>. Op
 deze pagina geef je aan wat er mis is gegaan, wat het probleem
 mogelijk veroorzaakt èn hoe de bezoeker het probleem op kan lossen.
@@ -127,13 +127,13 @@ Heb jij iets aan deze heuristieken? Laat het mij weten!
 <br><br>
 
 <small>Bronnen:  
-Daniel Heesen (2013).<a
+Daniel Heesen (2013).<a class="text"
 href="http://danielheesen.nl/10-heuristieken-van-nielsen/"> 10
 heuristieken van Nielsen.</a>  
-Nicky Danino (2001).<a
+Nicky Danino (2001).<a class="text"
 href="http://www.sitepoint.com/heuristic-evaluation-guide/"> Heuristic
 evaluation: a step by step guide article.</a>  
-Jakob Nielsen (1995).<a
+Jakob Nielsen (1995).<a class="text"
 href="http://www.nngroup.com/articles/ten-usability-heuristics/"> 10
 usability heuristics for user interface design.</a>
 </small>

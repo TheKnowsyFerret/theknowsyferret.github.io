@@ -30,7 +30,7 @@ lezen.
 
 ##Wat zet je in een (tussen)kop?
 Wat je in de kop zet, hangt af van de algehele strekking van de tekst of, in het geval van een tussenkop, de onderliggende alinea. 
-Volgens het <a href="http://www.bol.com/nl/p/handboek-webredactie/1001004009905814">
+Volgens het <a class="text" href="http://www.bol.com/nl/p/handboek-webredactie/1001004009905814">
 “Handboek Webredactie (2010, 1e druk)"</a> van Geert Poort en
 Corona de Wert verwoord een goede kop nieuws, een kernboodschap,
 conclusie of een voordeel voor de lezer.

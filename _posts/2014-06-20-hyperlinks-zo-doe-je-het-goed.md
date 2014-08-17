@@ -21,7 +21,7 @@ effectieve hyperlinks.
 ###1. Maak je links opvallend en scanbaar
 <figure class="floatright">
   <img src="/images/link.jpg" alt="Foto van een ketting" >
-  <figcaption>Foto: "Links" door <a
+  <figcaption>Foto: "Links" door <a class="text"
   href="http://tinyurl.com/qc2g4f7">Ruby Gold</a></figcaption>
 </figure>
 Geef de link een andere kleur dan de tekst en zet er een streep onder. 
@@ -91,14 +91,14 @@ style="text-decoration: underline;">Adobe Acrobat Reader</span>
 
 <br><br><br>
 <small>Bronnen:<br>
-Marieke McCloskey (9 maart 2014).<a href="http://www.nngroup.com/articles/writing-links/"> Writing Hyperlinks: Salient,
+Marieke McCloskey (9 maart 2014).<a class="text" href="http://www.nngroup.com/articles/writing-links/"> Writing Hyperlinks: Salient,
 Descriptive, Start with Keyword</a>.<br> 
-Jakob Nielsen (6 april 2009).<a href="http://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/"> First 2 Words: A Signal for the Scanning
+Jakob Nielsen (6 april 2009).<a class="text" href="http://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/"> First 2 Words: A Signal for the Scanning
 Eye</a>.<br>
-Jakob Nielsen (10 mei 2004).<a href="http://www.nngroup.com/articles/guidelines-for-visualizing-links/"> Guidelines for Visualizing Links</a>.<br>
-Jakob Nielsen (31 oktober 2001).<a href="http://www.nngroup.com/articles/113-design-guidelines-homepage-usability/"> 113 Design Guidlines for Homepage
+Jakob Nielsen (10 mei 2004).<a class="text" href="http://www.nngroup.com/articles/guidelines-for-visualizing-links/"> Guidelines for Visualizing Links</a>.<br>
+Jakob Nielsen (31 oktober 2001).<a class="text" href="http://www.nngroup.com/articles/113-design-guidelines-homepage-usability/"> 113 Design Guidlines for Homepage
 Usability</a>.<br>
-De Webrichtlijnen.<a
+De Webrichtlijnen.<a class="text" 
 href="http://www.webrichtlijnen.nl/aan-de-slag/het-schrijven-van-goede-linktekst">
 Het
 schrijven van goede linktekst</a> Bekeken: 19 juni 2014.<br>

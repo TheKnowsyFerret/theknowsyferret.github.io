@@ -9,3 +9,15 @@
 .current {
     font-weight: bold;
 }
+
+a.text:visited {
+    color: #696834;
+}
+a.text:hover {
+    color: #000000;
+}
+a.text {
+
+    color: #88B633;
+}
+

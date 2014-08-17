@@ -20,8 +20,7 @@ mijn lichaam.
 
 <figure class="floatright">
   <img src="/images/presentatie.jpg" alt="Presenteren voor een publiek">
-  <figcaption>Foto:<a
-  href="http://bit.ly/1njP8L2"> Scottish Resilience Development Service</a></figcaption>
+  <figcaption>Foto:<a class="text"  href="http://bit.ly/1Ao5cz3"> Scottish Resilience Development Service</a></figcaption>
 </figure>
 Ik was mij totaal niet bewust van deze non-verbale gedragingen, totdat
 anderen mij dit lieten weten. Hun oordeel was duidelijk: mijn gebaren
@@ -152,17 +151,17 @@ Herken jij jezelf in deze gedragingen? Laat het mij weten!
 <br><br>
 
 <small>Bronnen:<br>
-Publicwords.com (26 juni 2012).<a
+Publicwords.com (26 juni 2012).<a class="text"
 href="http://publicwords.com/body-language-how-to-master-non-verbal-communication/">
 Body language: how to master non-verbal communication</a>.<br> 
-Gingerpublicspeaking.com. <a
+Gingerpublicspeaking.com. <a class="text"
 href="http://www.gingerpublicspeaking.com/grim-gestures-10-hand-gesture-mistakes-public-speakers-should-avoid
 ">Grim Gestures: 10 hand gesture mistakes public speakers should
 avoid.</a> Bekeken: 11 augustus 2014.<br>
-Expesssyourselftosuccess.com. <a
+Expesssyourselftosuccess.com. <a class="text"
 href="http://www.expressyourselftosuccess.com/gestures-to-avoid-when-speaking-in-public/">
 Gestures to avoid when speaking in public</a>. Bekeken: 10 augustus 2014.<br>
-Telegraph.co.uk. <a
+Telegraph.co.uk. <a class="text"
 href="http://www.telegraph.co.uk/news/uknews/leveson-inquiry/9294635/Leveson-Inquiry-Tony-Blairs-gesticulations-explained.html
 ">Leveson Inquiry: Tony Blair's gesticulations explained</a>. Bekeken:
 12 augustus 2014.<br>

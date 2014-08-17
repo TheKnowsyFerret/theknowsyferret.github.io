@@ -16,7 +16,7 @@ Ik kan natuurlijk een top 10 maken van de meest succesvolle koppen, waarmee je d
 
 <figure class="floatright">
   <img src="/images/sigmundfreud.jpg" alt="Foto van Sigmund Freud" >
-  <figcaption>Foto: "Sigmund Freud" door <a
+  <figcaption>Foto: "Sigmund Freud" door <a class="text"
   href="http://bit.ly/1qQ8d8Z">Ben Rennen</a></figcaption>
 </figure>
 Daarom wil ik het anders doen. Ik wil je graag uitleggen waarom deze
@@ -33,7 +33,7 @@ de 5 basismotieven van lezers.
 
 ##De 5 basismotieven van lezers
 De ene kop trekt meer aandacht dan de andere. Volgens Wim van der
-Mark, auteur van <a
+Mark, auteur van <a class="text"
 href="http://www.managementboek.nl/boek/9789001772727/marketing.com-1e-druk-2009-wim-van-der-mark">"Marketing.com:
 e-communicatie in praktijk”</a> (2009)
 zullen koppen die de meeste aandacht krijgen van de lezer, ingaan op
