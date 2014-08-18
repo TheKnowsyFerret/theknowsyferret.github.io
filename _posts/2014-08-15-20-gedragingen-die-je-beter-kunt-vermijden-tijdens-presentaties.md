@@ -72,7 +72,7 @@ Het heen en weer of op en neer lopen op het podium, met of zonder wilde gebaren.
 Een goed voorbeeld is Tony Robbins. Tijdens een presentatie bij TEDtalks
 blijft hij maar heen en weer lopen. 
 
-<iframe width="420" height="315"
+<iframe width="560" height="315"
 src="//www.youtube.com/embed/Cpc-t-Uwv1I" frameborder="0"
 allowfullscreen></iframe>
 
