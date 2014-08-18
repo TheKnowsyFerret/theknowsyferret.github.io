@@ -30,8 +30,7 @@ Ze heeft met name interesse in usability, webredactie, interne
 communicatie en social media, al is ze ook niet vies van een beetje
 marketing.<br>
 
-Haar droomwens: werken als webredacteur  
-of communicatiemedewerker/ communicatieadviseur binnen de overheid of non-profit sector.
+Haar droomwens: werken als webredacteur, communicatiemedewerker of communicatieadviseur binnen de overheid of non-profit sector.
 <br><br>
 
 <a markdown="0" href="{{ site.url }}/" class="btn">Naar
