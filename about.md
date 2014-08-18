@@ -9,7 +9,7 @@ image:
   credit: 
   
 ---
-##De blog
+##Blog
 Hoe schrijf ik goede teksten voor mijn website? Wat kan ik doen om
 mijn site vindbaar te maken? Is mijn website gebruikersvriendelijk? Wat is het nut van metadata en
 hoe voer ik dit in? Hoe hou ik een goede presentatie? Wat zijn de
