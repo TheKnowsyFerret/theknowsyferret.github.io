@@ -16,7 +16,7 @@ fijner?
 <figure>
 <a href="../images/koppen.jpg" ><img src="../thumbnails/koppen_resized.jpg" alt="Voorbeelden van webteksten
 met en zonder tussenkoppen" title="Klik op de afbeelding voor een vergroting. "></a>
-<figcaption>(Bron: Deltares en de Belastingdienst)</figcaption>
+<figcaption>Bron: Deltares en de Belastingdienst</figcaption>
 </figure>
 Ik durf te wedden dat je kiest voor de rechter tekst!
 
