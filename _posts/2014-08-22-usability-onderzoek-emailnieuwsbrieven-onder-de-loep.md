@@ -15,7 +15,7 @@ share: true
 
 Bol.com, de HEMA…
 
-<figure class="floatright">
+<figure class="floatright round">
   <img src="/images/onder-de-loep.jpg" alt="Een inspecteur kijkt door een vergrootglas" >
   <figcaption>Foto: <a href="http://bit.ly/onderdeloep">Paurian</a></figcaption>
 </figure>
@@ -53,10 +53,10 @@ een ander patroon te hebben gevonden: de focus van lezers ligt in het
 midden. Hun advies is dan ook de ankers te verhogen, zodat het te
 lezen artikel meer in het midden ligt. Als voorbeeld gebruiken zij
 hier de nieuwsbrieven van de Bruna en de OHRA.
-<figure>
-  <img src="/images/focus-in-het-midden.png" alt="Lezers focussen op
-  het midden">
-  <figcaption>De focus van lezers ligt op het midden (bron: DDMA)</a></figcaption>
+
+<figure class="shadow">
+  <img src="/images/focus-in-het-midden.png" alt="Lezers focussen op het midden">
+  <figcaption>De focus van lezers ligt op het midden (bron: DDMA)cd </a></figcaption>
 </figure>
 
 Uit <a
@@ -88,11 +88,13 @@ Lezers waren geneigd de nieuwsbrief eerder te openen als de afzender en het onde
 Volgens het rapport werd de onderwerpsregel van HB Haire Careshop niet
 direct in verband gebracht met de organisatie, omdat hier naast haar-
 ook over huidproducten werd gesproken.<br>
-<figure>
+
+<figure class="shadow">
   <img src="/images/afzender-onderwerpregel.png" alt="Onderwerp sluit
   niet aan op afzender">
   <figcaption>Sluit afzender en onderwerpregel op elkaar aan (bron: DDMA)</a></figcaption>
 </figure>
+
 In de praktijk zijn het vooral de <a
 href="http://www.nngroup.com/articles/e-mail-newsletters-usability/">fans
 en trouwe klanten</a> die op nieuwsbrieven geabonneerd zijn. In het
@@ -120,7 +122,7 @@ van zendergerichte informatie, terwijl juist de lezer centraal moet staan.</li>
 Aan de andere kant kent het onderzoek wel degelijk interessante
 bevindingen:
 
-<figure class="floatright">
+<figure class="floatright shadow">
   <img src="/images/onrustige-layout.jpg" alt="Nieuwsbrief waarbij
   tekstkaders en afbeeldingen om en om zijn weergegeven.">
   <figcaption>Het om en om aanbieden
