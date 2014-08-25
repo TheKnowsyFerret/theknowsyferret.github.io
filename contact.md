@@ -23,7 +23,7 @@ nemen.
 <li>E-mail: <a href="mailto:theknowsyferret@gmail.com" target="_top">theknowsyferret@gmail.com</a></li>
 <li>Twitter: <a href="https://twitter.com/theknowsyferret">@theknowsyferret</a></li>
 </ul>
-
+<br>
 Of gebruik onderstaand contactformulier:<br>
 
 <form action="http://getsimpleform.com/messages?form_api_token=c7616578dda4d45e7a841ac3664f09e9" method="post">
