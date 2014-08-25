@@ -35,6 +35,10 @@ bing_verify:
 links:
   - title: Over
     url: /about/
+rechts:
+  - title: Contact
+    url: /contact/
+  
   
 
 paginate: 7

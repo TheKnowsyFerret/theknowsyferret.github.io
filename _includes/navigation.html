@@ -12,6 +12,16 @@
 	        {% endfor %}
 	        <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
 	        {% if site.search %}<li class="dosearch"><i class="icon-search"></i> Zoek</li>{% endif %}
+	        {% for link in site.rechts %}
+			<li>
+				{% if link.external %}
+					<a href="{{ link.url }}">{{ link.title }}</a>
+				{% else %}
+					<a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+				{% endif %} 
+			</li>
+	        {% endfor %}
+		
 	    </ul>
 	</nav>
 </div><!-- /.navigation-wrapper -->

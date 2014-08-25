@@ -2,8 +2,11 @@
 layout: page
 permalink: /about/
 title: Over The Knowsy Ferret
+description: "Met de tips van The Knowsy Ferret kun je direct met je
+eigen website of communicatievraagstukken aan de slag. Tabitha Post is
+cognitief psycholoog en communicatieprofessional."
 tags: [The Knowsy Ferret, missie, doel]
-modified: 2013-09-13
+modified: 2014-05-01
 image:
   feature: yosemite_crop.jpg
   credit: 
