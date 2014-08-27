@@ -26,7 +26,7 @@ lezers? Netprofile zocht dit uit.
 
 In opdracht van de Dutch Dialogue Marketing Association (DDMA) werden
 de e-mailnieuwsbrieven van 14 verschillende organisaties onderzocht
-door middel van usability en eyetracking onderzoek. Het resultaat zijn 16 onthullende bevindingen.
+door middel van usability-onderzoek en eyetracking. Het resultaat zijn 16 onthullende bevindingen.
 
 In deze blogpost geef ik een review van dit onderzoek: wat viel mij op tijdens het lezen van de resultaten? En…zijn de conclusies ècht onthullend?
 
