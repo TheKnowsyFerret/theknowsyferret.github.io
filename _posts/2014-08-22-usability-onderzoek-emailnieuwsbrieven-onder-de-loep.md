@@ -55,7 +55,7 @@ lezen artikel meer in het midden ligt. Als voorbeeld gebruiken zij
 hier de nieuwsbrieven van de Bruna en de OHRA.
 
 <figure class="shadow">
-  <img src="/images/focus-in-het-midden.png" alt="Lezers focussen op het midden">
+  <img src="/images/focus-op-het-midden.png" alt="Lezers focussen op het midden">
   <figcaption>De focus van lezers ligt op het midden (bron: DDMA)cd </a></figcaption>
 </figure>
 
