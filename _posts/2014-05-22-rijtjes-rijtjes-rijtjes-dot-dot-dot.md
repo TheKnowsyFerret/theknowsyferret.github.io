@@ -39,7 +39,7 @@ om een verkopende tekst waarin je voordelen voor de lezer opsomt.
 
 ##Opsommingen: de regels
 Net als koppen en alinea’s gelden bij het gebruik van bullets of
-opsommingen regels, waarmee de scannende lezer een webtekst efficient
+opsommingen regels, waarmee de scannende lezer een webtekst efficiënt
 kan lezen. Hier komen ze:
 
 - **Beperk je tot maximaal 3 tot 5 punten**. Gebruik je meer dan dit,

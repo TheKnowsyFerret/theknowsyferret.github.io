@@ -26,7 +26,7 @@ lezers? Netprofile zocht dit uit.
 
 In opdracht van de Dutch Dialogue Marketing Association (DDMA) werden
 de e-mailnieuwsbrieven van 14 verschillende organisaties onderzocht
-door middel van usability- en eyetracking onderzoek. Het resultaat zijn 16 onthullende bevindingen.
+door middel van usability en eyetracking onderzoek. Het resultaat zijn 16 onthullende bevindingen.
 
 In deze blogpost geef ik een review van dit onderzoek: wat viel mij op tijdens het lezen van de resultaten? En…zijn de conclusies ècht onthullend?
 
@@ -70,7 +70,7 @@ Neem je de nieuwsbrieven van de Bruna en de OHRA, dan is
 dat nu precies wat er hier aan de hand is:<br>
 <ol>
 <li>De voordeeltekst van de Bruna is visueel afgebakend van de rest
-van de niewsbrief. Er is afstand
+van de nieuwsbrief. Er is afstand
 tussen deze tekst en de omliggende artikelen. Bovendien maakt de tekst
 onderdeel uit van een grafische visualisatie.</li>
 <li>Ook het grijze kader van
@@ -85,7 +85,7 @@ F-patroon laat zien.
 
 ###Aansluiting afzender en de onderwerpsregel
 Lezers waren geneigd de nieuwsbrief eerder te openen als de afzender en het onderwerp op elkaar aansloten.<br>
-Volgens het rapport werd de onderwerpsregel van HB Haire Careshop niet
+Volgens het rapport werd de onderwerpsregel van HB Hair Careshop niet
 direct in verband gebracht met de organisatie, omdat hier naast haar-
 ook over huidproducten werd gesproken.<br>
 

@@ -30,7 +30,7 @@ leuke ideeën voor de nieuwe website, je bezoekers optimaal bedienen.
 ###1. Laat zien wat er gebeurt
 Geef de bezoeker feedback bij de handelingen die hij of zij doet.  
 Zo kun je bij het downloaden of uploaden van bestanden een tijdbalk
-tonen met met de geschatte tijdsduur van het up- of downloadproces.   
+tonen met de duur van het up- of downloadproces.   
 Doorloopt je bezoeker een stappenplan bij het kopen van een product?
 Laat het aantal stappen zien en geef ook aan op welke stap de bezoeker
 zich op dat moment bevind.

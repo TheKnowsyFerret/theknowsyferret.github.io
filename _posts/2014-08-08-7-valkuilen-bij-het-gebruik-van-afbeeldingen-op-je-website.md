@@ -47,7 +47,7 @@ geven”</a>.
 
 ##Valkuil 2: verkeerd gebruik van JPG, PNG en GIF
 Bij het opslaan van afbeeldingen heb je de keuze uit drie
-mogelijkheden: GIF, JPG en PNG.Hier gaat het vaak mis, want wanneer
+mogelijkheden: GIF, JPG en PNG. Hier gaat het vaak mis, want wanneer
 kies je nou welk bestandstype? Ik adviseer het volgende:
 
 <figure class="floatright">
@@ -122,8 +122,8 @@ gebruikt. Deze methode heet <a href="http://www.wordstream.com/blog/ws/2012/03/2
 stuffing”</a> en komt onnatuurlijk over op de lezer. Bovendien leidt dit tot een lagere ranking door zoekmachines!
 
 Het vermijden van “keyword stuffing” is makkelijk: gebruik
-**verschillende omschrijvingen** voor het bijschrift, de alt tekst en
-de title tekst.
+**verschillende omschrijvingen** voor het bijschrift, de alt-tekst en
+de title-tekst.
 
 
 ##Valkuil 6: de afbeeldingen voegen niks toe aan de inhoud
@@ -141,7 +141,7 @@ Kortom, gebruik afbeeldingen die:
 ##Valkuil 7: het ontbreken van de "height" en "width" attributen
 Als je veel afbeeldingen hebt op je site, dan duurt het even voordat deze geladen zijn. Soms komt het voor dat je in deze laadperiode afbeeldingen en andere content op je scherm ziet verspringen.
 
-Dit is te voorkomen door de “height” en “weight” attributen van het
+Dit is te voorkomen door de “height” en “width” attributen van het
 img (image) element in te stellen. De browser kent dan de afmetingen
 van de afbeeldingen en reserveert hier alvast ruimte voor. 
 

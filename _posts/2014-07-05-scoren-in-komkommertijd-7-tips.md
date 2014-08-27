@@ -53,9 +53,9 @@ beelden kunnen amusement bieden.
 
 ###6. Denk groot  
 Het bericht moet een brede belangstelling hebben. 
-Denk aan vliegtuigrampenof veiligheidsproblemen. Berichten over het
+Denk aan vliegtuigrampen of veiligheidsproblemen. Berichten over het
 milieu zijn vaak minder interessant. Maar leg je de relatie tussen
-milieu en gezondheidsproblemen bij buurtbewoners, dan zul je meer
+milieu en gezondheidsproblemen bij buurtbewoners, dan zal je meer
 aandacht krijgen.
 
 Daarnaast moet het onderwerp voor veel mensen belangrijk zijn. Een

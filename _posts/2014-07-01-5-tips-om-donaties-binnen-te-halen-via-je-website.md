@@ -49,8 +49,8 @@ zoals "Doneer" of "Doneer nu".
 Donateurs zijn het meest bekend met het afrekenproces van online
 aankopen en weten wat zij hierbij kunnen verwachten. Maak hier gebruik
 van en boots dit proces na.
-Natuurlijk zul je bij donaties extra opties willen geven, zodat iemand
-aan kan geven dat hij uit naam van een ander doneert of dat hij of zij
+Natuurlijk wil je bij donaties extra opties geven, zodat iemand
+aan kan geven dat hij uit naam van een ander doneert of dat hij/zij
 herhaaldelijk wil doneren. Maak het donateurs hier zo makkelijk
 mogelijk: zorg ervoor dat zij niet veel hoeven te typen en maak de
 besluitvorming makkelijk.

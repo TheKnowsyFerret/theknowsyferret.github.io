@@ -53,7 +53,7 @@ bij elkaar.
 Op zich is dit een sterk en gecontroleerd gebaar dat je goed kunt
 gebruiken bij het benadrukken van de essentie van je
 boodschap. Gebruik dit gebaar echter met mate, anders kom je defensief
-cd Docover.
+over.
 
 ###4. De beschermer
 Probeer je handen niet voor je lichaam te houden. Een voorbeeld: doe je je armen over elkaar, dan is dit een teken dat je jezelf wilt beschermen. Ook kan het betekenen dat je het ergens mee oneens bent. 
@@ -106,7 +106,7 @@ Toch is het beter om niet op1 plek te blijven staan, maar de gehele
 ruimte te gebruiken. Dit getuigt van leiderschap en komt zelfverzekerd
 over.
 
-###14. Eénrichtingsverkeer
+###14. Eenrichtingsverkeer
 Gebruik alle richtingen die er zijn en beperk je niet tot de ruimte
 voor je neus. Wijs naar voren, achter, links, rechts en alles hier
 tussen in.
