@@ -49,7 +49,7 @@ nieuwsbrief, naast gebruikersgemak, tegemoetkomen aan deze
 In 2006 liet Nielsen zien dat het scangedrag van weblezers een <a
 href="http://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/">
 F-patroon</a> vertoont. Het onderzoek van DDMA en Netprofiler lijkt
-een ander patroon te hebben gevonden: de focus van lezers ligt in het
+een ander patroon te hebben gevonden: de focus van lezers ligt op het
 midden. Hun advies is dan ook de ankers te verhogen, zodat het te
 lezen artikel meer in het midden ligt. Als voorbeeld gebruiken zij
 hier de nieuwsbrieven van de Bruna en de OHRA.
