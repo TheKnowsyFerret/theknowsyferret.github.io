@@ -71,7 +71,7 @@ opent.
 Symbolen en speciale tekens trekken de aandacht. Ontvangers herkennen
 symbolen en speciale tekens echter ook als uitingen van marketing. Daarnaast
 zijn ze niet gericht op het individu.  
-. Wil je ze toch gebruiken? Zet ze dan in het midden of aan het eind
+Wil je ze toch gebruiken? Zet ze dan in het midden of aan het eind
 van de onderwerpregel en gebruik het eerste  deel van de regel voor
 betekenisvolle woorden waaruit de inhoud van de e-mail blijkt.
 
