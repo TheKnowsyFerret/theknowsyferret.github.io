@@ -80,7 +80,6 @@ Een effectieve manier om de aandacht te trekken en de openingskans te
 vergroten, is het toevoegen van een locatie. Lezers zijn eerder
 geneigd om de e-mail te openen als zij de betreffende plek kennen.
 
-
 ###8. Promotie: vragen helpt
 Vermijd het gebruik van uitroeptekens en hoofdletters. Dit komt
 schreeuwerig over. Vragen hebben vaak meer succes.
