@@ -69,7 +69,7 @@ opent.
 
 ###6. Wees voorzichtig met symbolen en speciale tekens
 Symbolen en speciale tekens trekken de aandacht. Ontvangers herkennen
-symbolen en speciale tekens echter als marketing uitingen. Daarnaast
+symbolen en speciale tekens echter ook als uitingen van marketing. Daarnaast
 zijn ze niet gericht op het individu.  
 . Wil je ze toch gebruiken? Zet ze dan in het midden of aan het eind
 van de onderwerpregel en gebruik het eerste  deel van de regel voor
