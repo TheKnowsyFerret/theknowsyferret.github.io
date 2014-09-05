@@ -155,7 +155,7 @@ beantwoord. Hier kun je achter komen door hem expliciet te vragen of
 hij voldoende geholpen is of dat hij nog vragen heeft.
 
 <br>
-Wil je weten welke eignschappen of vaardigheden nog meer van belang zijn? Lees dan
+Wil je weten welke eigenschappen of vaardigheden nog meer van belang zijn? Lees dan
 eens de volgende artikelen:<br>
 <br>
 <small>Helpscout.com (20 februari 2013). <a
