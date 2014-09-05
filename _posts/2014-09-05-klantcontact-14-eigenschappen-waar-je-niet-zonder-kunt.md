@@ -30,10 +30,10 @@ reviews van derden, zullen ook potentiële klanten zeker drie keer
 nadenken voordat zij met jouw bedrijf in zee gaan.
 
 Als voorlichter en projectmedewerker, maar ook binnen andere functies, heb ik veel ervaring opgedaan met het onderhouden van
-klantcontacten. Wil je het contact met klanten succesvol laten
+klantcontacten.<br>
+Wil je het contact met klanten succesvol laten
 verlopen, dan is het noodzakelijk om in ieder geval te beschikken over
 de volgende 14 eigenschappen.
-
 <br><br>
 
 ###1. Reageer tijdig
