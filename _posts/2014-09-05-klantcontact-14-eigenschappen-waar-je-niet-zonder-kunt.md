@@ -95,7 +95,50 @@ maken. Om te weten wat je wel en wat je niet kunt beloven, is het
 belangrijk om op de hoogte te zijn (en te blijven) van de regels en
 procedures binnen de organisatie.
 
-###9. Hanteer een goede afsluitingstechniek
+###9. Goed kunnen omgaan met stress en onverwachte situaties
+Blijf altijd kalm, ook al is de klant dit niet. Blijf rustig en laat
+je niet van je stuk brengen.<br>
+Kom je in een onverwachte situatie terecht? Stel voor jezelf een noodplan
+op. <br>
+Naar wie ga je toe met een onoplosbaar probleem? Welke info geef je
+door aan die collega die jouw moet helpen? Hoe kom je met die persoon
+in contact? <br>
+Daarnaast is het van belang om vooruit te kunnen denken, je aan te
+kunnen passen aan de situatie en een goede kennis te hebben van de
+producten, diensten, regels en procedures binnen de organisatie.
+
+###10. Maak gebruik van een follow-up
+Heeft de klant een probleem of een vraag bij jou neergelegd en duurt het even
+voordat je een antwoord voor hem hebt? Hou hem dan op de hoogte van
+de ontwikkelingen. Ook als er geen ontwikkelingen zijn, stellen
+klanten het op prijs als je af en toe even contact met hen opneemt. Zo
+laat je de klant weten dat je nog steeds aan hem denkt en dat je nog
+steeds aan zijn vraag of probleem
+werkt.
+
+###11. Wees oplettend
+Klanten zeggen niet altijd direct wat zij van jou willen. Lees daarom
+tussen de regels door.  Welke termen gebruikt de klant? Wat zegt zijn
+lichaam? Klanten zullen bijvoorbeeld niet snel zeggen dat de
+gebruikersvriendelijkheid van de website te wensen over laat. Ze
+zullen eerder zeggen dat ze een bepaalde knop niet kunnen vinden. Wees
+hierop alert!
+
+###12. Wees eerlijk, duidelijk en transparant
+Als je iets niet weet, zeg dat dan eerlijk. Zeg dat je het voor de
+klant zult uitzoeken en dat je hem daarover terugbelt. Doe
+dit ook! <br>
+Heb je een fout gemaakt? Geef dat eerlijk toe en bied je excuses aan. Klanten
+waarderen dit.<br>
+Daarnaast is het belangrijk om in je communicatie met de klant duidelijk
+te zijn. Draai niet om de hete brij heen, maar wees direct.
+
+###13. Wees geduldig
+Dit is vooral van belang als klanten gefrustreerd of verward
+zijn. Probeer in zo'n situatie te achterhalen wat de wens of behoefte
+van de klant is en speel hierop in.
+
+###14. Hanteer een goede afsluitingstechniek
 Weet wanneer een geprek is afgelopen en zorg ervoor dat de klant
 tevreden ophangt. Enkele voorbeelden:<br>
 Soms kun je een klant niet zelf helpen en moet je hem doorverbinden met een collega. Doe dit zo tijdig
@@ -110,49 +153,6 @@ ontwikkelingen. <br>
 Ook is een geprek afgelopen als alle vragen van de klant zijn
 beantwoord. Hier kun je achter komen door hem expliciet te vragen of
 hij voldoende geholpen is of dat hij nog vragen heeft.
-
-###10. Goed kunnen omgaan met stress en onverwachte situaties
-Blijf altijd kalm, ook al is de klant dit niet. Blijf rustig en laat
-je niet van je stuk brengen.<br>
-Kom je in een onverwachte situatie terecht? Stel voor jezelf een noodplan
-op. <br>
-Naar wie ga je toe met een onoplosbaar probleem? Welke info geef je
-door aan die collega die jouw moet helpen? Hoe kom je met die persoon
-in contact? <br>
-Daarnaast is het van belang om vooruit te kunnen denken, je aan te
-kunnen passen aan de situatie en een goede kennis te hebben van de
-producten, diensten, regels en procedures binnen de organisatie.
-
-###11. Maak gebruik van een follow-up
-Heeft de klant een probleem of een vraag bij jou neergelegd en duurt het even
-voordat je een antwoord voor hem hebt? Hou hem dan op de hoogte van
-de ontwikkelingen. Ook als er geen ontwikkelingen zijn, stellen
-klanten het op prijs als je af en toe even contact met hen opneemt. Zo
-laat je de klant weten dat je nog steeds aan hem denkt en dat je nog
-steeds aan zijn vraag of probleem
-werkt.
-
-###12. Wees oplettend
-Klanten zeggen niet altijd direct wat zij van jou willen. Lees daarom
-tussen de regels door.  Welke termen gebruikt de klant? Wat zegt zijn
-lichaam? Klanten zullen bijvoorbeeld niet snel zeggen dat de
-gebruikersvriendelijkheid van de website te wensen over laat. Ze
-zullen eerder zeggen dat ze een bepaalde knop niet kunnen vinden. Wees
-hierop alert!
-
-###13. Wees eerlijk, duidelijk en transparant
-Als je iets niet weet, zeg dat dan eerlijk. Zeg dat je het voor de
-klant zult uitzoeken en dat je hem daarover terugbelt. Doe
-dit ook! <br>
-Heb je een fout gemaakt? Geef dat eerlijk toe en bied je excuses aan. Klanten
-waarderen dit.<br>
-Daarnaast is het belangrijk om in je communicatie met de klant duidelijk
-te zijn. Draai niet om de hete brij heen, maar wees direct.
-
-###14. Wees geduldig
-Dit is vooral van belang als klanten gefrustreerd of verward
-zijn. Probeer in zo'n situatie te achterhalen wat de wens of behoefte
-van de klant is en speel hierop in.
 
 <br>
 Wil je weten welke eignschappen of vaardigheden nog meer van belang zijn? Lees dan
