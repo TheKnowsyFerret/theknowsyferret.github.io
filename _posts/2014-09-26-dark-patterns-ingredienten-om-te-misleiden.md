@@ -127,6 +127,7 @@ Je bent gewaarschuwd!<br>
 Meer voorbeelden van misleidende webontwerpen bekijken? Surf dan naar
 <a href="http://www.darkpatterns.org">www.darkpatterns.org</a>.
 
+<br>
 <small>Bronnen:<br>
 <a href="http://wwwdarkpatterns.org">www.darkpatterns.org</a><br>
 Nielsen (2005). <a
