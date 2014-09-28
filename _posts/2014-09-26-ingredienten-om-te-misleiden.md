@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dark patterns: ingrediënten om te misleiden"
+title: "Ingrediënten om te misleiden"
 modified: 2014-09-26 11:21:23 +0200
 tags: [dark patterns, usability, gebruikerservaring]
 image:
