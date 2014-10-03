@@ -106,7 +106,7 @@ Moda</a></figcaption>
 Tot slot zullen websites in 2015 content gaan afstemmen op individuele
 gebruikers met als doel een betere gebruikerservaring. Het is
 natuurlijk fijner als een website rekening houdt met jou wensen en
-voorkeuren, nietwaar?<br>
+voorkeuren, nietwaar?
 
 <br><br>
 Welke trends denk jij dat er zullen komen in 2015? Wat zou jij graag willen zien? 
