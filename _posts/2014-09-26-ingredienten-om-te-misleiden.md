@@ -45,6 +45,7 @@ Als zij een keuze hebben, kiezen mensen vaak de optie die standaard staat aangev
 Wil je een donatie doen bij de Oxfam Novib, dan staat de optie van 10
 euro standaard aangevinkt. Let je niet goed op, dan schrijven zij dit
 bedrag met plezier maandelijks van je rekening af!
+
 <figure class="shadow">
 <img src="/images/darkpattern_oxfamnovib.png" alt="Oxfam Novib heeft
 als standaardoptie dat zij maandelijks 10 euro van je rekening
@@ -62,6 +63,7 @@ _De blokkade_<br>
 Blokkeer het scherm, zodat de webgebruiker zijn taak niet meer kan
 uitvoeren of afmaken. Zo weigert Simpel.nl iedereen toegang tot de
 website als zij geen cookies accepteren.
+
 <figure class="shadow">
 <img src="/images/darkpattern_simpelnl.png"
 alt="De website van simpel.nl kun je alleen bekijken nadat je de
@@ -79,7 +81,11 @@ maar vragen ze in welk land je woont.
 je verzekerd wilt zijn, maar waar je woont.">
 </figure>
 
-Lees je echter ook de kleine lettertjes, dan zie je dat je de optie “Zonder verzekering reizen” kunt selecteren als je geen reisverzekering wilt.  Waar je die optie vindt? Helemaal onderaan de lijst!
+Lees je echter ook de kleine lettertjes, dan zie je dat je de optie
+“Zonder verzekering reizen” kunt selecteren als je geen
+reisverzekering wilt.  Waar je die optie vindt? Helemaal onderaan de
+lijst!
+
 <figure class="shadow">
 <img src="/images/darkpatternryanair2.png" alt="De optie waarbij je
 geen reisverzekering neemt, staat helemaal onderaan de lijst.">
