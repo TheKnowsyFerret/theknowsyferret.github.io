@@ -49,6 +49,7 @@ bedrag met plezier maandelijks van je rekening af!
 <img src="/images/darkpattern_oxfamnovib.png" alt="Oxfam Novib heeft
 als standaardoptie dat zij maandelijks 10 euro van je rekening
 afschrijven">
+<figcaption>Bron: Oxfam Novib</figcaption>
 </figure>
 
 _De omgekeerde usability vuistregel_<br>
@@ -65,6 +66,7 @@ website als zij geen cookies accepteren.
 <img src="/images/darkpattern_simpelnl.png"
 alt="De website van simpel.nl kun je alleen bekijken nadat je de
 cookies hebt geaccepteert.">
+<figcaption>Bron: simpel</figcaption>
 </figure>
 
 _De strikvraag_<br>
@@ -81,6 +83,7 @@ Lees je echter ook de kleine lettertjes, dan zie je dat je de optie “Zonder ve
 <figure class="shadow">
 <img src="/images/darkpatternryanair2.png" alt="De optie waarbij je
 geen reisverzekering neemt, staat helemaal onderaan de lijst.">
+<figcaption>Bron: Ryanair</figcaption>
 </figure>
 
 Ben je van plan om je te abonneren op Wired UK? Let dan goed op bij
@@ -92,7 +95,9 @@ want Wired gebruikt wisselende opt-in en opt-out vragen!">
 <figcaption>Wil je <strong>geen</strong> aanbiedingen ontvangen van Wired? Vink dan
 <strong>geen</strong> opties in de eerste regel aan.<br>
 Wil je <strong>geen</strong>
-aanbiedingen van derden ontvangen? <strong>Vink</strong> dan <strong>beide opties aan</strong>.</figcaption>
+aanbiedingen van derden ontvangen? <strong>Vink</strong> dan
+<strong>beide opties aan</strong>.<br>
+Bron: Wired.</figcaption>
 </figure>
 
 _Bait and switch_<br>
@@ -105,6 +110,7 @@ Hotels.com!
 <a href="/images/darkpatternhotelscom.png"><img src="/thumbnails/darkpatternhotelscom.png" alt="Het telefoonnummer
 achteraan de adresgegevens van het hotel zijn niet van The Mission Inn
 maar van hotels.com"></a>
+<figcaption>Bron: Hotels.com</figcaption>
 </figure>
 
 ###Easy in, difficult out
