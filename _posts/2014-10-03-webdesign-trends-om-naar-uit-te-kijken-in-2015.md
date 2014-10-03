@@ -44,7 +44,7 @@ rekening houden met de schermgroote van alle mogelijke applicaties">
 ##3. Scrollen in plaats van klikken
 Het aantal mensen met een smartphone is de afgelopen jaren sterk gegroeid.  Klikken op zo’n apparaat is echter lastiger dan scrollen en dus scrollen we massaal.<br>
 Alhoewel websites met meerdere pagina’s het beter doen op het gebied
-van SEO, zullen websites in 2015 wellicht overgaan tot 1 pagina of
+van SEO, zullen websites in 2015 overgaan tot 1 pagina of
 panel van waaruit de mobiele gebruiker makkelijker toegang heeft tot
 alle content.
 
@@ -53,7 +53,7 @@ De hoogtijdagen van New Times Roman, Arial en Helvetica zijn nu echt voorbij.
 Met de komst van kwalitatief goede alternatieven is de keuze namelijk
 behoorlijk toegenomen. Zo biedt <a href="https://typekit.com">Type
 Kit</a> van Adobe duizenden fonts voor een betaalbare prijs. Ga je
-liever voor gratis? Neem dan eens en kijkje bij <a href="https://www.google.com/fonts">Google Fonts</a>.<br>
+liever voor gratis? Neem dan eens een kijkje bij <a href="https://www.google.com/fonts">Google Fonts</a>.<br>
 Kortom,  jezelf onderscheiden van de massa hoeft in 2015 geen probleem
 meer te zijn!
 
@@ -72,7 +72,7 @@ Daarnaast zal onder invloed van Pinterest, het aantal websites met een
 “card design” (ook wel “tile-look” genoemd) in 2015 nog meer
 toenemen. De kaarten of tegels zijn namelijk niet alleen aantrekkelijk, ze hebben
 ook nog een functie. Zo kun je commentaar geven op kaarten en kun je
-ze delen, pinnen, en ga maar zo door.
+ze delen, pinnen en ga maar zo door.
 
 <figure>
 <img src="/images/googlenow-card-design.png" alt="Google Now gebruikt
@@ -105,7 +105,7 @@ Moda</a></figcaption>
 ##7. Meer aandacht voor het individu
 Tot slot zullen websites in 2015 content gaan afstemmen op individuele
 gebruikers met als doel een betere gebruikerservaring. Het is
-natuurlijk fijner als een website rekening houdt met jou wensen en
+natuurlijk fijner als een website rekening houdt met jouw wensen en
 voorkeuren, nietwaar?
 
 <br><br>
