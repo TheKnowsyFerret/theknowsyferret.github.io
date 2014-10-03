@@ -108,7 +108,7 @@ gebruikers met als doel een betere gebruikerservaring. Het is
 natuurlijk fijner als een website rekening houdt met jouw wensen en
 voorkeuren, nietwaar?
 
-<br><br>
+<br>
 Welke trends denk jij dat er zullen komen in 2015? Wat zou jij graag willen zien? 
 
 
