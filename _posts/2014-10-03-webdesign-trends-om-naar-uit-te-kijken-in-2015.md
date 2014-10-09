@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Webdesign trends om naar uit te kijken in 2015"
+description: "Heeft jouw website een make-over nodig? Let dan goed op,
+want dit zijn de trends voor volgend jaar."
 modified: 2014-10-02 19:03:49 +0200
 tags: [webdesign, gebruikerservaring]
 image:

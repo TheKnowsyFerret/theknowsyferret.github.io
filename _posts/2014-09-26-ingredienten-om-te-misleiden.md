@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Ingrediënten om te misleiden"
+description: "Bedrijven laten je op het internet met gemak producten kopen of
+dingen doen die je helemaal niet wilt. Het enige dat zij daarvoor
+nodig hebben, is kennis van het menselijk gedrag en en gehaaid webontwerp."
 modified: 2014-09-26 11:21:23 +0200
 tags: [dark patterns, usability, gebruikerservaring]
 image:
