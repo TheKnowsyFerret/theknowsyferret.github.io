@@ -22,7 +22,7 @@ uit">
 
 In de praktijk bestaat er nogal wat verwarring over flyers, leaflets,
 folder en brochures. Mensen gebruiken de termen vaak door elkaar heen,
-maar wat is nu het verschil en wanneer zet je deze
+maar wat is nu het verschil en wanneer zet je deze verschillende
 communicatiemiddelen in?
 
 ## Flyers en leaflets
