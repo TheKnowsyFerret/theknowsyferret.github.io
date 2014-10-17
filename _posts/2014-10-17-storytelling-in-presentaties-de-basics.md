@@ -131,7 +131,9 @@ snelheid van praten beïnvloeden: praat snel of langzaam voor het uiten
 van verschillende emoties.
 
 ## Het verhaal beëindigen
-Bij het beëindigen van het verhaal zeg je niet dat het verhaal is afgelopen, maar laat je dit merken door een pauze in te lassen of het spreektempo en lichaamstaal te veranderen.
+Bij het beëindigen van het verhaal zeg je niet dat het verhaal is
+afgelopen, maar laat je dit merken door een pauze in te lassen, je
+spreektempo of je lichaamstaal te veranderen.
 <br><br>
 
 Maak jij weleens gebruik van storytelling in presentaties? Deel je ervaringen!
