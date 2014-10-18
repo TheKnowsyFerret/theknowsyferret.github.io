@@ -42,7 +42,16 @@ kent het immers al van A tot Z en het verhaal is echt. Hierdoor kom je
 authentiek over.
 
 Ben je een gevorderde storyteller, dan kun je ook verhalen van anderen vertellen. Zorg wel dat je duidelijk aangeeft van wie het verhaal dan is. 
-Daarnaast kun je als gevorderde putten uit verschillende beschikbare verhalen, anekdotes en fabels op het internet.
+Daarnaast kun je als gevorderde putten uit verschillende beschikbare
+verhalen, anekdotes en fabels op het internet.
+
+Ben je van plan hetzelfde verhaal te vertellen aan verschillende
+doelgroepen? Dat kan.<br>
+Focus je in zo'n geval niet alleen op punten in het verhaal
+die aansluiten op jouw eigen boodschap, maar hou ook rekening met de
+specifieke behoeften van de verschillende doelgroepen. Dat betekent dat je bij de ene doelgroep meer aandacht
+besteedt aan onderdeel A van het verhaal en bij de andere doelgroep
+meer aandacht besteedt aan onderdeel B. 
 
 #### Denk aan je kernboodschap
 Of je nu een persoonlijk verhaal kiest of het verhaal van een ander,
@@ -89,7 +98,9 @@ verhaal, hoe groter de kans dat je dingen vertelt die er niet toe
 doen. Dit leidt af van jouw verhaal.
 
 #### Actief taalgebruik
-Gebruik <a href="http://www.taalwinkel.nl/taalhulp/gebruik-waar-mogelijk-actieve-zinnen/">actieve zinnen</a>. 
+Gebruik <a
+href="http://www.niow.nl/blog/schrijfvaardigheid/schrijf-actief/">actieve
+zinnen</a> om je verhaal levendig en minder afstandelijk te maken.
 
 #### Gebruik beschrijvende woorden
 Als je een verhaal vertelt, doe dat dan met beschrijvende
@@ -138,6 +149,29 @@ spreektempo of je lichaamstaal te veranderen.
 
 Maak jij weleens gebruik van storytelling in presentaties? Deel je ervaringen!
 
+<small>Bronnen:<br>
+Gingerpublicspeaking.com. <a href="http://www.gingerpublicspeaking.com/storytelling-public-speaking">3 storytelling secrets for public
+speaking</a>. Verkregen: 12 oktober 2014.<br>
+Akash Karia (2013). <a
+href="http://www.slideshare.net/publicspeakingcoachasia/storytelling-secrets-for-public-speaking">Storytelling
+secrets for public speaking</a>.<br>
+Write-out-loud.com. <a
+href="http://www.write-out-loud.com/storytelling.html">Storytelling
+in speeches</a>. Verkregen: 14 oktober 2014<br>
+Write-out-loud.com. <a
+href="http://www.write-out-loud.com/storytelling-setups.html">Storytelling
+setups</a>. Verkregen: 15 oktober 2014.<br>
+Selfgrowth.com. <a
+href="http://www.selfgrowth.com/articles/there-is-an-art-to-storytelling-in-public-speaking-do-you-have-it">There
+is an art to storytelling. Do you have it?</a>. Verkregen: 14
+oktober 2014.<br>
+Storytellingtips.info (2010). <a
+ref="http://storytellingtips.info/">Storytelling tips: pacing your
+story</a>.<br>
+Exforsys.com (2009). <a
+href="http://www.exforsys.com/career-center/public-speaking/storytelling-in-public-speeches.html">Storytelling
+in public speeches</a>.
+</small>
 
 
 
