@@ -148,7 +148,7 @@ spreektempo of je lichaamstaal te veranderen.
 <br><br>
 
 Maak jij weleens gebruik van storytelling in presentaties? Deel je ervaringen!
-
+<br><br>
 <small>Bronnen:<br>
 Gingerpublicspeaking.com. <a href="http://www.gingerpublicspeaking.com/storytelling-public-speaking">3 storytelling secrets for public
 speaking</a>. Verkregen: 12 oktober 2014.<br>
@@ -163,7 +163,7 @@ href="http://www.write-out-loud.com/storytelling-setups.html">Storytelling
 setups</a>. Verkregen: 15 oktober 2014.<br>
 Selfgrowth.com. <a
 href="http://www.selfgrowth.com/articles/there-is-an-art-to-storytelling-in-public-speaking-do-you-have-it">There
-is an art to storytelling. Do you have it?</a>. Verkregen: 14
+is an art to storytelling. Do you have it</a>? Verkregen: 14
 oktober 2014.<br>
 Storytellingtips.info (2010). <a
 ref="http://storytellingtips.info/">Storytelling tips: pacing your
