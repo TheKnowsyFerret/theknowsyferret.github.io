@@ -96,7 +96,7 @@ _Helvetica_<br>
 Door het overmatige gebruik heeft Helvetica zijn aparte status verloren. Alhoewel Helvetica zuiver, objectief, universeel en modern oogt, kennen mensen het ook een saai, kil en onpersoonlijke uitstraling toe. Wel is het een goed lettertype voor body tekst. 
 
 _Calibri_<br>
-Gebruik je Calibri, dan straal je als bedrijf niet aleen zakelijkheid uit, maar ook warmte en vriendelijkheid.
+Gebruik je Calibri, dan straal je als bedrijf niet alleen zakelijkheid uit, maar ook warmte en vriendelijkheid.
 
 
 <h3>Script</h3>
@@ -111,10 +111,11 @@ href="http://bit.ly/1ugJJsw">Ben Hengst</a>
 </figure>
 
 _Comic Sans_<br>
-Comic Sans is vrolijk, jeugdig en kent een hoog knuffelgehalte. Goed geschikt voor een bedrijf dat zich op kinderen richt. 
+Comic Sans is vrolijk, jeugdig en kent een hoog knuffelgehalte. Vooral
+geschikt voor een bedrijf dat zich op kinderen of strips richt.
 
 _Gigi_<br>
-Met Gigi straal je in het meest positieve geval creativiteit, vrolijkheid, elegantie,  opwinding en rebellie uit. In het negatieve geval kom je over als instabiel, passief en onpraktisch.  
+Met Gigi straal je in het meest positieve geval creativiteit, vrolijkheid, elegantie,  opwinding en rebellie uit. In het negatieve geval kom je over als instabiel, passief en onpraktisch. 
 
 _Lucinda_<br>
 Ga je voor een persoonlijke, informele uitstraling? Dan is Lucinda een goede keuze.
