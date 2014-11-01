@@ -11,8 +11,8 @@ comments: true
 share: true
 ---
 <figure>
-<img src="/images/lettertype.png" alt="Een willekeurig lettertype">
-<figcaption>Foto: <a href="http://bit.ly/1yNnt7P">Kostya Sasquash</a>
+<img src="/images/lettertype.jpg" alt="Branding tips">
+<figcaption>Foto: <a href="http://bit.ly/1u76nTv">Stefabo Principato</a>
 </figcaption>
 </figure>
 
