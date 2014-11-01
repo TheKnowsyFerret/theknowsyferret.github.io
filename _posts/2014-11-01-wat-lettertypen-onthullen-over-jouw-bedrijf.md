@@ -114,7 +114,7 @@ _Comic Sans_<br>
 Comic Sans is vrolijk, jeugdig en kent een hoog knuffelgehalte. Goed geschikt voor een bedrijf dat zich op kinderen richt. 
 
 _Gigi_<br>
-Met Gigi straal je in het meest positieve geval creativiteit, vrolijkheid, elegantie,  opwinding en rebeldheid uit. In het negatieve geval kom je over als instabiel, passief en onpraktisch.  
+Met Gigi straal je in het meest positieve geval creativiteit, vrolijkheid, elegantie,  opwinding en rebellie uit. In het negatieve geval kom je over als instabiel, passief en onpraktisch.  
 
 _Lucinda_<br>
 Ga je voor een persoonlijke, informele uitstraling? Dan is Lucinda een goede keuze.
