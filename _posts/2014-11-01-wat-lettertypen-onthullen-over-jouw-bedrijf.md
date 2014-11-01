@@ -111,7 +111,7 @@ href="http://bit.ly/1ugJJsw">Ben Hengst</a>
 </figure>
 
 _Comic Sans_<br>
-Comic Sans is vrolijk, jeugdig en kent een hoog knuffelgehalte. Goed geschikt coor een bedrijf dat zich op kinderen richt. 
+Comic Sans is vrolijk, jeugdig en kent een hoog knuffelgehalte. Goed geschikt voor een bedrijf dat zich op kinderen richt. 
 
 _Gigi_<br>
 Met Gigi straal je in het meest positieve geval creativiteit, vrolijkheid, elegantie,  opwinding en rebeldheid uit. In het negatieve geval kom je over als instabiel, passief en onpraktisch.  
