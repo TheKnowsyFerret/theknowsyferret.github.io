@@ -57,7 +57,7 @@ doeleinden, webteksten en online magazines.
 
 
 _Times New Roman_<br>
-Wie dit letterype gebuikt, komt stabiel, conformistisch, beleefd, praktisch, volwassen en formeel over. Door het vele gebruik is het echter ook een lettertype dat erg “gewoontjes” is. 
+Wie dit lettertype gebuikt, komt stabiel, conformistisch, beleefd, praktisch, volwassen en formeel over. Door het vele gebruik is het echter ook een lettertype dat erg “gewoontjes” is. 
 
 _Georgia_<br>
 Is Georgia jouw lettertype? Dan kom je over als formeel en assertief. 
@@ -90,7 +90,7 @@ Een veel gebruikt lettertype. En waarom niet? Met Arial straal je stabiliteit en
 
 _Verdana_<br>
 Dit lettertype zien mensen als gewoontjes, onoprecht en slap. Of je
-dit wilt uitstralen naar je klanten is maar de vraag. Mijn advies: beperk het gebruik ervan tot spreadheets, en Powerpoint presentaties. 
+dit wilt uitstralen naar je klanten is maar de vraag. Mijn advies: beperk het gebruik ervan tot spreadheets en Powerpoint presentaties. 
 
 _Helvetica_<br>
 Door het overmatige gebruik heeft Helvetica zijn aparte status verloren. Alhoewel Helvetica zuiver, objectief, universeel en modern oogt, kennen mensen het ook een saai, kil en onpersoonlijke uitstraling toe. Wel is het een goed lettertype voor body tekst. 
@@ -132,7 +132,7 @@ href="http://bit.ly/1wS6Hqf">Jamie</a>
 Dit soort lettertypen kunnen sterk, exclusief, stijlvol en intelligent
 zijn, maar ook hard, afhankelijk en assertief over komen.<br>
 Moderne lettertypen zijn geschikt voor merken die vooruit kijken,
-niche markten en luze merken. Daarnaast zijn ze goed te gebruiken voor
+niche markten en luxe merken. Daarnaast zijn ze goed te gebruiken voor
 grafische doeleinden, koppen voor webteksten, (online) advertenties en
 persoonlijke evenementen.
 
@@ -143,7 +143,7 @@ Een lettertype dat je spaarzaam moet inzetten of misschien maar helemaal niet. M
 Dit zijn lettertypen waarvan de individuele letters in een woord evenveel ruimte innemen.  Ze hebben een saaie, fantasieloze en conformistische uitstraling. Gebruik ze vooral voor technische en wiskundige documenten en programmeertalen. 
 
 _Courier / Courier New_<br>
-Gebruik je Courier New, dan ben je conformistisch, rigide, fanatasieloos, saai, onaantrekkelijk, mannelijk en lomp. Misschien tijd voor een nieuw lettertype?
+Gebruik je Courier New, dan ben je conformistisch, rigide, fantasieloos, saai, onaantrekkelijk, mannelijk en lomp. Misschien tijd voor een nieuw lettertype?
 
 <br>
 Welk lettertype gebruik jij om jouw merk te positioneren?
