@@ -33,7 +33,7 @@ Haar kwaliteiten liggen vooral op het gebied van
 usability, webredactie, interne communicatie en social
 media. Daarnaast is zij ook niet vies van een beetje marketing.<br>
 
-Haar droombaan? Werken als webredacteur, communicatiemedewerker of
+Haar droombaan? Werken met mensen, als webredacteur, communicatiemedewerker of
 communicatieadviseur bij de overheid of een non-profit organisatie.
 <br><br>
 
