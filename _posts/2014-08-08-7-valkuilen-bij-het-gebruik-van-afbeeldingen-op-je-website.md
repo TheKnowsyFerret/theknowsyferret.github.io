@@ -21,7 +21,7 @@ Afbeeldingen maken een website aantrekkelijk en interessant voor de bezoeker:
   aan een liaan">
   <figcaption>Pitfall!. Valkuil! (vertaling). Foto:<a class="text" href="http://bit.ly/X6qaUX"> Doctor Popular</a></figcaption>
 </figure>
-In een mum van tijd grijpen ze de aandacht van de lezer en brengen ze de boodschap over. 
+in een mum van tijd grijpen ze de aandacht van de lezer en brengen ze de boodschap over. 
 
 Helaas heeft verkeerd gebruik van afbeeldingen een negatieve invloed
 op gebruikersvriendelijkheid en zoekmachine optimalisatie (SEO).

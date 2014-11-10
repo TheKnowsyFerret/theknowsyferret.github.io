@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Wat lettertypen onthullen over jouw bedrijf"
+description: "Het gebruikte lettertype is bepalend voor de
+manier waarop mensen tegen jouw bedrijf aankijken. Leer wat zij
+onthullen over jouw bedrijf."
 modified: 2014-11-01 13:17:27 +0100
 tags: [lettertypen, branding, marketing]
 image:
