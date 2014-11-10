@@ -24,19 +24,18 @@ met je eigen website of communicatievraagstukken aan de slag!
 <br><br>
 
 
+
 ##Tabitha Post
+<img class="floatright" height="250" width="200" src="/images/tabithapost.jpg">
 Tabitha Post (1977) is cognitief psycholoog en
 communicatieprofessional.
-<img class="floatright" height="300" width="250" src="/images/tabithapost.jpg">
 
 Haar kwaliteiten liggen vooral op het gebied van
 usability, webredactie, interne communicatie en social
-media. Daarnaast is zij ook niet vies van een beetje marketing.<br>
+media.<br>
+Daarnaast is zij ook niet vies van een beetje marketing.
 
-Haar droombaan? Werken met mensen, als webredacteur, communicatiemedewerker of
-communicatieadviseur bij de overheid of een non-profit organisatie.
 <br><br>
-
 <a markdown="0" href="{{ site.url }}/" class="btn">Naar
 de blogposts</a>
 
