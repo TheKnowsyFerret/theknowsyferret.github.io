@@ -171,6 +171,8 @@ Welk social media-platform gebruik jij?
 Marketingoost.nl en Newcom Research & Consultancy (2014). <a
 href="https://www.marketingoost.nl/nl/publicaties/nationale-social-media-onderzoek-2014/">Nationaal
 social media onderzoek 2014</a>.<br>
+Twittermania.com (2014). <a href="http://twittermania.nl/2014/03/elk-socialmedia-platform-heeft-een-eigen-beste-tijd-om-te-posten-infographic/">Elk socialmediaplatform heeft een
+"beste tijd" om te posten</a>.<br>
 Getspokal.com (2014). <a
 href="http://www.getspokal.com/which-social-media-platform-is-right-for-your-business/">
 Which 
