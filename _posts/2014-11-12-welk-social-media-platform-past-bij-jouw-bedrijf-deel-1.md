@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welk social media-platform past bij jouw bedrijf? (deel 1)"
-description: "Het grote aanbod van social media-platformen maakt het
+title: "Welk social media platform past bij jouw bedrijf? (deel 1)"
+description: "Het grote aanbod van social media platformen maakt het
 lastig om een keuze te maken. Bovendien hebben ze allemaal hun eigen
 functie en cultuur. Dus waarin onderscheiden deze platformen
 zich van elkaar?"
@@ -21,10 +21,10 @@ media apps">
 </figcaption>
 </figure>
 
-Anno 2014 zijn er een heleboel social media-platformen waar je als bedrijf uit kunt kiezen. Bovendien heeft elk platform zijn eigen functie en cultuur. Het is daarom niet verwonderlijk dat veel bedrijven zich afvragen op welk platform zij nou actief moeten zijn. 
+Anno 2014 zijn er een heleboel social media platformen waar je als bedrijf uit kunt kiezen. Bovendien heeft elk platform zijn eigen functie en cultuur. Het is daarom niet verwonderlijk dat veel bedrijven zich afvragen op welk platform zij nou actief moeten zijn. 
 
 <h3>Bereid je voor</h3>
-Voordat je je gaat aanmelden op een social media-platform, is het verstandig om goed na te denken over de volgende punten:
+Voordat je je gaat aanmelden op een social media platform, is het verstandig om goed na te denken over de volgende punten:
 
 _Doelgroep_<br> 
 Kijk eerst naar je doelgroep. Wie wil je bereiken en waar is jouw
@@ -37,7 +37,7 @@ Ook de boodschap verdient aandacht. Niet alleen moet deze aansluiten op de doels
 _Timing_<br>
 Tot slot is timing erg belangrijk. Hiermee bedoel ik dat je moet weten wat het meest geschikte tijdstip voor jouw content is.  Dit hangt samen met het moment waarop jouw doelgroep het meest actief is en kan per platform nogal verschillen.
 
-<h2>Social media-platformen en hun kenmerken</h2>
+<h2>Social media platformen en hun kenmerken</h2>
 
 <h3>Facebook</h3>
 <figure class="floatright">
