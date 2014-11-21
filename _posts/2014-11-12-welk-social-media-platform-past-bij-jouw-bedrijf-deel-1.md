@@ -175,12 +175,11 @@ Twittermania.com (2014). <a href="http://twittermania.nl/2014/03/elk-socialmedia
 "beste tijd" om te posten</a>.<br>
 Getspokal.com (2014). <a
 href="http://www.getspokal.com/which-social-media-platform-is-right-for-your-business/">
-Which 
+Which social media platform is right for your business?</a><br>
 Blog.wishpond.com (2014). <a href="http://blog.wishpond.com/post/72672192941/social-media-marketing-which-platform-is-right-for">Social media marketing: which platform is
 right for your business</a>.<br>
 Thenextweb.com (2014). <a
 href="http://thenextweb.com/socialmedia/2014/03/05/social-media-platform-best-business/">Which
-social media platform is right for your business?</a><br>
 social media platform is best for your business?</a><br>
 Entrepreneur.com (2013). <a
 href="http://www.entrepreneur.com/article/230020">How to choose the
