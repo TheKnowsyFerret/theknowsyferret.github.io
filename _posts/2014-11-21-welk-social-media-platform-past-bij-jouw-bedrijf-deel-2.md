@@ -125,6 +125,9 @@ _Beste tijd om te posten_<br>
 Video’s plaats je het beste op maandag en vrijdag tussen 21.00 en 08.00 uur. Foto’s kun je op elk gewenst moment plaatsen. Hou er wel rekening mee dat het tussen 14:00 en 15:00 spitsuur is. Dit kan tot gevolg hebben dat jouw posts wegvallen tussen de rest. 
 
 <br><br>
+Heb je iets aan deze post gehad? Laat het mij weten en laat je reactie
+achter!
+<br><br>
 
 <small>Bronnen:<br>
 Blog.wishpond.com (2014). <a href="http://blog.wishpond.com/post/72672192941/social-media-marketing-which-platform-is-right-for">Social media marketing: which platform is
