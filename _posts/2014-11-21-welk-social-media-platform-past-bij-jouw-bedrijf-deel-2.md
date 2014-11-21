@@ -77,7 +77,7 @@ uur.
 </figure>
 
 _Beschrijving_<br>
-Youtube is het platform voor iedereen met video content. Zo kun je op YouTube makkelijk jouw producten en diensten introduceren of demonstreren. Ook kun je “howto”-filmpjes maken waarin je laat zien hoe mensen een bepaald probleem kunnen oplossen, hoe veelzijdig jouw dienst of product is, of waarin je jouw expertise toont. Daarnaast kun je veelgestelde vragen van mensen beantwoorden, reageren op filmpjes, je abonneren op kanalen van anderen of video’s toevoegen aan zelfgemaakte speellijsten.<br>
+YouTube is het platform voor iedereen met video content. Zo kun je op YouTube makkelijk jouw producten en diensten introduceren of demonstreren. Ook kun je “howto”-filmpjes maken waarin je laat zien hoe mensen een bepaald probleem kunnen oplossen, hoe veelzijdig jouw dienst of product is, of waarin je jouw expertise toont. Daarnaast kun je veelgestelde vragen van mensen beantwoorden, reageren op filmpjes, je abonneren op kanalen van anderen of video’s toevoegen aan zelfgemaakte speellijsten.<br>
 Door de grote hoeveelheid video’s op YouTube, moet je wel je best doen om op te vallen.<br>
 Zorg er ook voor dat video’s niet langer zijn dan 1.5 tot 2 minuten. 
 
