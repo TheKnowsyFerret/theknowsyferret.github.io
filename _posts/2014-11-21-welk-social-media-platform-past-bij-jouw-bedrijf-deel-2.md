@@ -26,7 +26,7 @@ In <a
 href="http://theknowsyferret.github.io/welk-social-media-platform-past-bij-jouw-bedrijf-deel-1/">deel
 1</a> van “_Welk social media platform past het beste bij jouw
 bedrijf?_”, besprak ik de mogelijkeden van Facebook, Twitter, Google+
-en Linkedin voor bedrijven.<br>
+en Linkedin voor bedrijven.<br><br>
 In dit tweede deel bespreek ik de visuele netwerken Pinterest, Youtube
 en Instagram.
 
