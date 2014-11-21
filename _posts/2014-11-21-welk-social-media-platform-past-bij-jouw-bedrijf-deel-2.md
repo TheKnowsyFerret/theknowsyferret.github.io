@@ -24,10 +24,10 @@ branding wagen">
 
 In <a
 href="http://theknowsyferret.github.io/welk-social-media-platform-past-bij-jouw-bedrijf-deel-1/">deel
-1</a> van “_Welk social media platform past het beste bij jouw
+1</a> van “_Welk social media platform past bij jouw
 bedrijf?_”, besprak ik de mogelijkeden van Facebook, Twitter, Google+
 en Linkedin voor bedrijven.<br><br>
-In dit tweede deel bespreek ik de visuele netwerken Pinterest, Youtube
+In dit tweede deel bespreek ik de visuele netwerken Pinterest, YouTube
 en Instagram.
 
 <h2>Pinterest</h2>
@@ -69,27 +69,27 @@ _Beste tijd om te pinnen_<br>
 Op zaterdag en op werkdagen van 14:00-16:00 uur en van 20:00-23:00
 uur.
 
-<h2>Youtube</h2>
+<h2>YouTube</h2>
 <figure>
-<img src="/images/youtube-logo.png" alt="Youtube logo">
+<img src="/images/youtube-logo.png" alt="YouTube logo">
 <figcaption>Foto: <a href="http://bit.ly/1xONl3l">Redsoul300</a>
 </figcaption>
 </figure>
 
 _Beschrijving_<br>
-Youtube is het platform voor iedereen met video content. Zo kun je op Youtube makkelijk jouw producten en diensten introduceren of demonstreren. Ook kun je “howto”-filmpjes maken waarin je laat zien hoe mensen een bepaald probleem kunnen oplossen, hoe veelzijdig jouw dienst of product is, of waarin je jouw expertise toont. Daarnaast kun je veelgestelde vragen van mensen beantwoorden, reageren op filmpjes, je abonneren op kanalen van anderen of video’s toevoegen aan zelfgemaakte speellijsten.<br>
-Door de grote hoeveelheid video’s op Youtube, moet je wel je best doen om op te vallen.<br>
+Youtube is het platform voor iedereen met video content. Zo kun je op YouTube makkelijk jouw producten en diensten introduceren of demonstreren. Ook kun je “howto”-filmpjes maken waarin je laat zien hoe mensen een bepaald probleem kunnen oplossen, hoe veelzijdig jouw dienst of product is, of waarin je jouw expertise toont. Daarnaast kun je veelgestelde vragen van mensen beantwoorden, reageren op filmpjes, je abonneren op kanalen van anderen of video’s toevoegen aan zelfgemaakte speellijsten.<br>
+Door de grote hoeveelheid video’s op YouTube, moet je wel je best doen om op te vallen.<br>
 Zorg er ook voor dat video’s niet langer zijn dan 1.5 tot 2 minuten. 
 
-_Leads genereren met Youtube_<br>
-Wil je leads genereren via Youtube, dan kun je een advertentie plaatsen of een link naar je eigen website opnemen in de omschrijving van de video. Heb je een account op andere sociale media? Vermeld deze dan ook in de omschrijving van het filmpje. Doe dit bij voorkeur in de eerste of tweede regel.<br>
-Ook kun je een Youtube widget op je eigen website plaatsen, waarmee geïnteresseerden zich op jouw Youtube kanaal kunnen abonneren. 
-Daarnaast is Youtube een onderdeel van Google. Doe hier je voordeel
+_Leads genereren met YouTube_<br>
+Wil je leads genereren via YouTube, dan kun je een advertentie plaatsen of een link naar je eigen website opnemen in de omschrijving van de video. Heb je een account op andere sociale media? Vermeld deze dan ook in de omschrijving van het filmpje. Doe dit bij voorkeur in de eerste of tweede regel.<br>
+Ook kun je een YouTube widget op je eigen website plaatsen, waarmee geïnteresseerden zich op jouw YouTube kanaal kunnen abonneren. 
+Daarnaast is YouTube een onderdeel van Google. Doe hier je voordeel
 mee en gebruik relevante zoektermen in zowel de omschrijving als in de
 titel van alle video’s.
 
 _Demografische kenmerken_<br>
-Nederland kent Youtube7.1 miljoen gebruikers, waarvan er 1.4 miljoen dagelijks actief zijn.
+Nederland kent YouTube7.1 miljoen gebruikers, waarvan er 1.4 miljoen dagelijks actief zijn.
 De meeste gebruikers zijn tussen de 18-34 jaar. Daarnaast is 59% van alle gebruikers man en 41% vrouw. 
 
 _Beste tijd om te posten_<br>
@@ -158,4 +158,4 @@ Twittermania.com (2014). <a href="http://twittermania.nl/2014/03/elk-socialmedia
 "beste tijd" om te posten</a>.<br>
 Huffingtonpost.com (2012). <a
 href="http://www.huffingtonpost.com/michael-litt/youtube-tips_b_1910731.html">
-How to geer your video found, watched and shared</a>.<br>
+YouTube 101: how to get your video found, watched and shared</a>.<br>
