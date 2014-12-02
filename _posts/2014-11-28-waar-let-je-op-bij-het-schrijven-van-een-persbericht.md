@@ -68,7 +68,7 @@ persbericht is.</li>
 <li><strong>Kop</strong><br>
 Geef in de kop antwoord op de w-vragen <em>wie</em> en <em>wat</em>. Wat is het
 nieuwsfeit en wie is daarbij betrokken? Zorg er ook voor dat de kop
-geen werkwoorden of hulpwerkwoorden bevat.</li>
+kort en bondig is en geen overbodige lidwoorden of hulpwerkwoorden bevat.</li>
 
 <li><strong>Lead</strong><br>
 De lead (ook wel intro genoemd) is de eerste alinea van het
