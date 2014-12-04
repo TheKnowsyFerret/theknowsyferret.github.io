@@ -44,24 +44,23 @@ gebruiken om de lezer zo direct mogelijk aan te spreken.
 Voor diegenen die het model van de 4 P’s graag in actie willen zien,
 volgt hier een voorbeeld, gebaseerd op een product van <a href="http://www.tommyteleshopping.com/walkfit-platinum-twee-voor-een.html">Tommy Teleshopping</a>:<br>
 
-<blockquote>Pijn in uw voeten, bekken of rug bij het lopen? <strong>(Picture)</strong> 
+<blockquote><small>Pijn in uw voeten, bekken of rug bij het lopen? <strong>(PICTURE)</strong> 
 <br><br>
 Met de WalkFit Platinum zolen is dit definitief verleden tijd!
 Onze unieke voetzooltjes:<br>
 <ul>
 <li>verlossen u van voet- en lichaamsproblemen</li>
 <li>verdelen uw gewicht optimaal èn</li>
-<li>zorgen voor extra demping en schokabsorptie <strong>(Promise)</strong></li>
+<li>zorgen voor extra demping en schokabsorptie <strong>(PROMISE)</strong></li>
 </ul>
 
 Wij hebben de zooltjes onder meer dan 100 proefpersonen getest en dit
-is hun ervaring <br>
-(er volgt een video met testimonials...) <strong>(Proof)</strong>
+zijn hun ervaringen: [een video met testimonials volgt...] <strong>(PROOF)</strong>
 <br><br>
 Wilt u ook van die vervelende pijn in uw voeten en rug af?
 Bestel dan vandaag nog de WalkFit Platinum zolen en ontvang uw tweede paar GRATIS!!!<br>
 Bel ons direct op telefoonnummer 0800-1234, want OP=OP!
-<strong>(Push)</strong>
+<strong>(PUSH)</strong></small>
 </blockquote>
 
 Ken jij nog meer tips voor het schrijven van overtuigende teksten?
