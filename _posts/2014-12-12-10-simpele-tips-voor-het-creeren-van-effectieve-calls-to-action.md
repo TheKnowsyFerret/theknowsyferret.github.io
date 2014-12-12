@@ -153,7 +153,7 @@ Hubspot.com (2013). <a
 href="http://blog.hubspot.com/marketing/call-to-action-optimization-ht">The
 complete checklist for creating compelling calls-to-action</a>.<br>
 Hubspot.net (2012). <a
-href="http://cdn2.hubspot.net/hub/53/blog/docs/ebooks/how%20to%20create%20effective%20calls-to-action.pdf:>An
+href="http://cdn2.hubspot.net/hub/53/blog/docs/ebooks/how%20to%20create%20effective%20calls-to-action.pdf">An
 introduction to effective calls-to-action</a>. (PDF)<br>
 Hongkiat.com (2009). <a href="http://www.hongkiat.com/blog/call-to-action-buttons-guidelines-best-practices-and-examples/">Call to Action” Buttons: Guidelines, Best
 Practices and Examples</a>.<br>
