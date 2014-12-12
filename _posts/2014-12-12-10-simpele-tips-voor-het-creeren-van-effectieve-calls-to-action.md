@@ -145,3 +145,22 @@ Nadat je een call-to-action op je website hebt geplaatst, kun je het effect gaan
 <br>
 
 Wat is jouw gouden tip voor het creëren van effectieve calls-to-action? 
+<br><br>
+
+<small>
+Bronnen:<br>
+Hubspot.com (2013). <a
+href="http://blog.hubspot.com/marketing/call-to-action-optimization-ht">The
+complete checklist for creating compelling calls-to-action</a>.<br>
+Hubspot.net (2012). <a
+href="http://cdn2.hubspot.net/hub/53/blog/docs/ebooks/how%20to%20create%20effective%20calls-to-action.pdf:>An
+introduction to effective calls-to-action</a>. (PDF)<br>
+Hongkiat.com (2009). <a href="http://www.hongkiat.com/blog/call-to-action-buttons-guidelines-best-practices-and-examples/">Call to Action” Buttons: Guidelines, Best
+Practices and Examples</a>.<br>
+Boagworld.com (2009). <a href="https://boagworld.com/design/10-techniques-for-an-effective-call-to-action">10 techniques for an effective call to
+action</a>.<br>
+Uxbooth.com (2009). <a
+href="http://www.uxbooth.com/articles/good-call-to-action-buttons/">Good
+call-to-action buttons</a>.
+</small>
+
