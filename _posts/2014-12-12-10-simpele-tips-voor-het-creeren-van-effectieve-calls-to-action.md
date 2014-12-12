@@ -1,5 +1,6 @@
 ---
 layout: post
+author: "Tabitha Post"
 title: "10 simpele tips voor het creëren van effectieve
 calls-to-action"
 description: "Verhoog je conversie door het volgen van deze 10 simpele
