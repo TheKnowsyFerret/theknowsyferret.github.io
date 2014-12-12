@@ -32,3 +32,9 @@ box-shadow: 10px 10px 5px #888888;
 .round figcaption {
 text-align: center;
 }
+
+@media only screen and (max-width: 32em) {
+  figure img   {
+  max-width: 100px;
+  }
+}
