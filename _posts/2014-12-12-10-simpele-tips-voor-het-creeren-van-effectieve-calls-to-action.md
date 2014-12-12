@@ -5,7 +5,6 @@ calls-to-action"
 description: "Verhoog je conversie door het volgen van deze 10 simpele
 tips voor het creëren van effectieve
 CTA's."
-author: "tabitha_post"
 modified: 2014-12-11 20:08:16 +0100
 tags: [call-to-action, CTA, marketing, tips]
 image:
