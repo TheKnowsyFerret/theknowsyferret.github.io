@@ -77,7 +77,7 @@ informatie: wie, wat, waar en wanneer.</li>
 
 <li><strong>Uitwerking</strong><br>
 In de volgende alinea’s geef je meer details over wat er gebeurd
-is. Je kunt nu ingaan op de vragen “<em>hoe?</em>” en “<em>wanneer?</em>”.</li>
+is. Je kunt nu ingaan op de vragen “<em>hoe?</em>” en “<em>waarom?</em>”.</li>
 
 <li><strong>Tussenkoppen</strong><br>
 De tussenkoppen van een persbericht moeten kort zijn. Gebruik niet
