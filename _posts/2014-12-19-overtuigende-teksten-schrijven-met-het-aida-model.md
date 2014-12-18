@@ -26,17 +26,16 @@ In deze blogpost leg ik uit wat deze stadia inhouden en hoe je het AIDA-model ku
 
 
 <h2>Attention</h2>
-In de eerste stap van het model trek je de aandacht van een lezer of potentiele koper. Dit kan op meerdere manieren. Zo kun je een voor de doelgroep bekend probleem aankaarten, termen gebruiken die jouw doelgroep ook gebruikt, opvallende afbeeldingen of kleuren gebruiken of een opmerkelijk geluid laten horen.
+In de eerste stap van het model trek je de aandacht van een lezer of potentiële koper. Dit kan op meerdere manieren. Zo kun je een voor de doelgroep bekend probleem aankaarten, termen gebruiken die jouw doelgroep ook gebruikt, opvallende afbeeldingen of kleuren gebruiken of een opmerkelijk geluid laten horen.
 
 <h2>Interest</h2>
-Zodra je de aandacht te pakken hebt, zorg je ervoor dat de lezer of potentiele klant geinteresseerd raakt. Je kunt hiervoor gebruik maken van “unique selling points”. Geef aan hoe jij in de behoeften van de doelgroep kan voorzien en benoem enkele positieve aspecten of opvallende kenmerken van jouw product of dienst. 
+Zodra je de aandacht te pakken hebt, zorg je ervoor dat de lezer of potentiële klant geïnteresseerd raakt. Je kunt hiervoor gebruik maken van “unique selling points”. Geef aan hoe jij in de behoeften van de doelgroep kan voorzien en benoem enkele positieve aspecten of opvallende kenmerken van jouw product of dienst. 
 
 <h2>Desire</h2>
-In de derde stap wakker je de wens aan om gebruik te maken van een bepaade product of dienst. Deze stap in het model trekt de lezer of potentiele klant over de streep. De doelgroep moet het idee krijgen het product nodig te hebben en niet meer zonder te kunnen. 
-Doe bijvoorbeeld een aantrekkelijk aanbod, biedt een tijdelijke kans of zorg voor een scherpe prijs. 
+In de derde stap wakker je de wens aan om gebruik te maken van een bepaalde product of dienst. Deze stap in het model trekt de lezer of potentiële klant over de streep. De doelgroep moet het idee krijgen het product nodig te hebben en niet meer zonder te kunnen. Doe bijvoorbeeld een aantrekkelijk aanbod, biedt een tijdelijke kans of zorg voor een scherpe prijs. 
 
 <h2>Action</h2>
-Tot slot spoor je de doelgroep aan om in actie te komen met een duidelijke call-to-action. In deze stap geef je dus precies aan wat de lezer of potentiele koper moet doen om jouw product te kopen of jouw dienst te bemachtigen. 
+Tot slot spoor je de doelgroep aan om in actie te komen met een duidelijke call-to-action. In deze stap geef je dus precies aan wat de lezer of potentiële koper moet doen om jouw product te kopen of jouw dienst te bemachtigen. 
 
 <br>
 <h2>Voorbeeld van een tekst volgens het AIDA-model</h2>
@@ -46,7 +45,7 @@ Voor diegenen die het AIDA-model graag in actie willen zien, volgt hier een teks
 Wil je voordeling bellen, TV kijken en internetten?
 <br><strong>(Attention)</strong>
 <br><br>
-Telfort biedt je een compleet pakket voor tv, internet en bellen. Met dit Alles-in-1 pakket heb je alles in huis wat je nodig hebt: Interactieve TV met 65 zenders (waarvan 17 HD) in haarscherp beeld, snel internet tot 30 Mb/s én voordelig bellen naar vaste en mobiele nummers in Nederland. Daarbij heb je als extra voordeel een Interactieve TV-ontvanger gratis in bruikleen. <strong>(Interesse)</strong>
+Telfort biedt je een compleet pakket voor tv, internet en bellen. Met dit Alles-in-1 pakket heb je alles in huis wat je nodig hebt: interactieve TV met 65 zenders (waarvan 17 HD) in haarscherp beeld, snel internet tot 30 Mb/s én voordelig bellen naar vaste en mobiele nummers in Nederland. Daarbij heb je als extra voordeel een interactieve TV-ontvanger gratis in bruikleen. <strong>(Interesse)</strong>
 <br><br>
 Is het Alles-in-1 pakket iets voor jou? Bestel dan snel, want bij Telfort betaal je altijd een vaste lage prijs. Hopelijk kunnen we je snel welkom heten! <strong>(Desire en Action)</strong>
 </small></blockquote>
