@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Overtuigende teksten schrijven met het AIDA-model"
+description: "In deze blogpost leg ik de stappen binnen het AIDA-model
+uit en geef ik een voorbeeld van een tekst die volgens dit model is opgebouwd."
 modified: 2014-12-18 19:13:57 +0100
 tags: [AIDA, marketing, tips]
 image:
