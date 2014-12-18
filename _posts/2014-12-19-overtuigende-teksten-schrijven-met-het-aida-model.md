@@ -7,8 +7,8 @@ image:
   feature: 
   credit: 
   creditlink: 
-comments: 
-share: 
+comments: true
+share: true
 ---
 <figure>
 <img src="/images/aida.jpg" alt="De vier stappen van het AIDA-model">
@@ -36,7 +36,7 @@ Doe bijvoorbeeld een aantrekkelijk aanbod, biedt een tijdelijke kans of zorg voo
 <h2>Action</h2>
 Tot slot spoor je de doelgroep aan om in actie te komen met een duidelijke call-to-action. In deze stap geef je dus precies aan wat de lezer of potentiele koper moet doen om jouw product te kopen of jouw dienst te bemachtigen. 
 
-
+<br>
 <h2>Voorbeeld van een tekst volgens het AIDA-model</h2>
 Voor diegenen die het AIDA-model graag in actie willen zien, volgt hier een tekstvoorbeeld van <a href="https://internetshop.telfort.nl/alles-in-1-basispakket/?omn_ic=product_box:hp:alles_in_1::">Telfort</a>:
 

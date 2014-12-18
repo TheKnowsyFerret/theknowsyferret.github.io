@@ -23,7 +23,7 @@ media apps">
 
 Anno 2014 zijn er een heleboel social media platformen waar je als bedrijf uit kunt kiezen. Bovendien heeft elk platform zijn eigen functie en cultuur. Het is daarom niet verwonderlijk dat veel bedrijven zich afvragen op welk platform zij nou actief moeten zijn. 
 
-<h3>Bereid je voor</h3>
+<h2>Bereid je voor</h2>
 Voordat je je gaat aanmelden op een social media platform, is het verstandig om goed na te denken over de volgende punten:
 
 _Doelgroep_<br> 

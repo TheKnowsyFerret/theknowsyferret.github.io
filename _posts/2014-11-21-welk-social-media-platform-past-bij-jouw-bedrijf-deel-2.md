@@ -30,7 +30,7 @@ en Linkedin voor bedrijven.<br><br>
 In dit tweede deel bespreek ik de visuele netwerken Pinterest, YouTube
 en Instagram.
 
-<h2>Pinterest</h2>
+<h3>Pinterest</h3>
 
 _Beschrijving_<br>
 Pinterest is een visueel platform, waar mensen ideeën op kunnen doen op verschillende gebieden. Populaire onderwerpen zijn reizen, dieren, kinderen, trouwen, doe-het-zelf, mode en interieur.<br>
@@ -95,7 +95,7 @@ De meeste gebruikers zijn tussen de 18-34 jaar. Daarnaast is 59% van alle gebrui
 _Beste tijd om te posten_<br>
 Van maandag tot en met vrijdag van 12:00 tot 16:00 uur. 
 
-<h2>Instagram</h2>
+<h3>Instagram</h3>
 <figure class="floatright">
 <img src="/images/instagram-logo.png" alt="Instagram logo">
 <figcaption>Foto: <a href="http://bit.ly/1Ah5UAq">José Moutinho</a>
