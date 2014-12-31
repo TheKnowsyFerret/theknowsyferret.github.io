@@ -48,7 +48,7 @@ Zorg er dus voor dat je de nieuwjaarsspeech ruim van tevoren voorbereidt en laat
  
 <h2>5. De speech is saai</h2>
 Een ander veel voorkomende ergernis is dat nieuwjaarsspeeches saai zijn.<br>
-Dit is echter simpel op te lossen. Wil je een aandacht trekkende, vermakelijke en inspirerende toespraak houden? Maak dan vooral gebruik van de volgende mogelijkheden:
+Dit is echter simpel op te lossen. Wil je een aandachttrekkende, vermakelijke en inspirerende toespraak houden? Maak dan vooral gebruik van de volgende mogelijkheden:
 <ul>
 <li>Begin de speech met een mini-enquête;</li>
 <li>Start met een prikkelend citaat;</li>
