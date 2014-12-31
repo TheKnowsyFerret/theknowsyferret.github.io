@@ -27,7 +27,7 @@ toont een lange lijst met treffers op mijn zoektermen. Ik speur de
 koppen af: Vijvers schoon maken? Soorten coniferen? Niet echt wat ik zoek...
 
 Weer terug naar Google. De vierde hit is van een forum en begint
-met “Help!”. Ja hoorm, iemand anders schrijft over hetzelfde
+met “Help!”. Ja hoor, iemand anders schrijft over hetzelfde
 probleem. Eindelijk heb ik een verwijderingsmiddel gevonden.
 
 
