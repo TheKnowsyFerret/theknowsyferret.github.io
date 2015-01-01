@@ -72,7 +72,7 @@ Een andere gehoorde ergernis is dat de nieuwjaarstoespraak weinig tot geen struc
 Geef daarom zo concreet mogelijk aan welke doelstellingen of kernwaarden het komende jaar de prioriteit hebben. Geef ook aan hoe jij persoonlijk een bijdrage gaat leveren aan deze doelstellingen en daag je medewerkers uit hun steentje bij te dragen. 
 
 <h2>9. Je doet je anders voor</h2>
-Een andere tip die ik graag mee zou willen geven, is: blijf vooral jezelf! Ben je niet van de lange toespraken? Hou ze dan kort. Ben je iemand die informeel met zijn personeel omgaat? Geef dan een informele twist aan je toespraak. Geef iets van jezelf mee. Blij vooral dicht bij jezelf en wijk hier niet van af. Op die manier kom je authentiek en betrouwbaar over. 
+Een andere tip die ik graag mee zou willen geven, is: blijf vooral jezelf! Ben je niet van de lange toespraken? Hou ze dan kort. Ben je iemand die informeel met zijn personeel omgaat? Geef dan een informele twist aan je toespraak. Geef iets van jezelf mee. Blijf vooral dicht bij jezelf en wijk hier niet van af. Op die manier kom je authentiek en betrouwbaar over. 
 
 <h2>10. De speech is volledig  uitgeschreven</h2>
 Het uitschrijven van een toespraak is uit den boze. Hoe meer je voorbereid, hoe meer je vergeet. Als een medewerker aan jou vraagt hoe jouw vakantie is geweest, heb je dit ook niet uitgeschreven op een memo staan. Mijn laatste advies is daarom: volg je hart en vertel alleen die dingen die er volgens jou toe doen. Vertel wat in je opkomt en geef aan waarom je deze gebeurtenissen zo belangrijk vindt, rekening houdend met de doelstellingen voor het komende jaar.
