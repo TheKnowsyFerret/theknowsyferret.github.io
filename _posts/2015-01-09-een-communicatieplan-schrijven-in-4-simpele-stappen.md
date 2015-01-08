@@ -74,7 +74,7 @@ gewenste doelstellingen te behalen. Kortom, hoe ga je van A naar B?<br>
 Stel jezelf de vraag met wie je wilt gaan communiceren, wat je gaat communiceren, hoe je jouw boodschap gaat communiceren en wanneer. Geef in deze stap ook aan wat de taakverdeling zal zijn, dus wie wat gaat doen.
 
 <em>Het communicatiekruispunt</em><br>
-Voordat je de communicatiemiddelen gaat selecteren, is het tijd om na te denken over een goede communicatiestrategie. Het communicatiekruispunt van Betteke van Ruler vormt hierbij een goed hulpmiddel.<br.
+Voordat je de communicatiemiddelen gaat selecteren, is het tijd om na te denken over een goede communicatiestrategie. Het communicatiekruispunt van Betteke van Ruler vormt hierbij een goed hulpmiddel.<br>
 Binnen het kruispunt bepaal je eerst of je gaat zenden of dat je naast zenden ook wilt ontvangen. Kortom, wil het gebruik maken van eenrichtingsverkeer binnen je communicatie of maak je gebruik van tweerichtingsverkeer?<br>
 Daarna bepaal je of je de doelgroep slechts bekend wil maken met de informatie of dat je hen wilt beïnvloeden. 
 Heb je deze twee fundamentele keuzes gemaakt, dan levert dit een van de volgende communicatiestragetieen op:
@@ -82,9 +82,10 @@ Heb je deze twee fundamentele keuzes gemaakt, dan levert dit een van de volgende
 <li>Informeren<br>
 Je brengt informatie over aan de doelgroep. De doelgoep heeft echter geen mogelijkheid om hier op te reageren. Meningsvorming laat je over aan de doelgroep zelf.</li>
 <li>Overreden<br>
-Als je je doelgroep via eenrichtingsverkeer wilt beïnvloeden, is er sprake van overreding. Meestal gebeurt dit vit massacommunicatie.</li>
+Als je je doelgroep via eenrichtingsverkeer wilt beïnvloeden, is er sprake van overreding. Meestal gebeurt dit via massacommunicatie.</li>
 <li>Dialogiseren<br>
-Je gaat in gesprek met de doelgroep. Deze strategie zet je in als je draagvlak wilt creëren.. Denk bijvoorbeeld aan een werkoverleg.</li>
+Je gaat in gesprek met de doelgroep. Deze strategie zet je in als je
+draagvlak wilt creëren. Denk bijvoorbeeld aan een werkoverleg.</li>
 <li>Formeren<br>
  Als er sprake is van wederzijdse beïnvloeding, dan heet dat
  formeren. Met deze strategie wil je de doelgroep overtuigen door de
