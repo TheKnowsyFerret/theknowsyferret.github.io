@@ -124,8 +124,8 @@ href="http://hilst.nl">hilst.nl.</a><br>
 </small>
 
 <small>Bronnen:<br>
-Mkbservicedesk.nl (2014). <a href="http://www.mkbservicedesk.nl/928/hoe-bepaal-mijn-doelgroep.htm">Hoe bepaal ik mijn doelgroep</a>. Verkregen op 6 januari 2015.<br>
-Maketingportaal.nl. <a href="
+Mkbservicedesk.nl (2014). <a href="http://www.mkbservicedesk.nl/928/hoe-bepaal-mijn-doelgroep.htm">Hoe bepaal ik mijn doelgroep</a>.<br>
+Marketingportaal.nl. <a href="
 https://www.marketingportaal.nl/communicatie/communicatiekruispunt">Het
 communicatiekruispunt</a>. Verkregen op 7 januari 2015.<br>
 </small>
