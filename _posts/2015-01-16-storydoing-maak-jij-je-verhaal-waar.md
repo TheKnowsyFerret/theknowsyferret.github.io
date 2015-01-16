@@ -39,15 +39,23 @@ dragen het verhaal uit en doen actief mee.</li>
 
 <br>
 <em>De voordelen</em><br>
-Wie aan storydoing doet, maakt volgens storydoing.com meer winst, hoeft minder geld te steken in marketingcampagnes, krijgt meer aandacht op sociale media en ontvangt ook meer positieve aandacht in vergelijking met bedrijven die niet aan storydoing doen.<br> 
-Daarnaast is storydoing natuurlijk een goede manier om jezelf op een positieve manier te onderscheiden van de rest. Je kunt namelijk laten zien waarom jouw bedrijf zo uniek is ten opzichte van de concurrentie.<br> 
+
+Wie aan storydoing doet, maakt volgens storydoing.com meer winst,
+hoeft minder geld te steken in marketingcampagnes, krijgt meer
+aandacht op sociale media en ontvangt ook meer positieve aandacht in
+vergelijking met bedrijven die niet aan storydoing doen.
+
+Daarnaast is storydoing natuurlijk een goede manier om jezelf op een
+positieve manier te onderscheiden van de rest. Je kunt namelijk laten
+zien waarom jouw bedrijf zo uniek is ten opzichte van de concurrentie.
+
 Bovendien draagt storydoing bij aan de geloofwaardigheid en betrouwbaarheid van de organisatie, omdat je niet alleen zegt ergens voor te staan, maar je daar ook naar handelt.
 
 
 <h2>Drie inspirerende voorbeelden</h2>
 Het aantal bedrijven dat op dit moment aan storydoing doet, is schaars. Toch heb ik 3 inspirerende en succesvolle voorbeelden gevonden, die ik graag met jullie wil delen:<br>
 
-<em>Red Bull</em><br>
+<em>Red Bull</em>
 
 <figure class="floatright">
 <img src="/images/flugtag-redbull.jpg" alt="Foto van een Flugtag in Koeweit">
@@ -73,7 +81,7 @@ uiting zien komen en komt het motto ook terug in hun
 klantenbenadering.
 
 <br>
-<em>Warby Parker</em><br>
+<em>Warby Parker</em>
 
 <figure>
 <img src="/images/warbyparker.jpg" alt="Warby Parker geeft gratis
@@ -98,7 +106,7 @@ kwaliteit brillen aanbieden tegen een lage prijs.
 Om iedereen ter wereld van een bril te kunnen voorzien en het leven van anderen aangenamer te maken, werken zij samen met partners in de non-profitsector, zodat voor elke bril die zij verkopen, een minder bedeeld iemand een gratis bril kan ontvangen. 
 
 <br>
-<em>Children’s Hospital of Michigan (CHM)</em><br>
+<em>Children’s Hospital of Michigan (CHM)</em>
 
 <figure class="floatright">
 <img src="/images/chm.jpg" alt="De tegemoetkomende handen op de tegel staan symbool voor de
