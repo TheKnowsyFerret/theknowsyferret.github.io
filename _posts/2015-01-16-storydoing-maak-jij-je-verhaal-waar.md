@@ -68,7 +68,7 @@ spenderen aan advertenties, begon het merk in 1991 met het organiseren
 van de “<a href="https://en.wikipedia.org/wiki/Red_Bull_Flugtag">Red
 Bull Flugtag (vliegdag)</a>.” <br>
 
-Inmiddels organiseert, steunt en sponsort het merk diverse sportieve evenementen en attracties en initieert het online initiatieven om hun motto uit te dragen en door anderen te laten beleven. Voorbeelden hiervan zijn:<br> 
+Inmiddels organiseert, steunt en sponsort het merk diverse sportieve evenementen en attracties en initieert het online initiatieven om het motto uit te dragen en door anderen te laten beleven. Voorbeelden hiervan zijn:<br> 
 <ul>
 <li>Formule 1</li>
 <li>Red Bull TV</li>
@@ -76,7 +76,7 @@ Inmiddels organiseert, steunt en sponsort het merk diverse sportieve evenementen
 <li>Het aanbieden van online sport games op de eigen website</li>
 </ul>
 
-Daarnaast sponsort Red Bull talloze athleten waarin zij hun motto tot
+Daarnaast sponsort Red Bull talloze atleten waarin zij hun motto tot
 uiting zien komen en komt het motto ook terug in hun
 klantenbenadering.
 
