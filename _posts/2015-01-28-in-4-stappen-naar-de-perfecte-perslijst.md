@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "In 4 stappen naar de perfecte perslijst"
+description: "Voor het versturen van een persbericht heb je adressen
+nodig. Die kun je kopen, maar ook prima zelf samenstellen!"
 modified: 2015-01-28 11:54:06 +0100
 tags: [perslijst,marketing,pers]
 image:
