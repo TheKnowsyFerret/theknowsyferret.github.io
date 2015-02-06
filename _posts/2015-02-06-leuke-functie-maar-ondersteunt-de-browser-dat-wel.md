@@ -38,7 +38,7 @@ Ga hiervoor naar “Rapportage” en stel de tijdsperiode in waarover je informa
 <figure>
 <img src="/images/browseroverzicht.png" alt="Browsers waarmee
 bezoekers The Knowsy Ferret bezoeken">
-<figcaption>De browsers die de bezoekers van The Knowsy Ferret gebruiken</a></figcaption>
+<figcaption>De browsers die de bezoekers van The Knowsy Ferret gebruiken</figcaption>
 </figure>
 
 Je ziet nu aan de rechterkant een overzicht van de browsers waar jouw bezoekers gebruik van maken, gerangschikt naar de mate van gebruik. 
@@ -98,7 +98,7 @@ voor het Audio element (HTML5)">
 <figcaption>Uitgelicht: in Nederland kan bijna 98 procent van de
 internetgebruikers geluid op webpagina’s horen, zonder gebruik te
 hoeven maken van een speciale plug-in. Bijna alle geselecteerde
-browsers ondersteunen namelijk het Audio element (HTML5).</a></figcaption>
+browsers ondersteunen namelijk het Audio element (HTML5).</figcaption>
 </figure>
 
 Je krijgt nu een scrollbaar overzicht met informatie over de mate waarin
@@ -125,14 +125,13 @@ soort webfunctionaliteiten je wilt bekijken.
 <figure>
 <img src="/images/caniuse-audioelement-int.png" alt="Internationale browseronderateuning
 voor het Audio element (HTML5)">
-<figcaption>itgelicht: in Nederland kan 97.8% van de
+<figcaption>Uitgelicht: in Nederland kan 97.8% van de
 internetgebruikers geluid op webpagina’s horen, zonder gebruik te
 hoeven maken van een speciale plug-in. In China is dit "slechts" 77.7%
 procent.<br>
 Wie op "Usage relative" klikt en de "Source" links op de webpagina aanpast om
 Nederland met China te vergelijken, kan zien dat dit komt doordat relatief veel Chinezen nog gebruik maken van
-IE 8.0, welke geen ondersteuning biedt aan dit element.
- .</a></figcaption>
+IE 8.0, welke geen ondersteuning biedt aan dit element.</figcaption>
 </figure>
 
 Wederom krijg je een scrollbaar overzicht met informatie over de mate waarin
