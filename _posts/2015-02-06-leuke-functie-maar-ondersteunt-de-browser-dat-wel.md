@@ -129,8 +129,8 @@ voor het Audio element (HTML5)">
 internetgebruikers geluid op webpagina’s horen, zonder gebruik te
 hoeven maken van een speciale plug-in. In China is dit "slechts" 77.7%
 procent.<br>
-Wie op "Usage relative" klikt en de "Source" links op de webpagina aanpast om
-Nederland met China te vergelijken, kan zien dat dit komt doordat relatief veel Chinezen nog gebruik maken van
+Wie op "Usage relative" klikt en de "Source" links op de webpagina
+aanpast naar respectievelijk Nederland en China, kan zien dat dit komt doordat relatief veel Chinezen nog gebruik maken van
 IE 8.0, welke geen ondersteuning biedt aan dit element.</figcaption>
 </figure>
 
