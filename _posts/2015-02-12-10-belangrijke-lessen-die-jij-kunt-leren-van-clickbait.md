@@ -126,7 +126,9 @@ opnemen van <a
 href="https://lindalaiblog.files.wordpress.com/2013/09/lai-and-farbrot-2013-what-makes-you-click-online-version.pdf">persoonlijke
 voornaamwoorden (experiment 2)</a> in de kop.
 <li><em>Wees duidelijk, maak je belofte waar</em></li>Clickbait koppen zijn vaag en de inhoud van de artikelen voldoen vrijwel nooit aan de verwachtingen van de lezer. 
-Een kop is een belofte die je moet waarmaken. Doe je dat niet, dan laten lezers je artikelen en website uiteindelijk links liggen. Laat de kop dus een duidelijk mogelijke omschrijving zijn van de informatie die de lezer in het artikel kan verwachten.
+Een kop is een belofte die je moet waarmaken. Doe je dat niet, dan
+laten lezers je artikelen en website uiteindelijk links liggen. Laat
+de kop dus een zo duidelijk mogelijke omschrijving zijn van de informatie die de lezer in het artikel kan verwachten.
 <li><em>Speel in op de actualiteit</em></li> Hoe actueler de kop, hoe groter de kans dat de lezer meer wil weten en klikt.
 <li><em>Niets is zo belangrijk als de kop</em></li> Vaak gaat de meeste aandacht uit naar de inhoud van het artikel. De kop bedenk je in enkele minuten.  De lezer bepaalt echter aan de hand van je kop of je stuk interessant genoeg is om te lezen. Steek er dus minimaal zoveel tijd in!
 
