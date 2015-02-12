@@ -136,7 +136,7 @@ wilde helpen of een suggestie deed.
 ##Waarom is dit alles van belang?
 Waar sommige bedrijven psychologische kennis toepassen om de gebruikersvriendelijkheid en gebruikerservaring te optimaliseren, maken andere bedrijven van dezelfde kennis gebruik om jou te misleiden.<br>
 Het gaat hierbij niet alleen om onbeduidende organisaties, maar ook om
-bekende merken. Zoals ik je liet zien, hebben zij slechts eeen paar simpele ingrediënten nodig om dit misleiden daadwerkelijk tot een succes te maken. 
+bekende merken. Zoals ik je liet zien, hebben zij slechts een paar simpele ingrediënten nodig om dit misleiden daadwerkelijk tot een succes te maken. 
 Je bent gewaarschuwd!<br>
 <br>
 Meer voorbeelden van misleidende webontwerpen bekijken? Surf dan naar
