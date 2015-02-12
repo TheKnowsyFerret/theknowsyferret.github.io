@@ -86,7 +86,7 @@ Kortom, Nathalie maakt hier gebruik van de eerste formule, maar laat het trendin
 De laatste en derde formule komt van de bekende Amerikaanse site <a href="http://www.upworthy.com/">upworthy.com</a>. 
 Hun regel gaat als volgt:
 
-Peuter emoties bij de lezer los, ga nog een stapje verder en sluit de kop af met een cliffhanger. Oftwel:
+Peuter emoties bij de lezer los, ga nog een stapje verder en sluit de kop af met een cliffhanger. Oftewel:
 
 <em>Outrage + uplift + mystery = clicks</em>
 
@@ -106,7 +106,8 @@ Wie koppen wil schrijven waar iedereen op wil klikken, kan zich het beste houden
 
 <ol>
 <li><em>Verras de lezer</em></li>
-Trek de aandacht van de lezer. Zijn interesse in het antwoord houdt de aandacht vast.       Het brein houdt van nieuwe ervaringen, vooral als deze onverwacht zijn. 
+Trek de aandacht van de lezer. Zijn interesse in het antwoord houdt de
+aandacht vast. Het brein houdt van nieuwe ervaringen, vooral als deze onverwacht zijn. 
 <li><em>Stel een vraag</em></li>
 Vragen maken nieuwsgierig. De beste vragen gaan over onderwerpen waarin de doelgroep zich kan inleven of die betrekking op hen hebben. Op bijvoorbeeld problemen waar zij mee zitten.<br>
 <li><em>Creëer een Informatiekloof</em></li>
