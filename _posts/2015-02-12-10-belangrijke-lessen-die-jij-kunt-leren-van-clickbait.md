@@ -47,11 +47,12 @@ gebaseerd op populaire onderwerpen">
 Binnen de formule is X een getal, Z datgene waar jij het over wilt hebben in je artikel en is Y een onderwerp dat op dit moment erg populair is. 
 
 
-Lage cijfers geven de indruk dat iets simpel of eenvoudig is. Hoge cijfers strale authoriteit en verdiepende kennis aan. Om deze reden bevat de clickbait titel vaak een getal onder de 10.<br>
-Y moet een onderwerp zijn dat op dat moment erg populair is en waar
-dus iedereen het over heeft. Nieuwssites en social media zijn hiervoor
+Lage cijfers geven de indruk dat iets simpel of eenvoudig is. Hoge
+cijfers stralen authoriteit en geven verdiepende kennis aan. Om deze reden bevat de clickbait titel vaak een getal onder de 10.<br>
+Y moet een onderwerp zijn dat op dit moment erg populair is en waar
+iedereen het over heeft. Nieuwssites en social media zijn hiervoor
 een belangrijke inspiratiebron.<br>
-Vervolgens legt je een geloofwaardige relatie tussen dit onderwerp (Y) en jouw eigen onderwerp (Z). Het is natuurlijk niet de bedoeling dat de lezer argwaan krijgt!<br>
+Vervolgens leg je een geloofwaardige relatie tussen dit onderwerp (Y) en jouw eigen onderwerp (Z). Het is natuurlijk niet de bedoeling dat de lezer argwaan krijgt!<br>
 Gooi er tot slot de nodige feiten, humor en een verrassingselement in en klaar is de clickbait kop.  
 
 <h4>2. De Nathalie Nahai methode</h4>
@@ -68,7 +69,7 @@ Begin met een getal en een bijvoeglijk naamwoord dat een sterke
  psychologische reactie opwekt, het zogenaamde trigger woord. Denk
  bijvoorbeeld aan woorden als “essentieel”, “gratis” of
  “moeiteloos”. Vervolgens verpak je het onderwerp waar je het over
- wilt hebben (het sleutelwoord) wederom in een aantrekkelijke
+ wilt hebben (het sleutelwoord) wederom in, in een aantrekkelijke
  bijvoeglijke verpakking en sluit je af met een belofte.
 
 
@@ -110,7 +111,7 @@ Trek de aandacht van de lezer. Zijn interesse in het antwoord houdt de
 aandacht vast. Het brein houdt van nieuwe ervaringen, vooral als deze onverwacht zijn. 
 <li><em>Stel een vraag</em></li>
 Vragen maken nieuwsgierig. De beste vragen gaan over onderwerpen waarin de doelgroep zich kan inleven of die betrekking op hen hebben. Op bijvoorbeeld problemen waar zij mee zitten.<br>
-<li><em>Creëer een Informatiekloof</em></li>
+<li><em>Creëer een informatiekloof</em></li>
 Als we het idee hebben dat we informatie missen, dan willen we dit “gat” opvullen. Dit doen we door meer te leren over dat onderwerp. Onze nieuwsgierigheid helpt ons dat laatste zetje te geven. Maak mensen dus nieuwsgierig door een onderwerp aan te kaarten waarvan ze al wat weten, maar waarvan zij hun kennis kunnen aanvullen door het lezen van jouw artikel.<br>
 <li><em>Gebruik negatieve superlatieven en ontkenningen</em></li>
 Gebruik maken van de vergrotende trap verhoogt de kans dat anderen
