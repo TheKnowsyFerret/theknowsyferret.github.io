@@ -108,30 +108,61 @@ Wie koppen wil schrijven waar iedereen op wil klikken, kan zich het beste houden
 <ol>
 <li><em>Verras de lezer</em></li>
 Trek de aandacht van de lezer. Zijn interesse in het antwoord houdt de
-aandacht vast. Het brein houdt van nieuwe ervaringen, vooral als deze onverwacht zijn. 
+aandacht vast. Het brein houdt van nieuwe ervaringen, vooral als deze
+onverwacht zijn.
+<br>
 <li><em>Stel een vraag</em></li>
-Vragen maken nieuwsgierig. De beste vragen gaan over onderwerpen waarin de doelgroep zich kan inleven of die betrekking op hen hebben. Op bijvoorbeeld problemen waar zij mee zitten.<br>
+Vragen maken nieuwsgierig. De beste vragen gaan over onderwerpen waarin de doelgroep zich kan inleven of die betrekking op hen hebben. Op bijvoorbeeld problemen waar zij mee zitten.
 <li><em>Creëer een informatiekloof</em></li>
-Als we het idee hebben dat we informatie missen, dan willen we dit “gat” opvullen. Dit doen we door meer te leren over dat onderwerp. Onze nieuwsgierigheid helpt ons dat laatste zetje te geven. Maak mensen dus nieuwsgierig door een onderwerp aan te kaarten waarvan ze al wat weten, maar waarvan zij hun kennis kunnen aanvullen door het lezen van jouw artikel.<br>
+Als we het idee hebben dat we informatie missen, dan willen we dit
+“gat” opvullen. Dit doen we door meer te leren over dat
+onderwerp. Onze nieuwsgierigheid helpt ons dat laatste zetje te
+geven. Maak mensen dus nieuwsgierig door een onderwerp aan te kaarten
+waarvan ze al wat weten, maar waarvan zij hun kennis kunnen aanvullen
+door het lezen van jouw artikel.
+<br>
+
 <li><em>Gebruik negatieve superlatieven en ontkenningen</em></li>
 Gebruik maken van de vergrotende trap verhoogt de kans dat anderen
 jouw artikel willen lezen. De vergrotende trap in zijn <a
 href="http://www.outbrain.com/blog/2013/07/headlines-when-the-best-brings-the-worst-and-the-worst-brings-the-best.html
-">negatieve vorm</a> heeft echter nog meer effect. Mogelijke redenen hiervoor zijn dat positieve superlatieven zo vaak voorkomen dat ze minder effect hebben of dat de lezer twijfelt over de motieven van de zender. Een tweede mogelijkheid is dat negatieve superlatieven onverwacht zijn en daarom verrassender zijn. Tot slot maken ontkenningen of werkwoorden met een negatieve lading als “stop met….”, “vermijd…” en “doe geen…”, nieuwsgierig. Waarom moeten we datgene niet meer doen? Waarom werkt dat dan niet?
-<li><em>Mensen zijn leergierig. Benadruk de voordelen voor de lezer.</em></li>Maak in je koppen duidelijk dat de lezer iets kan leren door jouw artikel te lezen. Dit kan een stappenplan zijn, een korte introductie op een bepaald onderwerp of een artikel met tips. 
-<li><em>Maak gebruik van getallen</em></li>Lezers houden van voorspelbaarheid. Door gebruik te maken van getallen, weet de lezer waar hij aan toe is of hoeveel moeite hij moet doen om informatie in te winnen. 
+">negatieve vorm</a> heeft echter nog meer effect. Mogelijke redenen
+hiervoor zijn dat positieve superlatieven zo vaak voorkomen dat ze
+minder effect hebben of dat de lezer twijfelt over de motieven van de
+zender. Een tweede mogelijkheid is dat negatieve superlatieven
+onverwacht zijn en daarom verrassender zijn. Tot slot maken
+ontkenningen of werkwoorden met een negatieve lading als “stop met….”,
+“vermijd…” en “doe geen…”, nieuwsgierig. Waarom moeten we datgene niet
+meer doen? Waarom werkt dat dan niet?
+
+<li><em>Mensen zijn leergierig. Benadruk de voordelen voor de
+lezer.</em></li>Maak in je koppen duidelijk dat de lezer iets kan
+leren door jouw artikel te lezen. Dit kan een stappenplan zijn, een
+korte introductie op een bepaald onderwerp of een artikel met tips.
+
+<li><em>Maak gebruik van getallen</em></li>Lezers houden van
+voorspelbaarheid. Door gebruik te maken van getallen, weet de lezer
+waar hij aan toe is of hoeveel moeite hij moet doen om informatie in
+te winnen.
+
 <li><em>Spreek je publiek direct aan</em></li>Wie de aandacht wil
 trekken, kan het beste ingaan op emoties, wensen en behoeften van de
 doelgroep en de lezer direct en persoonlijk aanspreken door het
 opnemen van <a
 href="https://lindalaiblog.files.wordpress.com/2013/09/lai-and-farbrot-2013-what-makes-you-click-online-version.pdf">persoonlijke
 voornaamwoorden (experiment 2)</a> in de kop.
+
 <li><em>Wees duidelijk, maak je belofte waar</em></li>Clickbait koppen zijn vaag en de inhoud van de artikelen voldoen vrijwel nooit aan de verwachtingen van de lezer. 
 Een kop is een belofte die je moet waarmaken. Doe je dat niet, dan
 laten lezers je artikelen en website uiteindelijk links liggen. Laat
-de kop dus een zo duidelijk mogelijke omschrijving zijn van de informatie die de lezer in het artikel kan verwachten.
-<li><em>Speel in op de actualiteit</em></li> Hoe actueler de kop, hoe groter de kans dat de lezer meer wil weten en klikt.
+de kop dus een zo duidelijk mogelijke omschrijving zijn van de
+informatie die de lezer in het artikel kan verwachten.
+
+<li><em>Speel in op de actualiteit</em></li> Hoe actueler de kop, hoe
+groter de kans dat de lezer meer wil weten en klikt.
+
 <li><em>Niets is zo belangrijk als de kop</em></li> Vaak gaat de meeste aandacht uit naar de inhoud van het artikel. De kop bedenk je in enkele minuten.  De lezer bepaalt echter aan de hand van je kop of je stuk interessant genoeg is om te lezen. Steek er dus minimaal zoveel tijd in!
+</ol>
 
 <br><br>
 <small>Bronnen:<br>
