@@ -27,8 +27,7 @@ je versteld doen staan.</em>
 
 Beide koppen zijn duidelijke voorbeelden van clickbait: koppen die de
 aandacht van een lezer moeten trekken en hem moeten aansporen erop te
-klikken.<br>
-Helaas maken de artikelen achter deze koppen hun belofte zelden of nooit waar. Toch trap je er iedere keer weer in. 
+klikken. Helaas maken de artikelen achter deze koppen hun belofte zelden of nooit waar. Toch trap je er iedere keer weer in. 
 
 Waarom is dat toch? Hoe zitten clickbait koppen in elkaar? En, belangrijker, welke lessen kun jij van clickbait leren? 
 
@@ -48,7 +47,7 @@ Binnen de formule is X een getal, Z datgene waar jij het over wilt hebben in je 
 
 
 Lage cijfers geven de indruk dat iets simpel of eenvoudig is. Hoge
-cijfers stralen authoriteit en geven verdiepende kennis aan. Om deze reden bevat de clickbait titel vaak een getal onder de 10.<br>
+cijfers stralen autoriteit en geven verdiepende kennis aan. Om deze reden bevat de clickbait titel vaak een getal onder de 10.<br>
 Y moet een onderwerp zijn dat op dit moment erg populair is en waar
 iedereen het over heeft. Nieuwssites en social media zijn hiervoor
 een belangrijke inspiratiebron.<br>
@@ -87,12 +86,17 @@ Kortom, Nathalie maakt hier gebruik van de eerste formule, maar laat het trendin
 De laatste en derde formule komt van de bekende Amerikaanse site <a href="http://www.upworthy.com/">upworthy.com</a>. 
 Hun regel gaat als volgt:
 
+<figure>
+<img src="/images/upworthy.png" alt="Clickbait formule,
+gebruikt door de website Upworthy">
+</figure>
+
 Peuter emoties bij de lezer los, ga nog een stapje verder en sluit de kop af met een cliffhanger. Oftewel:
 
-<em>Outrage + uplift + mystery = clicks</em>
 
-Het volgende fimpje kreeg de titel “Bully calls news anchor fat, news
-anchor destroys him on live TV.”
+
+Het volgende fimpje kreeg de titel mee:<br>
+“<em>Bully calls news anchor fat, news anchor destroys him on live TV<em>”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rUOpqd0rQSo" frameborder="0" allowfullscreen></iframe>
 
