@@ -91,7 +91,7 @@ Hun regel gaat als volgt:
 gebruikt door de website Upworthy">
 </figure>
 
-Oftelwel, peuter emoties bij de lezer los, ga nog een stapje verder en sluit de kop af met een cliffhanger.
+Oftelwel: peuter emoties bij de lezer los, ga nog een stapje verder en sluit de kop af met een cliffhanger.
 
 
 
