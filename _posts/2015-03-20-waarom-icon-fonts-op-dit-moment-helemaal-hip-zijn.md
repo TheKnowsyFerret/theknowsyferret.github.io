@@ -120,8 +120,6 @@ guide to: better and sharper UI icons with web fonts</a>. Verkregen
 op: 18 maart 2015.<br>
 CSS-tricks.com. <a href="https://css-tricks.com/examples/IconFont/">
 Icon fonts are awesome</a>. Verkregen op 17 maart 2015.<br>
-Creativebloq.com (2014). <a href="http://www.creativebloq.com/web-design/icon-fonts-vs-svg-101413211">
-Icon fonts vs. SVG - which is the best option?</a><br>
 Codementor.io (2014). <a
 href="https://www.codementor.io/design/tutorial/pros-cons-icon-fonts-like-font-awesome-design-tips-developers">
 Pros & cons for icon fints like Font Awesome – Design tips for developers</a>.<br>
