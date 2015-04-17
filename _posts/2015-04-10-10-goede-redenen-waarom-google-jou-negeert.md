@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "10 goede redenen waarom Google jouw content negeert"
+description:"Weleens nagedacht waarom je niet op de eerste pagina van
+Google staat? Waarschijnlijk maak je de volgende veelgemaakte fouten."
 modified: 2015-04-11 11:10:17 +0200
 tags: [SEO, copywriting, Google]
 image:
