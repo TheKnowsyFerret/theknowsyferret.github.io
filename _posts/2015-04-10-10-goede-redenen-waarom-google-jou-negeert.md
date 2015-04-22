@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 goede redenen waarom Google jouw content negeert"
-description:"Weleens nagedacht waarom je niet op de eerste pagina van
+description: " Weleens nagedacht waarom je niet op de eerste pagina van
 Google staat? Waarschijnlijk maak je de volgende veelgemaakte fouten."
 modified: 2015-04-11 11:10:17 +0200
 tags: [SEO, copywriting, Google]
@@ -12,12 +12,12 @@ image:
 comments: true
 share: true
 ---
+
 <figure>
 <img src="/images/seo-frustration.jpg" alt="Een lage ranking in Google
 leidt tot frustratie.">
 <figcaption>Foto: <a href="http://bit.ly/1z5IY2N">Reuben Stanton</a></figcaption>
 </figure>
-
 
 Schrijven voor het web doe je met een reden. Je wilt je kennis met
 anderen delen, producten of diensten verkopen of anderen vermaken.
