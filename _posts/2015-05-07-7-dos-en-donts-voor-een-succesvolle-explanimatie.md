@@ -13,9 +13,10 @@ comments: true
 share: true
 ---
 <figure>
-<img src="/images/chipotle-animationvideo.jpg" alt="Explanimatie van
+<a href="https://youtu.be/aMfSGt6rHos"><img src="/images/chipotle-animationvideo.jpg" alt="Explanimatie van
 het Mexicaanse grill-keten Chipotle, waarin zij uitleggen te staan
-voor duurzame vleesproductie">
+voor duurzame vleesproductie" title="Klik op de afbeelding om de
+uitlegvideo op YouTube te bekijken"></a>
 <figcaption><a href="http://chipotle.com/home">Chipotle's</a>
 explanimatie voor duurzaam vlees
 </figcaption>
