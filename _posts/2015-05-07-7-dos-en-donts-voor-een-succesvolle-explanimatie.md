@@ -13,9 +13,9 @@ comments: true
 share: true
 ---
 <figure>
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/aMfSGt6rHos" frameborder="0"
-allowfullscreen></iframe>
+<img src="/images/chipotle-animationvideo.jpg" alt="Explanimatie van
+het Mexicaanse grill-keten Chipotle, waarin zij uitleggen te staan
+voor duurzame vleesproductie">
 <figcaption><a href="http://chipotle.com/home">Chipotle's</a>
 explanimatie voor duurzaam vlees
 </figcaption>
