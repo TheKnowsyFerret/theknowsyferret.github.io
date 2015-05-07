@@ -84,5 +84,5 @@ Thebyte9.com (2013). <a href="http://www.thebyte9.com/news/responsive-web-design
 Codeboxr.com (2015). <a
 href="http://codeboxr.com/blogs/top-5-advantages-of-responsive-web-page-design">Top
 5 advantages of responsive web page design</a>.<br>
-Hyphenet.com (2015). <a href="http://hyphenet.com/10-business-advantages-of-responsive-web-design/">10 business advantages of responsive web design</a>.br>
+Hyphenet.com (2015). <a href="http://hyphenet.com/10-business-advantages-of-responsive-web-design/">10 business advantages of responsive web design</a>
 </small>
