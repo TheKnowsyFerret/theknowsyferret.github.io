@@ -18,7 +18,7 @@ begin je nou?
 
 <figure class="floatright"><img
 src="/images/spreker-met-microfoons.jpg" alt="Spreker met een
-heleboel microfoons"></a>
+heleboel microfoons">
 <figcaption><a href="http://bit.ly/1cCLsAG">Audio Luci Store</a>
 </figcaption>
 </figure>
