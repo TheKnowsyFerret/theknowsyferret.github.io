@@ -3,7 +3,7 @@ layout: post
 title: "Minicursus Metadata voor beginners (1) - Schema.org: een introductie"
 description: "In dit eerste deel van de minicursus Metadata beschrijf ik de voordelen van het gebruik van metadata en introduceer ik Schema.org."
 modified: 2015-05-21 11:14:59 +0200
-tags: [cursus, metadata]
+tags: [schema.org, cursus, metadata]
 image:
   feature: 
   credit: 
