@@ -22,7 +22,7 @@ metadata aan je broncode">
 
 In <a
 href="http://theknowsyferret.github.io/minicursus-metadata-voor-beginners-deel-1-schema-dot-org/">
-deel 1</a> van deze minicurus heb ik de voordelen van metadata behandeld en <a href="https://schema.org">Schema.org</a>
+deel 1</a> van deze minicursus heb ik de voordelen van metadata behandeld en <a href="https://schema.org">Schema.org</a>
 geïntroduceerd. In dit tweede deel van de Minicursus Metadata gaan we
 aan de hand van concrete voorbeelden metadata toevoegen aan de
 broncode van onze
