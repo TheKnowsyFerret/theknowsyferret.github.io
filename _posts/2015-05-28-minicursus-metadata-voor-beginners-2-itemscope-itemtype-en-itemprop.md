@@ -20,7 +20,9 @@ metadata aan je broncode">
 </figcaption>
 </figure>
 
-Vorige week heb ik de voordelen van metadata behandeld en <a href="https://schema.org">Schema.org</a>
+<a
+href="http://theknowsyferret.github.io/minicursus-metadata-voor-beginners-deel-1-schema-dot-org/">In
+deel 1</a> heb ik de voordelen van metadata behandeld en <a href="https://schema.org">Schema.org</a>
 geïntroduceerd. In dit tweede deel van de Minicursus Metadata gaan we
 aan de hand van concrete voorbeelden metadata toevoegen aan de
 broncode van onze

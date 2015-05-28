@@ -125,7 +125,7 @@ Niet voor alle onderwerpen laat Google “rich snippets” zien. Op dit moment g
 <br>
 
 <h2>Minicursus Metadata: deel 2</h2>
-In deel 2 van deze minicursus leer je de basisbegrippen van Schema.org kennen en gaan we metadata toevoegen aan de hand van concrete voorbeelden!
+In <a href="http://theknowsyferret.github.io/minicursus-metadata-voor-beginners-2-itemscope-itemtype-en-itemprop/">deel 2</a> van deze minicursus leer je de basisbegrippen van Schema.org kennen en gaan we metadata toevoegen aan de hand van concrete voorbeelden!
 
 <br><br>
 <small>Bronnen:<br>
