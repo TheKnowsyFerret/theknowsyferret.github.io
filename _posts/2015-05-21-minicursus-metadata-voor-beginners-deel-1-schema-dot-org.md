@@ -98,9 +98,9 @@ Hoe meer data je beschrijft hoe beter de zoekmachine begrijpt wat de inhoud van 
 <em>2. Beschrijf geen verborgen content</em><br>
 Voeg alleen metadata toe aan content dat zichtbaar is voor de lezer. Dus niet voor informatie dat verborgen zit in div’s of andere verborgen elementen. 
 
-<em>3. “Verwachte typen” versus tekst</em><br>
-Soms is de eigenschap van een type (d.w.z. het item dat je beschrijft), een type op zichzelf, die je ook weer kunt beschrijven door het toevoegen van eigenschappen. Dit hoef je echter niet te doen. Voel je vrij om hier gewoon tekst te gebruiken of een URL.<br>
-Ook is het mogelijk om voor een verwacht type een kind-element van dat type te gebruiken. Als voorbeeld noemt Schema.org get type “Place”. In dat geval is het ook prima om het specifiekere "LocalBusiness" te gebruiken. 
+<em>3. “Verwachte gegevenstypen” versus tekst</em><br>
+Soms is de eigenschap van een type (d.w.z. het item dat je beschrijft), een gegevenstype op zichzelf, die je ook weer kunt beschrijven door het toevoegen van eigenschappen. Dit hoef je echter niet te doen. Voel je vrij om hier gewoon tekst te gebruiken of een URL.<br>
+Ook is het mogelijk om voor een verwacht type een kind-element van dat type te gebruiken. Als voorbeeld noemt Schema.org het gegevenstype “Place”. In dat geval is het ook prima om het specifiekere "LocalBusiness" te gebruiken. 
 
 <em>4. Het gebruik van de URL eigenschap</em><br>
 Een webpagina kan over een enkel onderwerp gaan of over een collectie van onderwerpen. Neem bijvoorbeeld een webpagina dat de medewerkers van een organisatie laat zien.<br>
@@ -110,8 +110,8 @@ Deze kan een specifiek persoon beschrijven of de alle medewerkers. In dat laatst
 Een inkoppertje, maar de metadata aansluiten op het onderwerp waar de pagina over gaat. Gaat je pagina over treinen, dan mag je dus geen metadata toevoegen over auto’s. 
 Doe je dit wel, dan zet je zoekers op het verkeerde spoor. Dit kan je op termijn klanten of bezoekers kosten. 
 
-<em>6. Rich Snippets zijn beperkt tot een aantal typen</em><br>
-Niet voor alle onderwerpen laat Google “rich snippets” zien. Op dit moment geldt de ondersteuning alleen voor de volgende items:
+<em>6. Rich Snippets zijn beperkt tot een aantal gegevenstypen</em><br>
+Niet voor alle onderwerpen laat Google “rich snippets” zien. Op dit moment geldt de ondersteuning alleen voor de volgende gegevenstypen:
 <ul>
 <li><a href="https://developers.google.com/structured-data/rich-snippets/products ">Products</a></li>
 <li><a href="https://developers.google.com/structured-data/rich-snippets/products">Recipes</a></li>

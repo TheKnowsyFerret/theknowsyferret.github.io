@@ -72,7 +72,7 @@ eigenschappen, expected types en beschrijving van het itemtype Person">
 </figcaption>
 </figure>
 
-Alle eigenschappen die ons item kan hebben, staan in de eerste kolom. In de derde kolom staat een beschrijving van elke eigenschap. Verwerken we enkele van deze eigenschappen nu in de broncode, dan krijgen we:
+Alle eigenschappen die ons gegevenstype kan hebben, staan in de eerste kolom. In de derde kolom staat een beschrijving van elke eigenschap. Verwerken we enkele van deze eigenschappen nu in de broncode, dan krijgen we:
 
 <figure>
 <img src="/images/itemprop-tekst.png" alt="Het itemprop attribuut
@@ -118,4 +118,4 @@ Als je tot hier gekomen bent, heb je de basis te pakken. Je bent nu in
 staat om de meeste gegevens op je website te labelen. 
 
 <h2>Minicursus Metadata: deel 3</h2>
-In het derde en laatste deel van deze cursus zal ik ingaan op geneste items. Hierbij is een eigenschap van bijvoorbeeld het itemtype “Event” een itemtype op zichzelf en dus weer onder te verdelen in een aantal eigenschappen.
+In het derde en laatste deel van deze cursus zal ik ingaan op geneste gegevenstypen. Hierbij is een eigenschap van bijvoorbeeld het gegevenstype “Event” een gegevenstype op zichzelf en dus weer onder te verdelen in een aantal eigenschappen.
