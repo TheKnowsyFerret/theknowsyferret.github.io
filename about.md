@@ -13,12 +13,12 @@ image:
   
 ---
 ##Blog
-Hoe schrijf ik goede teksten voor mijn website? Wat kan ik doen om
-mijn site vindbaar te maken? Is mijn website gebruikersvriendelijk? Wat is het nut van metadata en
-hoe voer ik dit in? Hoe hou ik een goede presentatie? Wat zijn de
+Hoe schrijf ik goede webteksten? Wat kan ik doen om
+mijn site vindbaar te maken voor webgebruikers? Is mijn website gebruikersvriendelijk? Wat is het nut van metadata en
+hoe pas ik dit toe? Hoe hou ik een goede presentatie? Wat zijn de
 kenmerken van een persbericht?
 
-Dit is zomaar een greep uit de vele onderwerpen waar The Knowsy Ferret antwoord op geeft. Aan de
+Dit is zomaar een greep uit de vele onderwerpen waar <em>The Knowsy Ferret</em> antwoord op geeft. Aan de
 hand van duidelijke uitleg, praktische tips en adviezen kun je direct
 met je eigen website of communicatievraagstukken aan de slag!
 <br><br>
