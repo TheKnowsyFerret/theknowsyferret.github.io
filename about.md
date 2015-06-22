@@ -12,20 +12,21 @@ image:
   credit: 
   
 ---
-##Blog
 Hoe schrijf ik goede webteksten? Wat kan ik doen om
 mijn site vindbaar te maken voor webgebruikers? Is mijn website gebruikersvriendelijk? Wat is het nut van metadata en
 hoe pas ik dit toe? Hoe hou ik een goede presentatie? Wat zijn de
 kenmerken van een persbericht?
 
-Dit is zomaar een greep uit de vele onderwerpen waar <em>The Knowsy Ferret</em> antwoord op geeft. Aan de
+Dit is zomaar een greep uit de vele onderwerpen waar <em>The Knowsy
+Ferret</em> antwoord op geeft.<br>
+Aan de
 hand van duidelijke uitleg, praktische tips en adviezen kun je direct
 met je eigen website of communicatievraagstukken aan de slag!
 <br><br>
 
 
 
-##Tabitha Post
+##Over Tabitha Post
 <img class="floatright" height="250" width="200" src="/images/tabithapost.jpg">
 Tabitha Post (1977) is cognitief psycholoog en
 communicatieprofessional.
