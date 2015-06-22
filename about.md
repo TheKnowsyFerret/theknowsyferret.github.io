@@ -20,7 +20,7 @@ kenmerken van een persbericht?
 Dit is zomaar een greep uit de vele onderwerpen waar <em>The Knowsy
 Ferret</em> antwoord op geeft.
 
-Aan dehand van duidelijke uitleg, praktische tips en adviezen kun je direct
+Aan de hand van duidelijke uitleg, praktische tips en adviezen kun je direct
 met je eigen website of communicatievraagstukken aan de slag!
 <br><br>
 
