@@ -31,9 +31,7 @@ met je eigen website of communicatievraagstukken aan de slag!
 Tabitha Post (1977) is cognitief psycholoog en
 communicatieprofessional.
 
-Haar communicatieve kwaliteiten liggen op het gebied van
-usability, webredactie, interne communicatie en social
-media.<br>
+Haar communicatieve kwaliteiten liggen op het gebied van usability, webredactie, interne communicatie en social media.<br>
 Daarnaast is zij ook niet vies van een beetje marketing.
 
 <br><br>
