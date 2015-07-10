@@ -3,7 +3,7 @@ layout: post
 title: "Kort en krachtig pitchen met de 10-20-30 regel"
 description: " "
 modified: 2015-07-10 08:18:12 +0200
-tags: [presentatie, marketing]
+tags: [presenteren, marketing]
 image:
   feature: 
   credit: 
@@ -83,6 +83,7 @@ geef je de voorkeur aan andere methoden?
 
 <small>Bronnen:<br>
 Guykawasaki.com (2006). <a href="http://guykawasaki.com/the_102030_rule/">The 10-20-30 rule of PowerPoint</a>. Verkregen:
-9 juli 2015. 
+9 juli 2015.<br>
+
 
 
