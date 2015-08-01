@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Webformulieren: de 10 meest gehoorde ergernissen"
+description: "Alhoewel het invullen van een webformulier simpel lijkt,
+leidt het vaak tot ergernis. Dit zijn de 10 meest
+voorkomende irritaties en hoe je ze kunt voorkomen."
 modified: 2015-07-31 13:12:02 +0200
 tags: [webformulieren, usability]
 image:
