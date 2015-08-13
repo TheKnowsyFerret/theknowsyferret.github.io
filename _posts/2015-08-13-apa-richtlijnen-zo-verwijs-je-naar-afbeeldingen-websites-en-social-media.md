@@ -86,28 +86,26 @@ Westerman, F. (2014, 5 augustus). <em>Bronvermeldingen</em> [Blogpost]. Geraadpl
 
 <em>Bronvermeldingen volgens APA richtlijnen</em>. (2014). Geraadpleegd op 12 augustus, van http://www.aparichtlijnen.nl/index.html 
 
-<h2>Online blogposts, webpagina’s en websites</h2>
+<h2>Social media (Twitter, Google+, Facebook)</h2>
+Steeds vaker vinden we relevante informatie via social media. De APA heeft hier handig op ingespeeld en kent nu ook een leidraad voor het verwijzen naar deze bronnen. 
 
-<h4>Verwijzingen in de tekst en referentielijst</h4>
-Wanneer je informatie van blogposts, webpagina’s of websites citeert, geef je deze een volgnummer tussen vierkante haakjes. Een andere manier die je kunt toepassen, is het vermelden van de auteursnaam en publicatiedatum tussen haakjes. Voor je referentielijst maak je vervolgens gebruik van een van de volgende formats: 
-
-<em>Auteur is bekend</em><br>
+<h4>Verwijzing in de tekst</h4>
+Wanneer je een bericht op social media citeert, is het gebruikelijk om de bronvermelding tussen haakjes te zetten als “persoonlijke communicatie”, gevolgd door de datum of het jaartal:
 <figure>
 <img src="/images/6.png">
 </figure>
 
-<em>Auteur is onbekend</em><br>
+
+<h4>De referentielijst</h4>
+Voor wat betreft de referentielijst wijkt de schrijfwijze enigszins af van andere besproken bronnen. Zo benoem je bij sociale media namelijk ook de gebruikersnaam van de persoon of organisatie in kwestie. Bovendien omschrijf je het content type: 
 <figure>
 <img src="/images/7.png">
 </figure>
 
-Met de meest recente publicatiedatum bedoel ik dat je de meest recente update moet noemen. Zo weten lezers welke versie jij hebt gebruikt, mocht de auteur het stuk op en later moment wijzigen. Daarnaast kun je ook hier in alle gevallen de publicatiedatum vervangen door “z.d.”, indien deze onbekend is.
 
-<em>Voorbeelden</em><br>
-Westerman, F. (2014, 5 augustus). <em>Bronvermeldingen</em> [Blogpost]. Geraadpleegd op 10 januari 2015, van http://www.westerman.nl/bronvermeldingen/ 
+<em>Voorbeeld</em><br>
+Vrieseman, T. [Vrieseman]. (2013, 31 januari). Handige informatie over #APAStyle http://bit.ly.H78vH [Tweet]. Geraadpleegd/verkregen op (datum), van URL. 
 
-<em>Bronvermeldingen volgens APA richtlijnen</em>. (2014). Geraadpleegd op 12
-augustus, van http://www.aparichtlijnen.nl/index.html
 
 <h2>Video: YouTube</h2>
 Video’s lenen zich goed voor het bespreken en visueel maken van talloze onderwerpen.
@@ -115,16 +113,19 @@ Je kunt bepaalde stukken dan ook goed gebruiken om naar te verwijzen.
 
 <h4>Verwijzing in de tekst</h4>
 Heb je een relevant stuk in de video gevonden en wil je deze citeren? Dan kun je de bronvermelding als volgt in de tekst verwerken:
+<figure>
+<img src="/images/8.png">
+</figure>
 
-Tekst (gebruikersnaam, datum, het moment waarop de uitspraak te horen is)
 
 <em>Voorbeeld</em><br>
 “Het citeren van een video is niet moeilijk” (APA, 2012, 0:02-0:04).
 
 <h4>De referentielijst</h4>
-<em>Auteur is onbekend</em><br>
+Wil je nu deze gegevens in de referentielijst verwerken, dan ziet dit
+er zo uit:
 <figure>
-<img src="/images/8.png">
+<img src="/images/9.png">
 </figure>
 
 <em>Voorbeeld</em><br>
