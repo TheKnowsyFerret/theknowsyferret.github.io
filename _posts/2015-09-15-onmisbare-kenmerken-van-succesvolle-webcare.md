@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Onmisbare kenmerken van succesvolle webcare"
-description: "Veel organisaties beschikken daarom over een team
+description: "Veel organisaties beschikken over een team
 webcaremedewerkers, die berichten over het bedrijf monitoren en
 beantwoorden. Maar wat maakt een webcareteam nou succesvol?"
 modified: 2015-09-15 14:58:47 +0200
