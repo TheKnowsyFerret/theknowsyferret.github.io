@@ -122,8 +122,11 @@ href="https://www.google.nl/alerts">Google Alerts</a>.<br>
 Geven deze tools geen antwoord op jouw specifieke vragen? Dan kun je
 uitwijken naar betaalde, geavanceerdere tools, zoals <a
 href="http://www.coosto.com/nl/pakketten/">Coosto</a>, <a
-href="http://www.obi4wan.nl/">OBI4wan</a> of <a href="http://mediainjection.nl/">Media Injection</a>. 
+href="http://www.obi4wan.nl/">OBI4wan</a> of <a
+href="http://mediainjection.nl/">Media Injection</a>.
 
+<br>
+Welke kenmerken vind jij onmisbaar? Ik ben benieuwd naar jouw antwoord!
 
 
 <br><br>
