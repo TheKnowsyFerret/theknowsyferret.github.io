@@ -23,7 +23,7 @@ Vroeger kwamen de mensen bij je langs als zij een vraag, probleem of klacht hadd
 Nu het internet voor vrijwel iedereen toegankelijk is, maken klanten echter steeds vaker gebruik van social media om hun beklag te doen, complimenten te geven of een vraag te stellen. Veel organisaties beschikken daarom over een team webcaremedewerkers, die berichten over het bedrijf monitoren en beantwoorden. 
 
 Maar wat maakt een webcareteam als online klantenservice nou
-succesvol? Hier zijn X onmisbare kenmerken.
+succesvol? Hier zijn enkele onmisbare kenmerken.
 
 <h3>Maak selectief gebruik van social media kanalen</h3>
 Je hoeft jezelf niet op elk social media kanaal te laten
@@ -91,7 +91,6 @@ je de betreffende klacht succesvol hebt opgelost.
 
 
 <h3>Neem een proactieve houding aan</h3>
-http://www.conversocial.com/social-customer-service/introduction#.Vf6s3J2eDGd
 Effectieve webcareteams reageren niet alleen op negatieve berichten,
 maar ook op positieve. Daarnaast wachten zij niet totdat de doelgroep
 in actie komt, maar stellen zij zich proactief op als het gaat om
@@ -143,8 +142,8 @@ Smile.nl. <a href="http://www.smile.nl/in-10-stappen-naar-succesvolle-webcare1.h
 september 2015.<br>
 Socialmediakompas.nl. <a href="http://www.socialmediakompas.nl/6-tips-voor-goede-webcare/ ">6 tips voor goede webcare</a>. Verkregen op: 17
 september 2015.<br>
-Jarnoduursma.nl (2015). <a
-href="http://www.jarnoduursma.nl/webcare-tips/">Webcare tips</a>.<br>
+Conversocial.com (2015). <a href="http://www.conversocial.com/social-customer-service/introduction#.VgJPpZ2eDGe">The definite guide to social customer service</a>.<br> 
+Jarnoduursma.nl (2015).<a href="http://www.jarnoduursma.nl/webcare-tips/">Webcare tips</a>.<br>
 Besocialized.nl. <a
 href="http://www.besocialized.nl/blog/gos-and-no-gos-in-de-webcare/">Go's
 en no-go's in de webcare</a>. Verkregen op: 18 september 2015.<br>
