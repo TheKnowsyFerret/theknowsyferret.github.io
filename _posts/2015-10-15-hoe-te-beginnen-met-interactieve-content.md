@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Hoe te beginnen met interactieve content?"
+description: "Interactieve content geeft iedere bezoeker een unieke en
+persoonlijke ervaring. Tevens kent het plaatsen van interactieve
+content vele voordelen. Maar hoe begin je met het implementeren van
+interactieve content?"
 modified: 2015-10-15 14:57:19 +0200
 tags: [interactieve content, tips]
 image:
@@ -86,6 +90,7 @@ behouden van hun behoeften en wensen.
 
 <br>
 Gebruik jij al interactieve content en wat hoop je ermee te bereiken?
+
 
 <br><br>
 <small>Bronnen:<br>
