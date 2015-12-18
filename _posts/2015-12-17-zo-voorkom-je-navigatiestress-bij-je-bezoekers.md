@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Zo voorkom je navigatiestress bij je bezoekers"
+description: "Slecht ingerichte webnavigatie leidt tot
+navigatiestress bij bezoekers, met lagere conversie, CTR's en hogere
+bounce rates tot gevolg. Deze simpele richtlijnen kunnen dit echter voorkomen!"
 modified: 2015-12-17 21:17:29 +0100
 tags: [webnavigatie, usability]
 image:
@@ -25,7 +28,7 @@ benodigde informatie niet vinden en moeten meer moeite doen om hun
 taak uit te voeren.<br>
 Deze stress
 uit zich in lage conversie, hoge bounce rates, lage click-through rates en minder
-verkeer.
+bezoekers.
 
 Vandaag laat ik je zien hoe je met een paar simpele richtlijnen
 navigatiestress bij je bezoekers kunt voorkomen.
