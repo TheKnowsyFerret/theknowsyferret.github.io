@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zo voorkom je navigatiestress bij je bezoekers"
+title: "Voorkom navigatiestress bij je bezoekers"
 description: "Slecht ingerichte webnavigatie leidt tot
 navigatiestress bij bezoekers, met lagere conversie, CTR's en hogere
 bounce rates tot gevolg. Deze simpele richtlijnen kunnen dit echter voorkomen!"
