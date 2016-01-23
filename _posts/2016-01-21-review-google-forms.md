@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Review: Google Forms"
-description: " "
+description: "In deze blogpost laat ik zien wat mij aanspreekt in Google
+Forms, maar ook tegen welke beperkingen ik aanloop bij het gebruik ervan."
 modified: 2016-01-21 18:05:03 +0100
 tags: [review, Google Forms]
 image:
