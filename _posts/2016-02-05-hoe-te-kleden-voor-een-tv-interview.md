@@ -88,7 +88,7 @@ sieraden.
 <h2>Geluidsoverlast</h2>
 Waar je ook rekening mee moet houden is het geluid dat sieraden (en
 mogelijk andere voorwerpen, zoals keychords) maken tijdens de opname. Dit geluid is vaak erg
-goed te horen voor het publiek en leidt af van de onhoud van je
+goed te horen voor het publiek en leidt af van de inhoud van je
 verhaal.<br>
 
 En nu we het toch over ongewenste geluiden hebben: zet je mobiele
@@ -118,4 +118,4 @@ zit, hoe beter je je kunt richten op de gestelde vragen en hetgeen je
 wilt vertellen.
 
 <br><br>
-Ken jij nog meer handige tips of heb je vragen? Laat het mij weten!
+Heb jij nog meer handige tips of heb je vragen? Zet ze in de comments!
