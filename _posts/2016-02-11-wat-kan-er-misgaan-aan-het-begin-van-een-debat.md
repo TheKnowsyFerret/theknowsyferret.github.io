@@ -69,7 +69,7 @@ aankondigt aan en maak gebruik van gebaren om hem te laten weten dat
 hij op kan komen. Je kunt hier een speciaal gebaar voor afspreken.</li>
 <li><em>Praat luid en duidelijk</em>. In het fimpje viel het mij op dat met name de vrouwelijke
 gespreksleider slecht te verstaan was. Het is dus belangrijk om
-duidelijk en hardop te praten als je iemand aankondigd. </li>
+duidelijk en hardop te praten als je iemand aankondigt. </li>
 <li><em>Wacht op bevestiging van de kandidaat</em>. In het filmpje zie ik dat
 de gespreksleiders niet kijken of de persoon in kwestie ook het podium
 op komt. Blijf dus opletten en wacht met het aankondigen van de
@@ -77,7 +77,7 @@ volgende kandidaat als je merkt
 dat de persoon die je net hebt aangekondigd nog niet op het podium
 staat. Roep de kandidaat nogmaals op als hij jou niet gehoord
 heeft. </li>
-<li><em>Kies het juise moment</em>. De zaal was erg rumoerig, waardoor
+<li><em>Kies het juiste moment</em>. De zaal was erg rumoerig, waardoor
 aankondigingen slecht te verstaan waren. Wacht tot het publiek rustig
 is, zodat je weer verstaanbaar bent. Gebaar het publiek desnoods om
 rustig te zijn. Ook hier kun je een specifiek gebaar voor
