@@ -2,7 +2,7 @@
 layout: post
 title: "Wat kan er nou misgaan aan het begin van een debat?"
 description: "De aankondiging van de republikeinse
-presidentskandidaten liep uit op een slapstick. Hoe kun dit zelf voorkomen?"
+presidentskandidaten liep uit op een slapstick. Hoe kun je dergelijke situaties voorkomen?"
 modified: 2016-02-11 11:08:35 +0100
 tags: [debat, predidentsverkiezingen, USA, 2016]
 image:
