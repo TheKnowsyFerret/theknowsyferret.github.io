@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "8 waardevolle tips voor effectieve crisiscommunicatie"
-description: "  "
+description: "Help! Crisis! Als organisatie kun je er zomaar mee te
+maken krijgen. Een goede voorbereiding is echter het halve werk."
 modified: 2016-03-17 11:13:54 +0100
 tags: [crisis, communicatie, tips]
 image:
