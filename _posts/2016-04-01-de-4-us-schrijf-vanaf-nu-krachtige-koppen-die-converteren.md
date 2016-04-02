@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De 4 U’s: schrijf vanaf nu krachtige koppen die converteren!"
-desription: "Lezers bepalen aan de hand van de kop of zij verder
+description: "Lezers bepalen aan de hand van de kop of zij verder
 willen lezen. Een krachtige kop is dus een must. Maar hoe schrijf je
 een krachtige kop? De 4 U's helpt je hierbij."
 modified: 2016-04-01 14:02:06 +0200
