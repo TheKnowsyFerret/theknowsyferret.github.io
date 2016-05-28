@@ -18,7 +18,7 @@ Is jouw website toe aan een make-over? Let dan goed op, want dit zijn de
 trends voor 2015!
 
 
-##1. De opkomst van flat design
+<h2>1. De opkomst van flat design</h2>
 In 2015 zullen websites minimalistisch en rustig zijn ingericht met aandacht voor gebruikersvriendelijkheid. Zo zien we meer 2D-illustraties, icoon-achtige afbeeldingen, eenvoudige buttons, meer ruimte en scherpe randen.<br> 
 Daarnaast zien we het gebruik van heldere kleuren tegen een witte,
 zwarte of grijze achtergrond.
@@ -30,7 +30,7 @@ Neue Yorke is een goed voorbeeld van een minimalistisch design">
 </figure>
 
 
-##2. Meer aandacht voor responsive design
+<h2>2. Meer aandacht voor responsive design</h2>
 Alhoewel de verkoop van smartphones en tablets terugloopt, maken steeds meer mensen gebruik van mobiel internet. Inspelen op deze toename is van belang.<br>
 Hebben organisaties nu vaak nog een website en een mobiele website
 naast elkaar, in 2015 zal meer aandacht zijn voor websites die
@@ -43,14 +43,14 @@ rekening houden met de schermgroote van alle mogelijke applicaties">
 <figcaption>Bron: <a href="http://www.apple.com/ipod/">Apple.com</a></figcaption>
 </figure>
 
-##3. Scrollen in plaats van klikken
+<h2>3. Scrollen in plaats van klikken</h2>
 Het aantal mensen met een smartphone is de afgelopen jaren sterk gegroeid.  Klikken op zo’n apparaat is echter lastiger dan scrollen en dus scrollen we massaal.<br>
 Alhoewel websites met meerdere pagina’s het beter doen op het gebied
 van SEO, zullen websites in 2015 overgaan tot 1 pagina of
 panel van waaruit de mobiele gebruiker makkelijker toegang heeft tot
 alle content.
 
-##4. Typografie
+<h2>4. Typografie</h2>
 De hoogtijdagen van New Times Roman, Arial en Helvetica zijn nu echt voorbij.
 Met de komst van kwalitatief goede alternatieven is de keuze namelijk
 behoorlijk toegenomen. Zo biedt <a href="https://typekit.com">Type
@@ -59,7 +59,7 @@ liever voor gratis? Neem dan eens een kijkje bij <a href="https://www.google.com
 Kortom,  jezelf onderscheiden van de massa hoeft in 2015 geen probleem
 meer te zijn!
 
-##5. Storytelling: zeg het met beelden
+<h2>5. Storytelling: zeg het met beelden</h2>
 Wie een verhaal wil vertellen doet dit in 2015 niet meer met lange
 lappen tekst, maar met geluidloze video’s en grote afbeeldingen op de
 achtergrond. Tekst zal gereduceerd zijn tot het minimale.
@@ -89,7 +89,7 @@ href="http://www.frankwatching.com/archive/2013/09/07/zelf-infographics-maken-de
 uitgevoerd</a>, vormen zij een waardevolle aanvulling op je site.<br>
 Voor sites waar tekst echt nodig is, is er in 2015 een andere manier om te komen tot een rijke contentbeleving. Door tekst te combineren met video’s, afbeeldingen en interactieve functionaliteiten kun je namelijk ook een verhaal vertellen, de aandacht van de lezers vasthouden, informatie geven en entertainen. 
 
-##6. De opmars van ghost buttons
+<h2>6. De opmars van ghost buttons</h2>
 Een andere trend is de opmars van de zogenaamde “ghost buttons”. Dat
 zijn transparante, klikbare buttons. Ghost buttons passen goed in een
 minimalistisch design en kun je voor meerdere soorten sites
@@ -104,7 +104,7 @@ href="http://www.veromoda.nl/?forcecountry=NL&redirected=1">Vero
 Moda</a></figcaption>
 </figure>
 
-##7. Meer aandacht voor het individu
+<h2>7. Meer aandacht voor het individu</h2>
 Tot slot zullen websites in 2015 content gaan afstemmen op individuele
 gebruikers met als doel een betere gebruikerservaring. Het is
 natuurlijk fijner als een website rekening houdt met jouw wensen en

@@ -20,7 +20,7 @@ met en zonder tussenkoppen" title="Klik op de afbeelding voor een vergroting. ">
 </figure>
 Ik durf te wedden dat je kiest voor de rechter tekst!
 
-##Het doel van koppen en tussenkoppen
+<h2>Het doel van koppen en tussenkoppen</h2>
 Het doel van koppen en tussenkoppen is het structureren van tekst en
 het trekken van aandacht. Ze
 stellen lezers in staat om snel in te schatten waar de onderliggende
@@ -28,7 +28,7 @@ tekst over gaat en of deze aansluit op hun informatiebehoefte. Kortom,
 ze sporen bezoekers aan om het onderliggende bericht wel of niet te
 lezen.
 
-##Wat zet je in een (tussen)kop?
+<h2>Wat zet je in een (tussen)kop?</h2>
 Wat je in de kop zet, hangt af van de algehele strekking van de tekst of, in het geval van een tussenkop, de onderliggende alinea. 
 Volgens het <a href="http://www.bol.com/nl/p/handboek-webredactie/1001004009905814">
 “Handboek Webredactie (2010, 1e druk)"</a> van Geert Poort en
@@ -46,7 +46,7 @@ Voorbeelden:
 "Appel meest vervuilde fruitsoort"  
 (www.nu.nl, 4 mei 2014)
 
-##Do’s and don’ts
+<h2>Do’s and don’ts</h2>
 Wat moet je laten bij het schrijven van koppen en wat moet je vooral doen?
 Het schrijven van koppen is niet lastig, als je je houdt aan de volgende punten:
 

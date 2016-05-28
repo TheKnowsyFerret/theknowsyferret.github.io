@@ -28,14 +28,14 @@ Maar wat zijn signaalwoorden en wat kunnen ze voor je lezer betekenen?
 Dat probeer ik vandaag uit te leggen.
 
 
-##Signaalwoorden verbinden
+<h2>Signaalwoorden verbinden</h2>
 Signaalwoorden geven structuur aan een webtekst en maken een tekst
 scanbaar. Net als koppen, alinea’s, opsommingen en witregels. Een
 ander woord voor signaalwoorden is “verbindingswoorden”: ze verbinden
 zinnen, alinea’s en zinsdelen met elkaar.
 
 
-##Welke verbanden zijn er?
+<h2>Welke verbanden zijn er?</h2>
 Signaalwoorden geven de lezer een seintje welke verbanden we tussen de
 verschillende zinnen of alinea’s kunnen verwachten. Zo weet je dat het
 woord “maar”  een **tegenstelling** aankondigt en dat er na “dus” een
@@ -57,7 +57,7 @@ verbanden zijn:
 </ul>
 
 
-##Signaalwoorden in webteksten: conclusie
+<h2>Signaalwoorden in webteksten: conclusie</h2>
 Webbezoekers gaan haastig te werk en scannen pagina’s af, op zoek naar
 relevante informatie. Tijd om zelf verbanden tussen zinnen of
 tekstdelen te leggen, hebben zij dus niet. Door gebruik te maken van

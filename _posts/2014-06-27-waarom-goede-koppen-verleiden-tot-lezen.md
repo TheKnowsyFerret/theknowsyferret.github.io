@@ -30,14 +30,14 @@ Om een pakkende kop te schrijven hoef je slechts kennis te hebben van
 de 5 basismotieven van lezers.
 
 
-##De 5 basismotieven van lezers
+<h2>De 5 basismotieven van lezers</h2>
 De ene kop trekt meer aandacht dan de andere. Volgens Wim van der
 Mark, auteur van <a href="http://www.managementboek.nl/boek/9789001772727/marketing.com-1e-druk-2009-wim-van-der-mark">"Marketing.com:
 e-communicatie in praktijk”</a> (2009)
 zullen koppen die de meeste aandacht krijgen van de lezer, ingaan op
 één of meer van de volgende basismotieven:
 
-###1. Hebzucht
+<h3>1. Hebzucht</h3>
 Mensen willen graag ergens beter van worden. Woorden als “gratis”,
 “voordeel” en “korting” krijgen veel aandacht. Daarnaast hebben lezers
 vaak weinig tijd en zoeken ze naar een snelle oplossing om dingen
@@ -47,7 +47,7 @@ Voorbeelden:
 “Gratis iPad bij een jaarabonnement op onze krant”  
 “10 manieren om snel af te vallen”
 
-###2. Angst
+<h3>2. Angst</h3>
 De maatschappij verandert snel, wat mensen onzeker en angstig
 maakt. Speel in op deze onzekerheden van je lezer of los mogelijke
 problemen voor hen op. Dit kan zowel positief als negatief.
@@ -60,7 +60,7 @@ benadering)
 “De laatste trends op het gebied van SEO” ( angst om de laatste
 nieuwtjes te missen)
 
-###3. Status
+<h3>3. Status</h3>
 Mensen zijn bezig met de vraag hoe zij door anderen worden gezien. In
 je kop kun je hierop inspelen door je lezer uit te nodigen of een
 vergelijking te maken met bekende personen.
@@ -69,7 +69,7 @@ Voorbeelden:
 “Exclusief voor leden:…”  
 “Zing net zo goed als Marco Borsato!”
 
-###4. Ontwikkeling
+<h3>4. Ontwikkeling</h3>
 Mensen zijn nieuwsgierig, leergierig en onderzoekend. Geef in de kop
 aan wat de lezer zal leren door het lezen van jouw stuk. Net als bij
 het motief “hebzucht” speel je hier in op de voordelen het lezen van
@@ -81,7 +81,7 @@ Voorbeelden:
 “Zo maak je je website vindbaar voor Google”  
 “5 tips om wervende koppen te schrijven”
 
-###5. Schuld
+<h3>5. Schuld</h3>
 Mensen hebben een verantwoordelijkheidsgevoel. Is er sprake van
 onmacht, dan kan zich dat uiten in een schuldgevoel. Vooral goede
 doelen weten hier goed op in te spelen.

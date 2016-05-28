@@ -27,7 +27,7 @@ hetzelfde doel: schrappen in de tekst om deze leesbaarder te maken.
 Hoe doe je dat dan, dat schrappen? Waar let je op? 
 Daarover gaat deze post.
 
-##Het schrappen van tekst: tips
+<h2>Het schrappen van tekst: tips</h2>
 Houdt bij het schrappen van tekst, rekening met de volgende principes:  
 <ul>
 <li><strong>Hou de centrale boodschap in het oog</strong>. Schrijf kort en bondig en

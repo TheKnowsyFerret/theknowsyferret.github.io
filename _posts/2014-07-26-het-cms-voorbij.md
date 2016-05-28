@@ -31,9 +31,9 @@ statische website generator.
 Waarom? Dat zal ik je vertellen.
 
 
-##De voordelen van Jekyll
+<h2>De voordelen van Jekyll</h2>
 
-###1. Jekyll maakt gebruik van duurzame kennis
+<h3>1. Jekyll maakt gebruik van duurzame kennis</h3>
 De kennis van een CMS is vergankelijk. In vacatures lees ik toch
 regelmatig dat de gevraagde webprofessional kennis moeten hebben van
 specifieke CMS-systemen, zoals Smartsite, Drupal en WordPress. Dit
@@ -41,7 +41,7 @@ betekent dus dat je je personeel constant moet bijscholen bij
 toekomstige releases. Pure tijdsverspilling!   
 Jekyll maakt daarentegen gebruik van duurzame kennis, zoals HTML5, Javascript en CSS. Deze kennis is overal en altijd te gebruiken en is bovendien CMS onafhankelijk. 
 
-###2. Jekyll is transparant
+<h3>2. Jekyll is transparant</h3>
 Bij een CMS-systeem is het maar de vraag of de output gelijk is aan de
 input. Zelf maakte ik regelmatig mee dat een CMS op onverklaarbare
 wijze het voor elkaar kreeg het lettertype of lettergrootte aan te
@@ -49,7 +49,7 @@ passen.
 Bij Jekyll hoef ik mij hier geen zorgen meer om te maken: _“What you
 type is what you get”_.
 
-###3. De gebruiker is in controle
+h3>3. De gebruiker is in controle</h3>
 Bij Jekyll bepaal je zelf je input. Wil je Markdown gebruiken? Platte
 tekst? Het maakt niet uit, want Jekyll zet alles voor je over naar
 HTML.  
@@ -63,11 +63,11 @@ configureren.
   <figcaption>Jekyll kent weinig onderhoud</figcaption>
       </figure>
 	  
-###4. Jekyll is makkelijk te onderhouden
+<h3>4. Jekyll is makkelijk te onderhouden</h3>
 
 Een CMS heeft regelmatig een software update nodig om de website op alle punten up-to-date te houden. Denk aan de database, de administratieomgeving en interactieve onderdelen. Bij Jekyll hoeft dit niet en dus hoef je minder tijd aan onderhoud te besteden.
 
-###5. Jekyll is sneller dan een CMS
+<h3>5. Jekyll is sneller dan een CMS</h3>
 Een CMS haalt informatie uit een database waarbij een code (een
 request) wordt uitgevoerd bij inkomende verzoeken. Statische websites
 hebben geen database, maar platte HTML-pagina’s die de webserver
@@ -78,7 +78,7 @@ direct inleest. Dit versnelt het uitlezen en weergeven zeer snel.
   <figcaption>Versiebeheer door Github maakt <br>samenwerken aan documenten<br> makkelijk</figcaption>
      </figure>
   
-###6. Versiebeheer is net zo makkelijk
+<h3>6. Versiebeheer is net zo makkelijk</h3>
 Een statistische website bestaat slechts uit bestanden en folders,
 waardoor <a href="http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1">versiebeheer door bijvoorbeeld Git</a> van Github, makkelijk is.
 
@@ -87,12 +87,12 @@ aan het uploaden te controleren door eindredacteuren. Zodra een
 aanpassing is geaccepteerd, zorgt Jekyll voor het genereren van de
 nieuwe output door het invoeren van een simpel commando.
 
-###7. De nadruk ligt op de content zelf
+<h3>7. De nadruk ligt op de content zelf</h3>
 De meerwaarde van Jekyll is gelegen in het feit dat webprofessionals
 zich meer kunnen richten op de daadwerkelijke content, in plaats van
 het uitvinden hoe een CMS werkt.
 
-##Niet voor alle soorten websites geschikt
+<h2>Niet voor alle soorten websites geschikt</h2>
 Ik moet toegeven dat Jekyll niet voor iedere website geschikt is. Voor
 dynamische content, zoals bijvoorbeeld comments, blijf je namelijk
 afhankelijk van derden. Bestaat je website uit honderden of duizenden

@@ -26,24 +26,24 @@ Wil jij weten hoe je op een simpele manier de perfecte onderwerpregel kunt schri
 
 <br>
 
-###1. Geef een duidelijke beschrijving van de inhoud
+<h3>1. Geef een duidelijke beschrijving van de inhoud</h3>
 Beschrijvende onderwerpen werken beter dan de algemene benaming of het
 vermelden van de dag/maand van schrijven. Bovendien geven informatieve onderwerpen de lezer het
 gevoel van controle: hij wordt goed geïnformeerd over de inhoud en kan zo zelf
 bepalen of hij de e-mail wil lezen. 
 
-###2. Zet informatieve, beschrijvende en verleidelijke woorden aan het begin
+<h3>2. Zet informatieve, beschrijvende en verleidelijke woorden aan het begin</h3>
 De ontvanger leest slechts de<a
 href="http://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/">
 eerste woorden</a> van het onderwerp. 
 
-###3. Gebruik niet meer dan 40 karakters
+<h3>3. Gebruik niet meer dan 40 karakters</h3>
 De onderwerpregel geeft slechts ruimte voor een bepaald aantal
 karakters. Ga je hier overheen, dan breekt het programma de tekst
 af. Om dit te voorkomen is het verstandig niet meer dan 40 karakters
 te gebruiken.
 
-###4. Vermijd de naam van de geadresseerde
+<h3>4. Vermijd de naam van de geadresseerde</h3>
 Uit onderzoek blijkt dat het noemen van de naam van de geadresseerde
 geen effect heeft op het gedrag van de ontvanger. Ook weten ontvangers donders goed dat de e-mail die zij krijgen niet
 speciaal voor hen geschreven is.<br>
@@ -53,7 +53,7 @@ verderop in de onderwerpregel, zodat de meest belangrijke (lees:
 informatieve) woorden vooraan staan.  
 Overige tips: gebruik slechts de voornaam van de geadresseerde en maak alleen van de eerste letter een hoofdletter.
 
-###5. Verander de onderwerpregel bij iedere mailing
+<h3>5. Verander de onderwerpregel bij iedere mailing</h3>
 <figure class="floatright shadow">
   <img src="/images/daling-openingskans.png" alt="Stuur je dezelfde
   mededeling binnen een campagne? Dan daalt de openingskans van 8%
@@ -67,7 +67,7 @@ Zo opent 8% van de ontvangers de
 eerste e-mail, terwijl slechts 3.5% van de ontvangers de 4e e-mail
 opent.
 
-###6. Wees voorzichtig met symbolen en speciale tekens
+<h3>6. Wees voorzichtig met symbolen en speciale tekens</h3>
 Symbolen en speciale tekens trekken de aandacht. Ontvangers herkennen
 symbolen en speciale tekens echter ook als uitingen van marketing. Daarnaast
 zijn ze niet gericht op het individu.  
@@ -75,27 +75,27 @@ Wil je ze toch gebruiken? Zet ze dan in het midden of aan het eind
 van de onderwerpregel en gebruik het eerste  deel van de regel voor
 betekenisvolle woorden waaruit de inhoud van de e-mail blijkt.
 
-###7. Noem een locatie
+<h3>7. Noem een locatie</h3>
 Een effectieve manier om de aandacht te trekken en de openingskans te
 vergroten, is het toevoegen van een locatie. Lezers zijn eerder
 geneigd om de e-mail te openen als zij de betreffende plek kennen.
 
-###8. Promotie: vragen helpt
+<h3>8. Promotie: vragen helpt</h3>
 Vermijd het gebruik van uitroeptekens en hoofdletters. Dit komt
 schreeuwerig over. Vragen hebben vaak meer succes.
 
-###9. Onderwerpregels met 6-10 woorden maken de meeste kans
+<h3>9. Onderwerpregels met 6-10 woorden maken de meeste kans</h3>
 Een onderwerpregel met 6-10 woorden maakt een kans van 21% om geopend
 te worden. Gebruik je 11-15 woorden, dan daalt deze kans tot 15%.
 
-###10. Vermijd woorden als "gratis", "help" of "herinnering"
+<h3>10. Vermijd woorden als "gratis", "help" of "herinnering"</h3>
 Sommige woorden doen het beter dan andere. Zo kun je de woorden
 "gratis", "help" en "herinnering" beter vermijden. Ook "Re:" en "Fw:"
 kun je beter vermijden, omdat dit je hiermee de ontvanger misleidt.
 De volgende woorden doen het wel goed: "sale", "gratis verzending",
 "dagelijks", "video", "nieuws", "win" en "wekelijks".
 
-###11. Misleiden is lijden
+<h3>11. Misleiden is lijden</h3>
 <figure class="floatright shadow">
   <img src="/images/misleidend.jpg" alt="Twee verkeersborden die naar
   elkaar wijzen" >
@@ -111,14 +111,14 @@ staan tot het aangeboden voordeel, beloof niet meer dan je kunt
 waarmaken en kom aanbiedingen na!
 <br>
 
-###12. Speel in op behoeften, gebeurtenissen of problemen
+<h3>12. Speel in op behoeften, gebeurtenissen of problemen</h3>
 Ik kan het niet vaak genoeg benadrukken: ken je doelgroep! Om de
 aandacht van jouw doelgroep te trekken is het belangrijk dat je
 inspeelt op hun behoeften of problemen. Ook kun je inspelen op recente
 gebeurtenissen. Denk bijvoorbeeld aan een annulering of een
 bestelling.
 
-###13. Benadruk urgentie
+<h3>13. Benadruk urgentie</h3>
 "Vandaag voor 15:00 besteld, morgen in huis." We kennen deze kreten allemaal.
 Door de urgentie te benoemen, spoor je ontvangers aan tot actie. Gebruik
 termijnen echter niet te vaak of onterecht, anders raken ontvangers

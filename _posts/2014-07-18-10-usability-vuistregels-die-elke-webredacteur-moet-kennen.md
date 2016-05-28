@@ -27,7 +27,7 @@ ofwel, gebruikersvriendelijkheid.
 Vandaag geef ik je 10 vuistregels waarmee je kunt beoordelen of die
 leuke ideeën voor de nieuwe website, je bezoekers optimaal bedienen.
 
-###1. Laat zien wat er gebeurt
+<h3>1. Laat zien wat er gebeurt</h3>
 Geef de bezoeker feedback bij de handelingen die hij of zij doet.  
 Zo kun je bij het downloaden of uploaden van bestanden een tijdbalk
 tonen met de duur van het up- of downloadproces.   
@@ -35,13 +35,13 @@ Doorloopt je bezoeker een stappenplan bij het kopen van een product?
 Laat het aantal stappen zien en geef ook aan op welke stap de bezoeker
 zich op dat moment bevind.
 
-###2. Gebruik bekende woorden en metaforen
+<h3>2. Gebruik bekende woorden en metaforen</h3>
 Inventariseer de woorden die jouw doelgroep gebruikt en spreek hun
 taal. Vermijd dus technische taal, jargon of onbekende afkortingen.   
 Maak ook gebruik van icoontjes die iedereen kent. Zo weet iedereen dat
 een envelop staat voor “e-mail” en een vuilnisbak voor “verwijderen”.
 
-###3. Geef bezoekers vrijheid en controle
+<h3>3. Geef bezoekers vrijheid en controle</h3>
 <figure class="floatright">
   <a href="/images/amazon-geen-cancel-button.png"><img src="/images/amazon-geen-cancel-button.png" alt="De bezoeker kan de
   bestelling niet annuleren. De bezoeker heeft hier geen controle of
@@ -56,8 +56,7 @@ Een voorbeeld van vrijheid is de mogelijkheid om een verkeerd product
 uit het winkelmandje te halen of de optie om het aantal te wijzigen.
 
 
-
-###4. De bezoeker wil consistentie en houvast
+<h3>4. De bezoeker wil consistentie en houvast</h3>
 Wees consistent binnen je website. Geef iedere pagina op de site
 bijvoorbeeld dezelfde layout, anders zou de bezoeker kunnen denken dat
 hij op een andere website terecht is gekomen. Wees ook consistent in
@@ -67,7 +66,7 @@ beeld van hoe een website eruit hoort te zien.  Zo zijn links gekleurd
 en/of onderstreept, staat het logo links bovenin en bevindt het menu
 zich op bepaalde plaatsen. Hou je aan deze standaarden.
 
-###5. Voorkom dat bezoekers fouten maken
+<h3>5. Voorkom dat bezoekers fouten maken</h3>
 Help de bezoeker een handje. Laat de datum bijvoorbeeld niet handmatig
 invullen, maar laat de bezoeker een datum selecteren in een
 kalender. Of laat hem zijn provincie laten selecteren uit een
@@ -77,7 +76,7 @@ aanvullen als gerelateerde velden zijn ingevuld. Ook is het handig de
 bezoeker een formulier te laten controleren op fouten, voordat hij
 deze verstuurt.
 
-###6. Herkennen is belangrijker dan onthouden
+<h3>6. Herkennen is belangrijker dan onthouden</h3>
 <figure class="floatright">
   <a href="/images/kruimelpad.png">
   <img src="/images/kruimelpad.png" alt="Maak de locatie waar de
@@ -90,7 +89,7 @@ gebruik  iconen die iedereen kent.
 Geef bezoekers inzicht in hun bestellingsproces door aan te geven in welke stap zij zitten. Ook kun
 je een kruimelpad toevoegen aan de webpagina.
 
-###7. Richt de website flexibel en efficiënt in
+<h3>7. Richt de website flexibel en efficiënt in</h3>
 Zorg dat bezoekers snel en gemakkelijk toegang krijgen tot de meest
 gebruikte onderdelen, onderwerpen of artikelen op de website.  
 Voor nieuwe bezoekers is het belangrijk dat informatie vanuit meerdere
@@ -101,17 +100,17 @@ Voor gastbezoekers is het af te raden veel persoonsgegevens te vragen,
 omdat zij misschien maar één keer willen bestellen.   
 Een andere manier om je website flexibel te maken is personificatie. Bezoekers kunnen de site dan inrichten naar hun eigen wensen.
 
-###8. Hou het minimalistisch en esthetisch
+<h3>8. Hou het minimalistisch en esthetisch</h3>
 Biedt de bezoeker geen onnodige informatie of functionaliteiten
 aan. Hou het design rustig. Op deze manier leid je de bezoeker niet af
 van zijn taak.
 
-###9. Help fouten te herkennen, te diagnosticeren en te herstellen
+<h3>9. Help fouten te herkennen, te diagnosticeren en te herstellen</h3>
 Een mooi voorbeeld is de<a href="http://theknowsyferret.github.io/404-horror/"> 404-error</a>. Op
 deze pagina geef je aan wat er mis is gegaan, wat het probleem
 mogelijk veroorzaakt èn hoe de bezoeker het probleem op kan lossen.
 
-###10. Help de bezoeker
+<h3>10. Help de bezoeker</h3>
 Een duidelijke website spreekt voor zich. Toch zijn er momenten waarop
 een bezoeker hulp kan gebruiken.  
 Neem bijvoorbeeld een lijst van FAQ’s (veelgestelde vragen) op of maak contact met jouw bedrijf mogelijk. 

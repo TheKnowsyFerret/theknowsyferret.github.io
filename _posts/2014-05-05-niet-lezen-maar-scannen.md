@@ -32,7 +32,7 @@ probleem. Eindelijk heb ik een verwijderingsmiddel gevonden.
 
 
 
-##Webgebruikers scannen
+<h2>Webgebruikers scannen</h2>
 Zoals dit praktijkvoorbeeld duidelijk maakt, leest het web niet
 hetzelfde als een goed boek. Zo lees ik niet alle informatie van A tot
 Z, maar hop of scan ik de ene na de andere link of webpagina af, op
@@ -40,24 +40,24 @@ zoek naar specifieke informatie of tot het moment waarop iets mijn
 aandacht heeft gepakt.
 
 
-##Waarom scannen we webteksten?
+<h2>Waarom scannen we webteksten?</h2>
 Ok, zul je zeggen. Leuk, maar waarom scannen webgebruikers dan?
 Het artikel
 <a href="http://www.nngroup.com/articles/why-web-users-scan-instead-reading/">"Why web users scan instead of reading"</a>
 (1997) van Jakob Nielsen geeft vier mogelijke redenen:
 
-1.	**Lezen van een beeldscherm is vermoeiend**. Hierdoor lees je 25%
-      langzamer dan als je een boek of krant leest.  
-2.	**Het web is gericht op consumeren**. Je wilt actief aan de slag
-      gaan en op links klikken. Dat geeft je het idee dat je
-      productief bezig bent.  
-3.	 **Internet geeft een enorme keus**. Elke pagina moet met honderden
-       of miljoenen andere pagina’s concurreren om jouw aandacht.  
-4.	**De moderne mens heeft weinig tijd**. Als je het druk hebt, wil je
-      geen enorme lappen tekst lezen.  
+<ol>
+<li><em>Lezen van een beeldscherm is vermoeiend</em>. Hierdoor lees je
+25% langzamer dan als je een boek of krant leest.</li>
+<li><em>Het web is gericht op consumeren</em>. Je wilt actief aan de
+slag gaan en op links klikken. Dat geeft je het idee dat je productief bezig bent.</li>
+<li><em>Internet geeft een enorme keus</em>. Elke pagina moet met
+honderden of miljoenen andere pagina’s concurreren om jouw aandacht.</li>
+<li><em>De moderne mens heeft weinig tijd</em>. Als je het druk hebt, wil je
+geen enorme lappen tekst lezen.</li>
+</ol>
 
-
-##Maak je tekst scanbaar: structureer!
+<h2>Maak je tekst scanbaar: structureer!</h2>
 Kortom, wil je je webteksten makkelijk leesbaar maken voor webgebruikers? Structureer dan je teksten en maak ze scanbaar. 
 Maak gebruik van koppen, tussenkoppen, witregels en alinea’s. Ook
 opsommingen, plaatjes, kernzinnen, signaalwoorden en het aanbieden van

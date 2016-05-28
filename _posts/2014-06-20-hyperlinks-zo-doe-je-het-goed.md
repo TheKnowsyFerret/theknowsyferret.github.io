@@ -17,8 +17,7 @@ navigeren door je site. Vandaag geef ik je 11 tips voor het maken van
 effectieve hyperlinks.
 
 
-
-###1. Maak je links opvallend en scanbaar
+<h3>1. Maak je links opvallend en scanbaar</h3>
 <figure class="floatright">
   <img src="/images/link.jpg" alt="Foto van een ketting" >
   <figcaption>Foto: "Links" door <a href="http://tinyurl.com/qc2g4f7">Ruby Gold</a></figcaption>
@@ -28,7 +27,7 @@ Blauw is de meest onderscheidende kleur. Andere kleuren volstaan ook,
 maar houd rekening met lezers met een visuele beperking. Gebruik je
 bijvoorbeeld rood of groen, onderstreep de links dan zeker!
 
-###2. Geef hyperlinks een concrete naam
+<h3>2. Geef hyperlinks een concrete naam</h3>
 Bezoekers moeten na het lezen van een link direct kunnen inschatten wat zij op de vervolgpagina kunnen verwachten, zonder de omliggende tekst te hoeven lezen. Zorg er dus voor dat de naam van de link zo concreet mogelijk is.
 
 Dus niet:  
@@ -37,41 +36,41 @@ Dus niet:
 Maar:  
 "<span style="text-decoration: underline;">Wijzig je abonnement</span>"
 
-###3. Zet zoekwoorden vooraan in de link
+<h3>3. Zet zoekwoorden vooraan in de link</h3>
 Uit onderzoek blijkt dat bezoekers hooguit de eerste twee woorden scannen om te bepalen of de link voldoet aan hun informatiebehoefte. 
 Laat deze woorden ook  terugkomen in de kop of paragraaf van de pagina
 waar de link naartoe verwijst. Dit hoeft geen exacte kopie te
 zijn. Als het voor de lezer maar duidelijk is dat hij op de juist plek
 beland is.
 
-###4. Onderstreep geen woorden die geen link zijn
+<h3>4. Onderstreep geen woorden die geen link zijn</h3>
 Bezoekers zijn geprogrammeerd om onderstreepte woorden en zinsdelen als een link te zien. Maak je deze verwachting niet waar, dan leidt dit tot verwarring en teleurstelling.
 
-###5. Vermijd tekstkleur als de tekst geen link is
+<h3>5. Vermijd tekstkleur als de tekst geen link is</h3>
 Net als bij onderstreepte tekst, verwachten bezoekers dat gekleurde
 tekst “klikbaar” is.
 
-###6. Gebruik geen webadres (URL) als hyperlink
+<h3>6. Gebruik geen webadres (URL) als hyperlink</h3>
 Webadressen als links zijn moeilijk leesbaar en maken je pagina minder
 scanbaar.
 
-###7. Gebruik een unieke naam voor iedere link op dezelfde pagina 
+<h3>7. Gebruik een unieke naam voor iedere link op dezelfde pagina</h3> 
 Als je twee links hebt die hetzelfde heten,  denken bezoekers dat ze naar  dezelfde plaats verwijzen.
 
-###8. Plaats links niet te dicht op elkaar
+<h3>8. Plaats links niet te dicht op elkaar</h3>
 Bezoekers met een verminderde motoriek hebben moeite om ze aan te klikken.
 
-###9. Maak de link niet te lang
+<h3>9. Maak de link niet te lang</h3>
 Beperk je tot het minimaal aantal woorden die nodig zijn om te
 begrijpen waar de link naartoe verwijst.
 
-###10. Verander de kleur van de link als de bezoeker erop heeft geklikt
+<h3>10. Verander de kleur van de link als de bezoeker erop heeft geklikt</h3>
 Je bezoeker weet dan of deze link eerder is gebruikt of niet.
 Gebruik een heldere en opvallende kleur voor links waar nog niet op
 geklikt is. Is er op de link geklikt? Gebruik dan een minder heldere
 variant van dezelfde kleur.
 
-###11. Informeer en instrueer de bezoeker
+<h3>11. Informeer en instrueer de bezoeker</h3>
 Bezoekers van je site willen ook graag weten wat er na de klik op de link gebeurt. Geef daarom aan:
 
 <ul>

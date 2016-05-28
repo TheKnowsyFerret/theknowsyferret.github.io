@@ -24,28 +24,28 @@ verhogen!
   <figcaption>"Doneer nu": een duidelijke call-to-action</figcaption>
 </figure>
 
-##1. Geef duidelijk aan wat je organisatie doet
+<h2>1. Geef duidelijk aan wat je organisatie doet</h2>
 Donateurs willen weten wat de organisatie doet en op welke
 wijze. Leg dit uit op en duidelijke manier die makkelijk te begrijpen
 is. Wijdt ook niet te veel uit, maar hou het beknopt.
 
-##2. Vertel wat je met de donaties gaat doen
+<h2>2. Vertel wat je met de donaties gaat doen</h2>
 Wees open en eerlijk. Door aan te geven hoe je het geld gaat inzetten, voorkom je dat
 donateurs denken dat jouw organisatie iets te verbergen heeft.
 
-##3. Laat zien wie jou nog meer steunen
+<h2>3. Laat zien wie jou nog meer steunen</h2>
 Je kunt hierbij denken aan bekende organisaties of merken.. Daarnaast
 kun je melding maken van zogenaamde "watchdog" organisaties, zoals het
 Centraal Bureau Fondsenwerving. Ook getuigenissen van bestaande
 donateurs doen het goed.
 Hiermee versterk je je geloofwaardigheid en betrouwbaarheid.
 
-##4. Zorg voor een opvallende en duidelijke call-to-action
+<h2>4. Zorg voor een opvallende en duidelijke call-to-action</h2>
 Maak het donateurs gemakkelijk en zorg voor een link of button waarmee
 zij snel kunnen doneren. Geef deze link of button een duidelijke naam,
 zoals "Doneer" of "Doneer nu".
 
-##5. Stroomlijn het donatieproces
+<h2>5. Stroomlijn het donatieproces</h2>
 Donateurs zijn het meest bekend met het afrekenproces van online
 aankopen en weten wat zij hierbij kunnen verwachten. Maak hier gebruik
 van en boots dit proces na.

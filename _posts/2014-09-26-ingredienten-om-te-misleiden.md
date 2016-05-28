@@ -35,7 +35,7 @@ doen wat zij willen.
 
 Nieuwsgierig naar hun geheime recept? Hier zijn de ingrediënten:
 
-###Maak gebruik van kennis over het menselijk gedrag
+<h3>Maak gebruik van kennis over het menselijk gedrag</h3>
 Het aantal manieren waarop je de menselijke gedragswetten kunt
 inzetten, is werkelijk eindeloos. Ik geef je een paar voorbeelden.
 
@@ -122,18 +122,18 @@ maar van hotels.com"></a>
 <figcaption>Bron: Hotels.com</figcaption>
 </figure>
 
-###Easy in, difficult out
+<h3>Easy in, difficult out</h3>
 Maak het webgebruikers makkelijk om zich ergens op in te schrijven of aan te melden, maar maak het uitschrijven en afmelden lastig.<br> 
 Zo heb je in een mum van tijd een Google Adwords account
 aangemaakt. Wil je dit account echter weer verwijderen, dan moet je
 behoorlijk wat zoekwerk verrichten om tot de conclusie te komen dat
 verwijderen van het account niet mogelijk is!
 
-###Heb je excuus klaar
+<h3>Heb je excuus klaar</h3>
 Ben je als bedrijf betrapt? Zeg de webgebruiker dan dat je slechts
 wilde helpen of een suggestie deed.
 
-##Waarom is dit alles van belang?
+<h2>Waarom is dit alles van belang?</h2>
 Waar sommige bedrijven psychologische kennis toepassen om de gebruikersvriendelijkheid en gebruikerservaring te optimaliseren, maken andere bedrijven van dezelfde kennis gebruik om jou te misleiden.<br>
 Het gaat hierbij niet alleen om onbeduidende organisaties, maar ook om
 bekende merken. Zoals ik je liet zien, hebben zij slechts een paar simpele ingrediënten nodig om dit misleiden daadwerkelijk tot een succes te maken. 

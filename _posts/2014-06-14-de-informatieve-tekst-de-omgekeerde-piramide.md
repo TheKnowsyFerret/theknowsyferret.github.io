@@ -25,7 +25,7 @@ kernboodschap en eindigt met minder belangrijke informatie: de
 details.
 <br><br>
 
-##De omgekeerde piramide: de regels
+<h2>De omgekeerde piramide: de regels</h2>
 De omgekeerde piramide hanteert de volgende regels:  
 <ul>
 <li><strong>De kop geeft antwoord op de vragen "wat" en
@@ -56,7 +56,7 @@ afvallen, zonder dat de kern van de tekst erboven, verloren
 gaat. Kortom, als de lezer besluit alleen de kop en de lead (eerste
 alinea) wil lezen, krijgt hij of zij toch de kernboodschap mee.
 
-##Richtlijnen bij het schrijven van informatieve teksten
+<h2>Richtlijnen bij het schrijven van informatieve teksten</h2>
 Hou bij het schrijven van een informatieve tekst, naast de methode
 van de "omgekeerde piramide", rekening met de volgende
 richtlijnen. 

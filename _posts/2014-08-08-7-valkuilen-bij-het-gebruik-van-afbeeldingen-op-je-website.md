@@ -29,7 +29,7 @@ op gebruikersvriendelijkheid en zoekmachine optimalisatie (SEO).
 In deze post geef ik je 7 mogelijke valkuilen en hoe je deze kunt vermijden.
 
 
-##Valkuil 1: het bestand is te groot
+<h2>Valkuil 1: het bestand is te groot</h2>
 Afbeeldingen zijn vaak grote bestanden. Een nadeel hiervan is dat je website langzaam laadt. 
 Volgens Jakob Nielsen (2009) accepteren bezoekers slechts<a href="http://www.nngroup.com/articles/powers-of-10-time-scales-in-ux/">
 een laadtijd van 1 seconde</a>, zonder dat dit hun gedachtestroom
@@ -37,7 +37,7 @@ onderbreekt. Langere laadtijden geven bezoekers het gevoel dat niet zij niet lan
 
 De oplossing? Optimaliseer je afbeeldingen: maak ze kleiner (niet groter dan 200 kB) en sla ze op in het juiste bestandstype, zodat de kwaliteit van de afbeelding nagenoeg gelijk blijft.
 
-####Ik wil toch grote afbeeldingen gebruiken
+<h4>Ik wil toch grote afbeeldingen gebruiken</h4>
 Wil je toch grote afbeeldingen gebruiken? Maak dan gebruik van klikbare “thumbnails” op je website. Een thumbnail is een kleine weergave van het origineel. Klikt de bezoeker op een thumbnail, dan krijgt hij de grote afbeelding te zien. 
 
 Een mooi voorbeeld van een thumbnail in actie, zie je in mijn blogpost
@@ -45,7 +45,7 @@ Een mooi voorbeeld van een thumbnail in actie, zie je in mijn blogpost
 geven”</a>.
 
 
-##Valkuil 2: verkeerd gebruik van JPG, PNG en GIF
+<h2>Valkuil 2: verkeerd gebruik van JPG, PNG en GIF</h2>
 Bij het opslaan van afbeeldingen heb je de keuze uit drie
 mogelijkheden: GIF, JPG en PNG. Hier gaat het vaak mis, want wanneer
 kies je nou welk bestandstype? Ik adviseer het volgende:
@@ -80,7 +80,7 @@ Gebruik dit bestandstype als je een klein bestand hebt met weinig
 kleuren. GIF ondersteunt transparantie en animatie. 
 
 
-##Valkuil 3: de bestandsnaam is niet beschrijvend genoeg
+<h2>Valkuil 3: de bestandsnaam is niet beschrijvend genoeg</h2>
 Je staat er niet bij stil, maar zoekmachines kijken naar de bestandsnaam om af te leiden waar de afbeelding over gaat. Geef de afbeelding daarom een beschrijvende naam en voeg er zoekwoorden aan toe.
 
 Voorbeeld:  
@@ -92,7 +92,7 @@ geeft. Daarnaast bevat het relevante zoekwoorden, zoals “Ford Fiësta”
 (merk), “rood” (kleur) en “2014” (bouwjaar).
 
 
-##Valkuil 4: het alt-attribuut is niet beschrijvend genoeg
+<h2>Valkuil 4: het alt-attribuut is niet beschrijvend genoeg</h2>
 Dat je het alt-attribuut moet invullen is inmiddels bij iedereen duidelijk. Doe je dit namelijk niet, dan hebben bezoekers die de weergave van plaatjes uitzetten of mensen met een visuele handicap geen idee wat er op het plaatje staat. 
 
 Wat hier echter regelmatig fout gaat, is dat de alt-tekst vaak
@@ -113,7 +113,7 @@ duidelijk: voeg een merknaam toe of een andere specificatie waarin de
 horloges van elkaar te onderscheiden zijn.
 
 
-##Valkuil 5: Keyword stuffing
+<h2>Valkuil 5: Keyword stuffing</h2>
 Het opnemen van zoektermen in bestandsnamen, alt-teksten,  
 title-teksten en bijschriften is belangrijk. Ze zorgen ervoor dat de bezoeker het juiste plaatje vindt.
 
@@ -126,7 +126,7 @@ Het vermijden van “keyword stuffing” is makkelijk: gebruik
 de title-tekst.
 
 
-##Valkuil 6: de afbeeldingen voegen niks toe aan de inhoud
+<h2>Valkuil 6: de afbeeldingen voegen niks toe aan de inhoud</h2>
 Uit onderzoek van Jakob Nielsen (2010) blijkt dat bezoekers de
 voorkeur geven aan <a href="http://www.nngroup.com/articles/photos-as-web-content/">informatie dragende afbeeldingen<a/>. Decoratieve afbeeldingen werden genegeerd.
 
@@ -138,7 +138,7 @@ Kortom, gebruik afbeeldingen die:
 </ul>
 
 
-##Valkuil 7: het ontbreken van de "height" en "width" attributen
+<h2>Valkuil 7: het ontbreken van de "height" en "width" attributen</h2>
 Als je veel afbeeldingen hebt op je site, dan duurt het even voordat deze geladen zijn. Soms komt het voor dat je in deze laadperiode afbeeldingen en andere content op je scherm ziet verspringen.
 
 Dit is te voorkomen door de “height” en “width” attributen van het

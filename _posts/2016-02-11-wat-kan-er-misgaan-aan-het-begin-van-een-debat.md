@@ -45,9 +45,7 @@ voren. Even later is Trump aan de beurt, maar die lijkt zijn naam alweer niet ge
 <br>
 De hele slapstick is te zien in het volgende fimpje:
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/gFfl74N0DAU" frameborder="0"
-allowfullscreen></iframe>
+<iframe src="https://embed.theguardian.com/embed/video/us-news/video/2016/feb/06/republican-debate-awkward-introduction-donald-trump-ben-carson-video" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 
 <h2>Wat kunnen we van deze gebeurtenis leren?</h2>

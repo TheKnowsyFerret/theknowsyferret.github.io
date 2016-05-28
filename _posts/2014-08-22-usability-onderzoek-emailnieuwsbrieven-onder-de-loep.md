@@ -31,9 +31,9 @@ door middel van usability-onderzoek en eyetracking. Het resultaat zijn 16 onthul
 In deze blogpost geef ik een review van dit onderzoek: wat viel mij op tijdens het lezen van de resultaten? En…zijn de conclusies ècht onthullend?
 
 
-##Wat mij opviel
+<h2>Wat mij opviel</h2>
 
-###Gebruikerservaring naast gebruikersgemak
+<h3>Gebruikerservaring naast gebruikersgemak</h3>
 Het onderzoek draagt de naam “usability”. Dit suggereert dat het onderzoek zich alleen richt op het gebruikersgemak of
 gebruikersvriendelijkheid. Hoewel het onderzoek daar zeker naar kijkt,
 geeft het onderzoek ook inzicht in de rol van de <a
@@ -45,7 +45,7 @@ Het is voor organisaties dus zeker ook belangrijk dat zij in hun
 nieuwsbrief, naast gebruikersgemak, tegemoetkomen aan deze
 “emotionele” behoeften.
 
-###Scangedrag: F-patroon versus focus op het midden
+<h3>Scangedrag: F-patroon versus focus op het midden</h3>
 In 2006 liet Nielsen zien dat het scangedrag van weblezers een <a
 href="http://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/">
 F-patroon</a> vertoont. Het onderzoek van DDMA en Netprofiler lijkt
@@ -83,7 +83,7 @@ De vraag is echter of dit focussen op het midden ook geldt voor
 nieuwsbrieven met een andere layout of dat zich daar het bekende
 F-patroon laat zien.
 
-###Aansluiting afzender en de onderwerpsregel
+<h3>Aansluiting afzender en de onderwerpsregel</h3>
 Lezers waren geneigd de nieuwsbrief eerder te openen als de afzender en het onderwerp op elkaar aansloten.<br>
 Volgens het rapport werd de onderwerpsregel van HB Hair Careshop niet
 direct in verband gebracht met de organisatie, omdat hier naast haar-
@@ -100,7 +100,7 @@ href="http://www.nngroup.com/articles/e-mail-newsletters-usability/">fans
 en trouwe klanten</a> die op nieuwsbrieven geabonneerd zijn. In het
 onderzoek van Netprofiler was geen enkele respondent bekend met HB Care. Misschien dat enige bekendheid met de organisatie tot een ander resultaat had geleid. Onderzoek onder klanten en/of bekenden van HB Care is daarom dan ook gewenst.
 
-##En…zijn de conclusies onthullend?
+<h2>En…zijn de conclusies onthullend?</h2>
 Ja en nee.
 
 Nee, omdat de bevindingen in het rapport geen onthullingen zijn in die

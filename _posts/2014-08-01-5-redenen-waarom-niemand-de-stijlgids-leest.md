@@ -25,7 +25,7 @@ De praktijk wijst echter uit dat niemand hem leest!
 In deze post leg ik je uit waarom. Ook geef ik je tips, waarmee je de
 richtlijnen toch op je collega’s kunt overbrengen.
 
-##5 redenen waarom niemand de stijlgids leest
+<h2>5 redenen waarom niemand de stijlgids leest</h2>
 <ol>
 <li><strong>Stijlgidsen hebben een grote omvang</strong><br> Op zich heeft
 niemand iets tegen een stijlgids. Sterker nog, als je aan collega’s zou
@@ -48,7 +48,7 @@ deze tot in detail te beschrijven. Is uitleg echt nodig? Doe dit dan, maar hou h
 <li><strong>Stijlgidsen zijn rigide</strong><br> Strakke richtlijnen laten weinig ruimte over voor variatie, waardoor creativiteit weinig of geen ruimte krijgt.</li>
 </ol>
 
-##Is een stijlgids dan overbodig?
+<h2>Is een stijlgids dan overbodig?</h2>
 Wees gerust: een stijlgids is nog steeds een waardevol document!  
 Zo is het voor ervaren collega’s een handig naslagwerk en maakt het
 discussies over wat juist is, overbodig. Ook draagt een uniforme
@@ -56,7 +56,7 @@ schrijfstijl bij aan een professioneel imago. En komen er nieuwe
 medewerkers op de afdeling werken? Dan blijft de schrijfstijl
 onaangetast.
 
-##Hoe je de richtlijnen tòch tussen de oren krijgt
+<h2>Hoe je de richtlijnen tòch tussen de oren krijgt</h2>
 Wil je dat je collega’s toch aandacht schenken aan de richtlijnen, probeer dan deze tips eens uit:
 <ul>
 <li>Organiseer een wedstrijd voor meest toegankelijke tekst</li>

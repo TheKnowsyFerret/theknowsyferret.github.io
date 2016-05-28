@@ -36,7 +36,7 @@ verlopen, dan is het noodzakelijk om in ieder geval te beschikken over
 de volgende 14 eigenschappen.
 <br><br>
 
-###1. Reageer tijdig
+<h3>1. Reageer tijdig</h3>
 Klanten houden niet van wachten. Kijk dus op van achter je computer of
 stop met het opbergen van producten. Laat de klant zien dat hem hebt
 opgemerkt en dat hij jouw volledige aandacht heeft.<br>
@@ -46,29 +46,29 @@ bevestigingsbericht krijgen. Geef hierin aan dat de e-mail in
 goede orde is ontvangen en vergeet vooral niet aan te geven binnen
 welke termijn de klant antwoord krijgt.
 
-###2. Schrijf de naam van de klant op
+<h3>2. Schrijf de naam van de klant op</h3>
 Als je weet hoe de klant heet, kun je de klant bij zijn naam
 aanspreken. Dit maakt het gesprek persoonlijk. Ook is het opschrijven
 van een naam handig als je de klant moet doorverbinden met een
 collega of als je de klant later moet terugbellen.
 
-###3. Weet wat je verkoopt
+<h3>3. Weet wat je verkoopt</h3>
 Verdiep je in de producten of diensten die jouw bedrijf verkoopt en
 hou deze kennis op peil. Bedenk met welke problemen of vragen klanten
 kunnen komen en bestudeer alle mogelijke oplossingen en antwoorden. Op
 deze manier kun je een klant snel en efficiënt helpen. 
 
-###4. Ken je organisatie
+<h3>4. Ken je organisatie</h3>
 Weet wat andere medewerkers doen. Kom je in een complexe situatie
 terecht, dan weet je direct bij wie je kunt aankloppen.
 
-###5. Luister op een actieve manier
+<h3>5. Luister op een actieve manier</h3>
 Laat de klant merken dat je naar hem luistert. Dit doe je door de
 klant aan te kijken, af en toe te knikken en een open houding aan te
 nemen. Laat ook af en toe en stilte
 vallen. Stel vragen, vat samen en vraag door.
 
-###6. Ga een stapje verder
+<h3>6. Ga een stapje verder</h3>
 Doe net iets meer dan dat de klant van jou verwacht. Zo heb ik
 regelmatig mensen aan de telefoon gehad die ik door moest sturen naar
 een andere organisatie, omdat onze organisatie hen niet kon
@@ -76,7 +76,7 @@ helpen. Om de klant tegemoet te komen, zocht ik dan het telefoonnummer
 van die andere organisatie op. Dit gebaar scheelde de klant tijd en
 werd vaak positief gewaardeerd.
 
-###7. Gebruik positieve taal
+<h3>7. Gebruik positieve taal</h3>
 In feite komt dit neer op het denken in oplossingen in plaats van
 problemen. Het gebruik van positieve taal is de beste manier om de
 klant te bereiken. Vergelijk de volgende voorbeelden maar eens:
@@ -89,13 +89,13 @@ u reserveren. Wij versturen het product dan zodra het bij ons binnen
 is.</i>."</li>
 </ul>
 
-###8. Kom je belofte na
+<h3>8. Kom je belofte na</h3>
 Kom je belofte altijd na en beloof geen dingen die je niet waar kunt
 maken. Om te weten wat je wel en wat je niet kunt beloven, is het
 belangrijk om op de hoogte te zijn (en te blijven) van de regels en
 procedures binnen de organisatie.
 
-###9. Goed kunnen omgaan met stress en onverwachte situaties
+<h3>9. Goed kunnen omgaan met stress en onverwachte situaties</h3>
 Blijf altijd kalm, ook al is de klant dit niet. Blijf rustig en laat
 je niet van je stuk brengen.<br>
 Kom je in een onverwachte situatie terecht? Stel voor jezelf een noodplan
@@ -107,7 +107,7 @@ Daarnaast is het van belang om vooruit te kunnen denken, je aan te
 kunnen passen aan de situatie en een goede kennis te hebben van de
 producten, diensten, regels en procedures binnen de organisatie.
 
-###10. Maak gebruik van een follow-up
+<h3>10. Maak gebruik van een follow-up</h3>
 Heeft de klant een probleem of een vraag bij jou neergelegd en duurt het even
 voordat je een antwoord voor hem hebt? Hou hem dan op de hoogte van
 de ontwikkelingen. Ook als er geen ontwikkelingen zijn, stellen
@@ -116,7 +116,7 @@ laat je de klant weten dat je nog steeds aan hem denkt en dat je nog
 steeds aan zijn vraag of probleem
 werkt.
 
-###11. Wees oplettend
+<h3>11. Wees oplettend</h3>
 Klanten zeggen niet altijd direct wat zij van jou willen. Lees daarom
 tussen de regels door.  Welke termen gebruikt de klant? Wat zegt zijn
 lichaam? Klanten zullen bijvoorbeeld niet snel zeggen dat de
@@ -124,7 +124,7 @@ gebruikersvriendelijkheid van de website te wensen over laat. Ze
 zullen eerder zeggen dat ze een bepaalde knop niet kunnen vinden. Wees
 hierop alert!
 
-###12. Wees eerlijk, duidelijk en transparant
+<h3>12. Wees eerlijk, duidelijk en transparant</h3>
 Als je iets niet weet, zeg dat dan eerlijk. Zeg dat je het voor de
 klant zult uitzoeken en dat je hem daarover terugbelt. Doe
 dit ook! <br>
@@ -133,12 +133,12 @@ waarderen dit.<br>
 Daarnaast is het belangrijk om in je communicatie met de klant duidelijk
 te zijn. Draai niet om de hete brij heen, maar wees direct.
 
-###13. Wees geduldig
+<h3>13. Wees geduldig</h3>
 Dit is vooral van belang als klanten gefrustreerd of verward
 zijn. Probeer in zo'n situatie te achterhalen wat de wens of behoefte
 van de klant is en speel hierop in.
 
-###14. Hanteer een goede afsluitingstechniek
+<h3>14. Hanteer een goede afsluitingstechniek</h3>
 Weet wanneer een geprek is afgelopen en zorg ervoor dat de klant
 tevreden ophangt. Enkele voorbeelden:<br>
 Soms kun je een klant niet zelf helpen en moet je hem doorverbinden met een collega. Doe dit zo tijdig

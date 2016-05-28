@@ -26,7 +26,7 @@ opsommingen te werken: je blijft anders zoeken waar je gebleven was.
 
 Vandaag ga ik het hebben over opsommingen in webteksten.
 
-##Waarom gebruik je opsommingen?
+<h2>Waarom gebruik je opsommingen?</h2>
 Ten eerste gebruik je opsommingen omdat ze extra aandacht trekken. Ze geven structuur aan teksten en maken ze makkelijker leesbaar. 
 
 Ten tweede lijken opsommingen op een compacte samenvatting: ze komen direct tot de kern van de zaak.
@@ -37,7 +37,7 @@ Tot slot zijn opsommingen makkelijk te onthouden, zeker als het gaat
 om een verkopende tekst waarin je voordelen voor de lezer opsomt.
 
 
-##Opsommingen: de regels
+<h2>Opsommingen: de regels</h2>
 Net als koppen en alinea’s gelden bij het gebruik van bullets of
 opsommingen regels, waarmee de scannende lezer een webtekst efficiënt
 kan lezen. Hier komen ze:
@@ -51,7 +51,7 @@ kan lezen. Hier komen ze:
   verloren. Denk aan het leren van rijtjes woorden!
   
 
-##Welke informatie zet je in opsommingen?
+<h2>Welke informatie zet je in opsommingen?</h2>
 In opsommingen kun je verschillende soorten informatie kwijt. In
 webteksten ga je uit van de wensen en behoeften van de lezer. Kies
 daarom bij het gebruik van opsommingen dus voor:
@@ -63,7 +63,7 @@ of
 - Resultaten
 
 
-##Bullets of cijfers?
+<h2>Bullets of cijfers?</h2>
 Gebruik bullets als de volgorde van de opsomming niet belangrijk is. 
 Is de volgorde wel belangrijk? Gebruik dan cijfers.
 
