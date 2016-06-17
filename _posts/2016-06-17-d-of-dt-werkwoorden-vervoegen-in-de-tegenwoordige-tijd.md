@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "D, t of dt?! Werkwoorden vervoegen in de tegenwoordige tijd"
-description: " "
+description: "Vandaag laat ik je zien hoe makkelijk je dt-fouten in de tegenwoordige
+tijd kunt vermijden door gebruik te maken van een paar simpele regels"
 modified: 2016-06-17 11:28:04 +0200
 tags: [werkwoorden vervoegen, spelling, grammatica, tips]
 image:
