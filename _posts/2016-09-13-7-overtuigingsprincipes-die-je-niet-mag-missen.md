@@ -28,8 +28,8 @@ kopen.
 <a
 href="https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=19&cad=rja&uact=8&ved=0ahUKEwiS29HWrpHPAhWJ2xoKHZ7cDqUQmhMImgEwEg&url=http%3A%2F%2Fnl.wikipedia.org%2Fwiki%2FRobert_Cialdini&usg=AFQjCNEL1AFPTExvEpzG375GRIm9FRBgDg&sig2=bFnTVJktOBcr-iFxwvwOpA&bvm=bv.132479545,d.d2s">Robert
 Cialdini</a>, oud-hoogleraar psychologie en marketing, deed onderzoek
-naar de manier waarop wij ons laten overtuigen en ontdekte maar liefst
-7 beïnvloedingprincipes waarop huidige marketingtrucs zijn gebaseerd.
+naar de manier waarop we ons laten overtuigen en ontdekte maar liefst
+7 beïnvloedingsprincipes waarop huidige marketingtrucs zijn gebaseerd.
 
 In deze blogpost loop ik alle 7 principes af en laat ik je
 verschillende toepassingsmogelijkheden en voorbeelden zien. 
@@ -79,7 +79,7 @@ artikel is al bijna 4000 keer gedeeld op social media.">
 Naast deze manieren kun je het sociale bewijsvoering ook toepassen
 door op je website bijvoorbeeld een top-10 te geven van de meest
 bekeken producten. Ook kun je aangeven hoeveel mensen er op je social
-media kanalen en nieuwsbrief zijn geaboneerd. Tevens kun je aan sociale beïnvloeders
+media kanalen en nieuwsbrief zijn geabonneerd. Tevens kun je aan sociale beïnvloeders
 op jouw vakgebied vragen jouw content te delen. 
 
 
@@ -88,7 +88,7 @@ Een tweede manier om mensen te overtuigen is door gebruik te maken van
 autoriteit. We hebben veel vertrouwen in mensen die expert zijn,
 onafhankelijk zijn, tegen hun belang in voor jou handelen of die hoger
 staan in de hiërarchie. Ook mensen en organisaties die transparant
-zijn over wat zij doen genieten autoriteit. 
+zijn over wat ze doen genieten autoriteit. 
 
 <em>Webwinkel logo's</em><br>
 Een mooi praktijkvoorbeeld van het autoriteitsprincipe is het plaatsen
@@ -136,7 +136,7 @@ voorbeeld van het schaarste-principe.">
 
 <em>Tijdslimiet en competitie</em><br>
 Vakantieveilingen.nl gooit het over een andere boeg. Zij maakt gebruik van een timer en
-een veiling-omgeving om het gevoel van schaarste aan te wakkeren. Als consument voel je dat de tijd
+een veilingomgeving om het gevoel van schaarste aan te wakkeren. Als consument voel je dat de tijd
 dringt en je er snel bij moet zijn om te voorkomen dat een ander er
 met jouw vakantie of dagje uit vandoor gaat.
 
@@ -196,7 +196,7 @@ Als anderen iets ongevraagd voor jou doen, dan ben je geneigd iets
 terug te doen voor die persoon. Dat is het principe van
 wederkerigheid. Een bekend voorbeeld hiervan is het weggeven van
 gratis producten.
-Veel verkopers maken gebruik van deze techniek om 
+ 
 
 <h2>7. Eenheid</h2>
 Eenheid (saamhorigheid, eendracht) is het
