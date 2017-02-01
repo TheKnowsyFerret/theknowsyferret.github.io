@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Zo kies je afbeeldingen die bij je post passen"
+description: "Hier zijn 10 tips waarmee je de juiste afbeelding kunt
+kiezen voor elke blogpost"
 modified: 2017-01-31 10:54:30 +0100
 tags: [tips, howto]
 image:
@@ -69,7 +71,7 @@ jaren terug.
 Maak gebruik van afbeeldingen met een goede kwaliteit. Dat wil zeggen,
 een grootte van ongeveer 100 Kb, maar wel een hoge resolutie.
 
-<h2>Wees uniek en origineel</h2>
+<h2>Tip 9. Wees uniek en origineel</h2>
 In de optimale situatie kies je voor unieke afbeeldingen: afbeeldingen die niemand heeft en die overeenkomen met jouw missie, merkidentiteit, visie en boodschap.<br> 
 In dat geval is het beter om stockfoto’s te vermijden en een
 professionele fotograaf in te huren.
