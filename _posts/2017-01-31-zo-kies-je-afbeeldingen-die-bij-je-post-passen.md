@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 <figure>
-<img src="/images/.jpg" alt="jij-kiest.jpg">
+<img src="/images/jij-kiest.jpg" alt="You Choose monument">
 <figcaption>Bron: <a href="http://bit.ly/2kuH6Di">Tony Webster (Flickr)
 </a></figcaption>
 </figure>
