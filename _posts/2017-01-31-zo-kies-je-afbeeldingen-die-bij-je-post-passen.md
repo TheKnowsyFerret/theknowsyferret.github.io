@@ -13,8 +13,8 @@ comments: true
 share: true
 ---
 <figure>
-<img src="/images/welke_afbeelding_vraagteken.jpg" alt="">
-<figcaption>Bron: <a href="http://bit.ly/2iKS07i">Chris Potter (Flickr)
+<img src="/images/.jpg" alt="jij-kiest.jpg">
+<figcaption>Bron: <a href="http://bit.ly/2kuH6Di">Tony Webster (Flickr)
 </a></figcaption>
 </figure>
 
